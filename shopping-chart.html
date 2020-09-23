@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Bare - Start Bootstrap Template</title>
+  
+  <script src="js/sweetalert.min.js"></script>
+  <script src="js/bouncer.js"></script>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/datatables.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="font-awsome/css/all.css">
+
+      <!-- firebase -->
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.19.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.19.1/firebase-auth.js"></script>
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <div class="container-fluid p-0" >
+    <nav class="navbar navbar-expand-lg navbar-dark  static-top my-navbar ">
+      <div class="container">
+        <a class="navbar-brand" href="buy-card.html">TopCarder</a>
+  
+        <div class="text-light text-center"  >
+          
+              <a href="shopping-chart.html" class="text-light" style="text-decoration: none;"><i class="fas fa-cart-plus counter"> Chart: 0</i></a>
+        </div>
+        
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          
+          <ul class="navbar-nav ml-auto">
+            
+            
+            <li class="nav-item ">
+              <a class="nav-link" href="#"><i class="fas fa-wallet wallet"> Wallet: $ 0.00</i>
+                <span class="sr-only"></span>
+              </a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="buy-card.html"><i class="fab fa-cc-visa"> Buy Card</i></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="shopping-chart.html"><i class="fas fa-cart-arrow-down"> Chart</i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="profile.html"><i class="fas fa-user"> Profile</i>
+              </a>
+            </li>
+          </ul>
+        </div>
+        
+  
+  
+        
+        <div>
+          <a href="javascript: void(0);" onclick="signOut();" class="text-light" style="text-decoration: none;">
+              <img src="pics/logout.png" class="m-1" alt="" style="width: 15px; height: 15px;">
+          SignOut
+          </a>
+        </div>
+  
+      </div>
+    </nav>
+   </div>
+
+<!-- Alert Message -->
+<div id="message-box"></div>
+
+
+ <div class="text-center m-3">
+  <h4>Shopping Chart</h4>
+  <small>below are your selected cards</small>
+ 
+ </div>
+
+  <!-- Page Content -->
+  <div class="container text-center">
+    
+    <!-- table  -->
+    <table id="myTable" class="table table-striped table-bordered" style="width: 100%;" >
+      <thead>
+          <tr>
+              <th>ISSUER</th>
+              <th>CARD HOLDER</th>
+              <th>CARD NUMBER</th>
+              <th>EXPIRY</th>
+              <th>CVV</th>
+              <th>PRICE</th>
+              <th>STATUS</th>
+          </tr>
+      </thead>
+      <tbody id="shopping-table">
+          <tr>
+              <td>Tiger Nixon</td>
+              <td>System Architect</td>
+              <td>Edinburgh</td>
+              <td>61</td>
+              <td>2011/04/25</td>
+              <td>samtin</td>
+              <td><button class="btn btn-danger">Remove</button></td>
+          </tr>
+          <tr>
+              <td>Garrett Winters</td>
+              <td>Accountant</td>
+              <td>Tokyo</td>
+              <td>63</td>
+              <td>2011/07/25</td>
+              <td>samtin</td>
+              <td>$170,750</td>
+          </tr>
+          <tr>
+              <td>Ashton Cox</td>
+              <td>Junior Technical Author</td>
+              <td>San Francisco</td>
+              <td>66</td>
+              <td>2009/01/12</td>
+              <td>$86,000</td>
+              <td>sam</td>
+          </tr>
+          <tr>
+              <td>Cedric Kelly</td>
+              <td>Senior Javascript Developer</td>
+              <td>Edinburgh</td>
+              <td>22</td>
+              <td>2012/03/29</td>
+              <td>samtng</td>
+              <td>$433,060</td>
+          </tr>
+         
+      </tbody>
+      
+  </table>
+    <!-- end of table  -->
+    </div>
+
+    <!-- div -->
+    <div class="text-center m-2 total">
+      <p>Total : $ 53</p>
+    </div>
+
+    <!-- button control -->
+    <div class="text-center m-3">
+        <div class="btn-group text-center" >
+            <button class="btn btn-lg text-light" id="clear_btn" >Clear Chart</button>
+            <button class="btn btn-lg  text-light"  id="checkout_btn"  >CheckOut</button>
+        </div>
+    </div>
+
+
+    <!-- firebase functions custom js-->
+    <script src="js/login-functions.js"></script>
+  
+  <!-- Bootstrap core JavaScript -->
+  <script src="js/jquery.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="js/datatables.min.js"></script>
+  <script>
+    $(document).ready( function () {
+    $('#myTable').DataTable({
+      scrollX: 300
+    });
+} )
+  </script>
+  
+  <script src="js/functions.js"></script>
+  <script src="js/shopping-chart.js"></script>
+</body>
+
+</html>

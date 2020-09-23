@@ -1,0 +1,29 @@
+
+.full-screen{
+    background-image: url("../pics/credit-card4.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.full-screen .login-box {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-content{
+    
+    padding: 1%;
+    margin: 5%;
+}
