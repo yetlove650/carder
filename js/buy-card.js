@@ -1,8 +1,8 @@
 
 
 
- setWalletAmount(55);
-showWalletAmount();
+ //setWalletAmount(55);
+ //showWalletAmount();
 
 
 
