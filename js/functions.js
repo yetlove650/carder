@@ -32,6 +32,7 @@ function renderBuyCardTable(){
     
   });
 
+  $(".page-cover").hide();
  
 
 }
