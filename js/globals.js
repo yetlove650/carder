@@ -1,5 +1,7 @@
 
 
+
+
   (function (){
 
     let cardObjects = [
@@ -13,7 +15,7 @@
             "balance": "$900",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 14.94,
+            "price": "6.96",
             "id": 0
           },
           "customer": {
@@ -33,7 +35,7 @@
             "balance": "$711",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 8.86,
+            "price": "4.41",
             "id": 1
           },
           "customer": {
@@ -53,7 +55,7 @@
             "balance": "$445",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 6.06,
+            "price": "3.97",
             "id": 2
           },
           "customer": {
@@ -73,7 +75,7 @@
             "balance": "$649",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 11.85,
+            "price": "4.77",
             "id": 3
           },
           "customer": {
@@ -93,7 +95,7 @@
             "balance": "$151",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 13.85,
+            "price": "4.80",
             "id": 4
           },
           "customer": {
@@ -113,7 +115,7 @@
             "balance": "$10",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 6.4,
+            "price": "7.85",
             "id": 5
           },
           "customer": {
@@ -133,7 +135,7 @@
             "balance": "$148",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 13.11,
+            "price": "2.68",
             "id": 6
           },
           "customer": {
@@ -153,7 +155,7 @@
             "balance": "$457",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 13.17,
+            "price": "7.93",
             "id": 7
           },
           "customer": {
@@ -173,7 +175,7 @@
             "balance": "$423",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 13.18,
+            "price": "5.48",
             "id": 8
           },
           "customer": {
@@ -193,7 +195,7 @@
             "balance": "$773",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 7.8,
+            "price": "5.91",
             "id": 9
           },
           "customer": {
@@ -213,7 +215,7 @@
             "balance": "$433",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 8.24,
+            "price": "4.34",
             "id": 10
           },
           "customer": {
@@ -233,7 +235,7 @@
             "balance": "$570",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 8.71,
+            "price": "6.98",
             "id": 11
           },
           "customer": {
@@ -253,7 +255,7 @@
             "balance": "$109",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 8.06,
+            "price": "7.22",
             "id": 12
           },
           "customer": {
@@ -273,7 +275,7 @@
             "balance": "$619",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 13.82,
+            "price": "2.99",
             "id": 13
           },
           "customer": {
@@ -293,7 +295,7 @@
             "balance": "$293",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 9.77,
+            "price": "5.68",
             "id": 14
           },
           "customer": {
@@ -313,7 +315,7 @@
             "balance": "$292",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 12.06,
+            "price": "5.17",
             "id": 15
           },
           "customer": {
@@ -333,7 +335,7 @@
             "balance": "$358",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 9.49,
+            "price": "5.47",
             "id": 16
           },
           "customer": {
@@ -353,7 +355,7 @@
             "balance": "$504",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 15.24,
+            "price": "2.67",
             "id": 17
           },
           "customer": {
@@ -373,7 +375,7 @@
             "balance": "$167",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 13.62,
+            "price": "2.97",
             "id": 18
           },
           "customer": {
@@ -393,7 +395,7 @@
             "balance": "$483",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 8.28,
+            "price": "7.75",
             "id": 19
           },
           "customer": {
@@ -413,7 +415,7 @@
             "balance": "$211",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 8.71,
+            "price": "4.15",
             "id": 20
           },
           "customer": {
@@ -433,7 +435,7 @@
             "balance": "$91",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 11.69,
+            "price": "2.80",
             "id": 21
           },
           "customer": {
@@ -453,7 +455,7 @@
             "balance": "$297",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 6.72,
+            "price": "3.75",
             "id": 22
           },
           "customer": {
@@ -473,7 +475,7 @@
             "balance": "$738",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 9.92,
+            "price": "7.79",
             "id": 23
           },
           "customer": {
@@ -493,7 +495,7 @@
             "balance": "$863",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 13.1,
+            "price": "6.29",
             "id": 24
           },
           "customer": {
@@ -513,7 +515,7 @@
             "balance": "$166",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 15.61,
+            "price": "2.02",
             "id": 25
           },
           "customer": {
@@ -533,7 +535,7 @@
             "balance": "$970",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 7.29,
+            "price": "6.44",
             "id": 26
           },
           "customer": {
@@ -553,7 +555,7 @@
             "balance": "$272",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 15.14,
+            "price": "3.88",
             "id": 27
           },
           "customer": {
@@ -573,7 +575,7 @@
             "balance": "$928",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 8.93,
+            "price": "6.53",
             "id": 28
           },
           "customer": {
@@ -593,7 +595,7 @@
             "balance": "$677",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 6.51,
+            "price": "4.23",
             "id": 29
           },
           "customer": {
@@ -613,7 +615,7 @@
             "balance": "$52",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 13.59,
+            "price": "3.23",
             "id": 30
           },
           "customer": {
@@ -633,7 +635,7 @@
             "balance": "$422",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 7.07,
+            "price": "3.64",
             "id": 31
           },
           "customer": {
@@ -653,7 +655,7 @@
             "balance": "$739",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 6.18,
+            "price": "2.26",
             "id": 32
           },
           "customer": {
@@ -673,7 +675,7 @@
             "balance": "$678",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 7.81,
+            "price": "3.01",
             "id": 33
           },
           "customer": {
@@ -693,7 +695,7 @@
             "balance": "$409",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 11.11,
+            "price": "3.72",
             "id": 34
           },
           "customer": {
@@ -713,7 +715,7 @@
             "balance": "$397",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 10.01,
+            "price": "4.59",
             "id": 35
           },
           "customer": {
@@ -733,7 +735,7 @@
             "balance": "$899",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 10.77,
+            "price": "5.05",
             "id": 36
           },
           "customer": {
@@ -753,7 +755,7 @@
             "balance": "$259",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 13.14,
+            "price": "2.45",
             "id": 37
           },
           "customer": {
@@ -773,7 +775,7 @@
             "balance": "$221",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 13.28,
+            "price": "3.18",
             "id": 38
           },
           "customer": {
@@ -793,7 +795,7 @@
             "balance": "$847",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 11.39,
+            "price": "4.15",
             "id": 39
           },
           "customer": {
@@ -813,7 +815,7 @@
             "balance": "$600",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 14.24,
+            "price": "5.14",
             "id": 40
           },
           "customer": {
@@ -833,7 +835,7 @@
             "balance": "$655",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 10.46,
+            "price": "2.04",
             "id": 41
           },
           "customer": {
@@ -853,7 +855,7 @@
             "balance": "$857",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 6.99,
+            "price": "3.46",
             "id": 42
           },
           "customer": {
@@ -873,7 +875,7 @@
             "balance": "$218",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 8.43,
+            "price": "7.38",
             "id": 43
           },
           "customer": {
@@ -893,7 +895,7 @@
             "balance": "$408",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 9.67,
+            "price": "4.05",
             "id": 44
           },
           "customer": {
@@ -913,7 +915,7 @@
             "balance": "$255",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 11.23,
+            "price": "5.70",
             "id": 45
           },
           "customer": {
@@ -933,7 +935,7 @@
             "balance": "$69",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 10.77,
+            "price": "5.41",
             "id": 46
           },
           "customer": {
@@ -953,7 +955,7 @@
             "balance": "$626",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 15.68,
+            "price": "5.04",
             "id": 47
           },
           "customer": {
@@ -973,7 +975,7 @@
             "balance": "$68",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 9.49,
+            "price": "6.83",
             "id": 48
           },
           "customer": {
@@ -993,7 +995,7 @@
             "balance": "$205",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 13.67,
+            "price": "5.60",
             "id": 49
           },
           "customer": {
@@ -1013,7 +1015,7 @@
             "balance": "$82",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 14.57,
+            "price": "4.51",
             "id": 50
           },
           "customer": {
@@ -1033,7 +1035,7 @@
             "balance": "$73",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 7.33,
+            "price": "3.66",
             "id": 51
           },
           "customer": {
@@ -1053,7 +1055,7 @@
             "balance": "$706",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 9.16,
+            "price": "6.32",
             "id": 52
           },
           "customer": {
@@ -1073,7 +1075,7 @@
             "balance": "$892",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 14.95,
+            "price": "6.56",
             "id": 53
           },
           "customer": {
@@ -1093,7 +1095,7 @@
             "balance": "$486",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 14.94,
+            "price": "7.73",
             "id": 54
           },
           "customer": {
@@ -1113,7 +1115,7 @@
             "balance": "$925",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 12.04,
+            "price": "3.64",
             "id": 55
           },
           "customer": {
@@ -1133,7 +1135,7 @@
             "balance": "$515",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 7.16,
+            "price": "3.73",
             "id": 56
           },
           "customer": {
@@ -1153,7 +1155,7 @@
             "balance": "$107",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 8.94,
+            "price": "6.29",
             "id": 57
           },
           "customer": {
@@ -1173,7 +1175,7 @@
             "balance": "$699",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 14.65,
+            "price": "2.29",
             "id": 58
           },
           "customer": {
@@ -1193,7 +1195,7 @@
             "balance": "$530",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 12.4,
+            "price": "4.83",
             "id": 59
           },
           "customer": {
@@ -1213,7 +1215,7 @@
             "balance": "$976",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 14.14,
+            "price": "6.75",
             "id": 60
           },
           "customer": {
@@ -1233,7 +1235,7 @@
             "balance": "$507",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 8.47,
+            "price": "3.68",
             "id": 61
           },
           "customer": {
@@ -1253,7 +1255,7 @@
             "balance": "$172",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 9.03,
+            "price": "7.35",
             "id": 62
           },
           "customer": {
@@ -1273,7 +1275,7 @@
             "balance": "$53",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 8.33,
+            "price": "6.26",
             "id": 63
           },
           "customer": {
@@ -1293,7 +1295,7 @@
             "balance": "$8",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 12.52,
+            "price": "4.35",
             "id": 64
           },
           "customer": {
@@ -1313,7 +1315,7 @@
             "balance": "$109",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 6.09,
+            "price": "5.42",
             "id": 65
           },
           "customer": {
@@ -1333,7 +1335,7 @@
             "balance": "$826",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 14.71,
+            "price": "4.78",
             "id": 66
           },
           "customer": {
@@ -1353,7 +1355,7 @@
             "balance": "$978",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 9.21,
+            "price": "5.57",
             "id": 67
           },
           "customer": {
@@ -1373,7 +1375,7 @@
             "balance": "$898",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 8.82,
+            "price": "2.23",
             "id": 68
           },
           "customer": {
@@ -1393,7 +1395,7 @@
             "balance": "$315",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 12.36,
+            "price": "4.23",
             "id": 69
           },
           "customer": {
@@ -1413,7 +1415,7 @@
             "balance": "$26",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 8.83,
+            "price": "7.55",
             "id": 70
           },
           "customer": {
@@ -1433,7 +1435,7 @@
             "balance": "$981",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 14.16,
+            "price": "2.25",
             "id": 71
           },
           "customer": {
@@ -1453,7 +1455,7 @@
             "balance": "$562",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 14.63,
+            "price": "2.08",
             "id": 72
           },
           "customer": {
@@ -1473,7 +1475,7 @@
             "balance": "$918",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 6.95,
+            "price": "3.27",
             "id": 73
           },
           "customer": {
@@ -1493,7 +1495,7 @@
             "balance": "$518",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 15.46,
+            "price": "5.47",
             "id": 74
           },
           "customer": {
@@ -1513,7 +1515,7 @@
             "balance": "$799",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 8.11,
+            "price": "2.81",
             "id": 75
           },
           "customer": {
@@ -1533,7 +1535,7 @@
             "balance": "$641",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 13.22,
+            "price": "4.46",
             "id": 76
           },
           "customer": {
@@ -1553,7 +1555,7 @@
             "balance": "$741",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 7.32,
+            "price": "4.22",
             "id": 77
           },
           "customer": {
@@ -1573,7 +1575,7 @@
             "balance": "$657",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 11.26,
+            "price": "2.30",
             "id": 78
           },
           "customer": {
@@ -1593,7 +1595,7 @@
             "balance": "$224",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 11.26,
+            "price": "3.09",
             "id": 79
           },
           "customer": {
@@ -1613,7 +1615,7 @@
             "balance": "$655",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 8.14,
+            "price": "7.74",
             "id": 80
           },
           "customer": {
@@ -1633,7 +1635,7 @@
             "balance": "$641",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 9.64,
+            "price": "5.00",
             "id": 81
           },
           "customer": {
@@ -1653,7 +1655,7 @@
             "balance": "$178",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 10.67,
+            "price": "5.43",
             "id": 82
           },
           "customer": {
@@ -1673,7 +1675,7 @@
             "balance": "$967",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 15.37,
+            "price": "2.09",
             "id": 83
           },
           "customer": {
@@ -1693,7 +1695,7 @@
             "balance": "$442",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 13.97,
+            "price": "4.48",
             "id": 84
           },
           "customer": {
@@ -1713,7 +1715,7 @@
             "balance": "$733",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 8.86,
+            "price": "5.20",
             "id": 85
           },
           "customer": {
@@ -1733,7 +1735,7 @@
             "balance": "$504",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 12.04,
+            "price": "5.91",
             "id": 86
           },
           "customer": {
@@ -1753,7 +1755,7 @@
             "balance": "$769",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 15.05,
+            "price": "5.56",
             "id": 87
           },
           "customer": {
@@ -1773,7 +1775,7 @@
             "balance": "$364",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 9.68,
+            "price": "3.22",
             "id": 88
           },
           "customer": {
@@ -1793,7 +1795,7 @@
             "balance": "$966",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 8.05,
+            "price": "5.89",
             "id": 89
           },
           "customer": {
@@ -1813,7 +1815,7 @@
             "balance": "$793",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 14.45,
+            "price": "3.68",
             "id": 90
           },
           "customer": {
@@ -1833,7 +1835,7 @@
             "balance": "$693",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 10.37,
+            "price": "2.09",
             "id": 91
           },
           "customer": {
@@ -1853,7 +1855,7 @@
             "balance": "$827",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 7.78,
+            "price": "5.55",
             "id": 92
           },
           "customer": {
@@ -1873,7 +1875,7 @@
             "balance": "$82",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 10.36,
+            "price": "5.53",
             "id": 93
           },
           "customer": {
@@ -1893,7 +1895,7 @@
             "balance": "$571",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 8.16,
+            "price": "5.57",
             "id": 94
           },
           "customer": {
@@ -1913,7 +1915,7 @@
             "balance": "$580",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 14.7,
+            "price": "6.49",
             "id": 95
           },
           "customer": {
@@ -1933,7 +1935,7 @@
             "balance": "$636",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 7.06,
+            "price": "3.55",
             "id": 96
           },
           "customer": {
@@ -1953,7 +1955,7 @@
             "balance": "$349",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 8.57,
+            "price": "7.39",
             "id": 97
           },
           "customer": {
@@ -1973,7 +1975,7 @@
             "balance": "$28",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 6.73,
+            "price": "7.19",
             "id": 98
           },
           "customer": {
@@ -1993,7 +1995,7 @@
             "balance": "$178",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 6,
+            "price": "6.87",
             "id": 99
           },
           "customer": {
@@ -2013,7 +2015,7 @@
             "balance": "$363",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 10.18,
+            "price": "5.99",
             "id": 100
           },
           "customer": {
@@ -2033,7 +2035,7 @@
             "balance": "$584",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 13.85,
+            "price": "3.77",
             "id": 101
           },
           "customer": {
@@ -2053,7 +2055,7 @@
             "balance": "$647",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 13.5,
+            "price": "2.88",
             "id": 102
           },
           "customer": {
@@ -2073,7 +2075,7 @@
             "balance": "$67",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 11.35,
+            "price": "2.71",
             "id": 103
           },
           "customer": {
@@ -2093,7 +2095,7 @@
             "balance": "$427",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 11.19,
+            "price": "4.43",
             "id": 104
           },
           "customer": {
@@ -2113,7 +2115,7 @@
             "balance": "$941",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 15.13,
+            "price": "7.14",
             "id": 105
           },
           "customer": {
@@ -2133,7 +2135,7 @@
             "balance": "$887",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 8.32,
+            "price": "7.48",
             "id": 106
           },
           "customer": {
@@ -2153,7 +2155,7 @@
             "balance": "$731",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 13.76,
+            "price": "5.72",
             "id": 107
           },
           "customer": {
@@ -2173,7 +2175,7 @@
             "balance": "$637",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 6.52,
+            "price": "5.51",
             "id": 108
           },
           "customer": {
@@ -2193,7 +2195,7 @@
             "balance": "$137",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 9.38,
+            "price": "8.00",
             "id": 109
           },
           "customer": {
@@ -2213,7 +2215,7 @@
             "balance": "$524",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 7.49,
+            "price": "3.48",
             "id": 110
           },
           "customer": {
@@ -2233,7 +2235,7 @@
             "balance": "$380",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 7.47,
+            "price": "5.70",
             "id": 111
           },
           "customer": {
@@ -2253,7 +2255,7 @@
             "balance": "$358",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 7.73,
+            "price": "2.63",
             "id": 112
           },
           "customer": {
@@ -2273,7 +2275,7 @@
             "balance": "$43",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 6.32,
+            "price": "6.98",
             "id": 113
           },
           "customer": {
@@ -2293,7 +2295,7 @@
             "balance": "$421",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 13.1,
+            "price": "4.38",
             "id": 114
           },
           "customer": {
@@ -2313,7 +2315,7 @@
             "balance": "$610",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 15.01,
+            "price": "4.71",
             "id": 115
           },
           "customer": {
@@ -2333,7 +2335,7 @@
             "balance": "$612",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 13.01,
+            "price": "5.65",
             "id": 116
           },
           "customer": {
@@ -2353,7 +2355,7 @@
             "balance": "$293",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 12.21,
+            "price": "2.83",
             "id": 117
           },
           "customer": {
@@ -2373,7 +2375,7 @@
             "balance": "$44",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 12.48,
+            "price": "5.30",
             "id": 118
           },
           "customer": {
@@ -2393,7 +2395,7 @@
             "balance": "$231",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 9.3,
+            "price": "3.87",
             "id": 119
           },
           "customer": {
@@ -2413,7 +2415,7 @@
             "balance": "$299",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 9.47,
+            "price": "7.36",
             "id": 120
           },
           "customer": {
@@ -2433,7 +2435,7 @@
             "balance": "$153",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 8.65,
+            "price": "4.49",
             "id": 121
           },
           "customer": {
@@ -2453,7 +2455,7 @@
             "balance": "$849",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 6.27,
+            "price": "4.49",
             "id": 122
           },
           "customer": {
@@ -2473,7 +2475,7 @@
             "balance": "$610",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 14.44,
+            "price": "4.78",
             "id": 123
           },
           "customer": {
@@ -2493,7 +2495,7 @@
             "balance": "$321",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 9.48,
+            "price": "4.59",
             "id": 124
           },
           "customer": {
@@ -2513,7 +2515,7 @@
             "balance": "$311",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 9.29,
+            "price": "7.43",
             "id": 125
           },
           "customer": {
@@ -2533,7 +2535,7 @@
             "balance": "$135",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 13.2,
+            "price": "6.38",
             "id": 126
           },
           "customer": {
@@ -2553,7 +2555,7 @@
             "balance": "$564",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 10.77,
+            "price": "6.19",
             "id": 127
           },
           "customer": {
@@ -2573,7 +2575,7 @@
             "balance": "$318",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 9.77,
+            "price": "2.06",
             "id": 128
           },
           "customer": {
@@ -2593,7 +2595,7 @@
             "balance": "$529",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 11.1,
+            "price": "3.02",
             "id": 129
           },
           "customer": {
@@ -2613,7 +2615,7 @@
             "balance": "$38",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 9.97,
+            "price": "6.93",
             "id": 130
           },
           "customer": {
@@ -2633,7 +2635,7 @@
             "balance": "$256",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 12.22,
+            "price": "2.71",
             "id": 131
           },
           "customer": {
@@ -2653,7 +2655,7 @@
             "balance": "$159",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 8.98,
+            "price": "4.72",
             "id": 132
           },
           "customer": {
@@ -2673,7 +2675,7 @@
             "balance": "$653",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 11.31,
+            "price": "7.08",
             "id": 133
           },
           "customer": {
@@ -2693,7 +2695,7 @@
             "balance": "$130",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 6.76,
+            "price": "4.80",
             "id": 134
           },
           "customer": {
@@ -2713,7 +2715,7 @@
             "balance": "$257",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 11.57,
+            "price": "3.96",
             "id": 135
           },
           "customer": {
@@ -2733,7 +2735,7 @@
             "balance": "$457",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 9.47,
+            "price": "7.79",
             "id": 136
           },
           "customer": {
@@ -2753,7 +2755,7 @@
             "balance": "$463",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 12.54,
+            "price": "5.59",
             "id": 137
           },
           "customer": {
@@ -2773,7 +2775,7 @@
             "balance": "$997",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 15.62,
+            "price": "3.88",
             "id": 138
           },
           "customer": {
@@ -2793,7 +2795,7 @@
             "balance": "$561",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 14.75,
+            "price": "5.87",
             "id": 139
           },
           "customer": {
@@ -2813,7 +2815,7 @@
             "balance": "$923",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 10.94,
+            "price": "3.31",
             "id": 140
           },
           "customer": {
@@ -2833,7 +2835,7 @@
             "balance": "$395",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 12.56,
+            "price": "3.71",
             "id": 141
           },
           "customer": {
@@ -2853,7 +2855,7 @@
             "balance": "$550",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 10.2,
+            "price": "5.17",
             "id": 142
           },
           "customer": {
@@ -2873,7 +2875,7 @@
             "balance": "$320",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 15.22,
+            "price": "4.16",
             "id": 143
           },
           "customer": {
@@ -2893,7 +2895,7 @@
             "balance": "$56",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 8.58,
+            "price": "7.56",
             "id": 144
           },
           "customer": {
@@ -2913,7 +2915,7 @@
             "balance": "$479",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 7.56,
+            "price": "3.20",
             "id": 145
           },
           "customer": {
@@ -2933,7 +2935,7 @@
             "balance": "$612",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 15.63,
+            "price": "3.08",
             "id": 146
           },
           "customer": {
@@ -2953,7 +2955,7 @@
             "balance": "$179",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 14.73,
+            "price": "7.33",
             "id": 147
           },
           "customer": {
@@ -2973,7 +2975,7 @@
             "balance": "$362",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 11.63,
+            "price": "3.21",
             "id": 148
           },
           "customer": {
@@ -2993,7 +2995,7 @@
             "balance": "$868",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 11.97,
+            "price": "7.18",
             "id": 149
           },
           "customer": {
@@ -3013,7 +3015,7 @@
             "balance": "$901",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 6.31,
+            "price": "6.22",
             "id": 150
           },
           "customer": {
@@ -3033,7 +3035,7 @@
             "balance": "$400",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 7.92,
+            "price": "4.78",
             "id": 151
           },
           "customer": {
@@ -3053,7 +3055,7 @@
             "balance": "$389",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 9.08,
+            "price": "7.67",
             "id": 152
           },
           "customer": {
@@ -3073,7 +3075,7 @@
             "balance": "$148",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 13.29,
+            "price": "5.85",
             "id": 153
           },
           "customer": {
@@ -3093,7 +3095,7 @@
             "balance": "$767",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 15.19,
+            "price": "2.94",
             "id": 154
           },
           "customer": {
@@ -3113,7 +3115,7 @@
             "balance": "$429",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 15.08,
+            "price": "4.05",
             "id": 155
           },
           "customer": {
@@ -3133,7 +3135,7 @@
             "balance": "$580",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 9.07,
+            "price": "6.31",
             "id": 156
           },
           "customer": {
@@ -3153,7 +3155,7 @@
             "balance": "$125",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 6.18,
+            "price": "7.73",
             "id": 157
           },
           "customer": {
@@ -3173,7 +3175,7 @@
             "balance": "$505",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 13.45,
+            "price": "7.61",
             "id": 158
           },
           "customer": {
@@ -3193,7 +3195,7 @@
             "balance": "$175",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 7.77,
+            "price": "7.17",
             "id": 159
           },
           "customer": {
@@ -3213,7 +3215,7 @@
             "balance": "$787",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 12.05,
+            "price": "4.96",
             "id": 160
           },
           "customer": {
@@ -3233,7 +3235,7 @@
             "balance": "$804",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 8.32,
+            "price": "6.55",
             "id": 161
           },
           "customer": {
@@ -3253,7 +3255,7 @@
             "balance": "$149",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 11.84,
+            "price": "2.47",
             "id": 162
           },
           "customer": {
@@ -3273,7 +3275,7 @@
             "balance": "$378",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 8.13,
+            "price": "4.74",
             "id": 163
           },
           "customer": {
@@ -3293,7 +3295,7 @@
             "balance": "$585",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 11.95,
+            "price": "5.69",
             "id": 164
           },
           "customer": {
@@ -3313,7 +3315,7 @@
             "balance": "$738",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 6.35,
+            "price": "7.41",
             "id": 165
           },
           "customer": {
@@ -3333,7 +3335,7 @@
             "balance": "$678",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 10.62,
+            "price": "4.64",
             "id": 166
           },
           "customer": {
@@ -3353,7 +3355,7 @@
             "balance": "$357",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 14.69,
+            "price": "4.78",
             "id": 167
           },
           "customer": {
@@ -3373,7 +3375,7 @@
             "balance": "$353",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 10.52,
+            "price": "7.87",
             "id": 168
           },
           "customer": {
@@ -3393,7 +3395,7 @@
             "balance": "$991",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 6.56,
+            "price": "2.13",
             "id": 169
           },
           "customer": {
@@ -3413,7 +3415,7 @@
             "balance": "$99",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 10.66,
+            "price": "3.46",
             "id": 170
           },
           "customer": {
@@ -3433,7 +3435,7 @@
             "balance": "$523",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 13.93,
+            "price": "3.98",
             "id": 171
           },
           "customer": {
@@ -3453,7 +3455,7 @@
             "balance": "$350",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 14.85,
+            "price": "7.52",
             "id": 172
           },
           "customer": {
@@ -3473,7 +3475,7 @@
             "balance": "$494",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 9.9,
+            "price": "5.76",
             "id": 173
           },
           "customer": {
@@ -3493,7 +3495,7 @@
             "balance": "$559",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 8.15,
+            "price": "7.87",
             "id": 174
           },
           "customer": {
@@ -3513,7 +3515,7 @@
             "balance": "$389",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 10.82,
+            "price": "6.91",
             "id": 175
           },
           "customer": {
@@ -3533,7 +3535,7 @@
             "balance": "$379",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 8.71,
+            "price": "3.82",
             "id": 176
           },
           "customer": {
@@ -3553,7 +3555,7 @@
             "balance": "$495",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 7.37,
+            "price": "6.23",
             "id": 177
           },
           "customer": {
@@ -3573,7 +3575,7 @@
             "balance": "$517",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 10.37,
+            "price": "2.56",
             "id": 178
           },
           "customer": {
@@ -3593,7 +3595,7 @@
             "balance": "$426",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 6.21,
+            "price": "3.44",
             "id": 179
           },
           "customer": {
@@ -3613,7 +3615,7 @@
             "balance": "$505",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 7.62,
+            "price": "7.17",
             "id": 180
           },
           "customer": {
@@ -3633,7 +3635,7 @@
             "balance": "$369",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 8.95,
+            "price": "6.38",
             "id": 181
           },
           "customer": {
@@ -3653,7 +3655,7 @@
             "balance": "$35",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 12.31,
+            "price": "2.37",
             "id": 182
           },
           "customer": {
@@ -3673,7 +3675,7 @@
             "balance": "$698",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 12.1,
+            "price": "7.20",
             "id": 183
           },
           "customer": {
@@ -3693,7 +3695,7 @@
             "balance": "$145",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 12.58,
+            "price": "6.39",
             "id": 184
           },
           "customer": {
@@ -3713,7 +3715,7 @@
             "balance": "$618",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 10.26,
+            "price": "5.14",
             "id": 185
           },
           "customer": {
@@ -3733,7 +3735,7 @@
             "balance": "$34",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 7.28,
+            "price": "5.72",
             "id": 186
           },
           "customer": {
@@ -3753,7 +3755,7 @@
             "balance": "$189",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 13.68,
+            "price": "4.30",
             "id": 187
           },
           "customer": {
@@ -3773,7 +3775,7 @@
             "balance": "$871",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 6.53,
+            "price": "5.25",
             "id": 188
           },
           "customer": {
@@ -3793,7 +3795,7 @@
             "balance": "$262",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 11.39,
+            "price": "2.48",
             "id": 189
           },
           "customer": {
@@ -3813,7 +3815,7 @@
             "balance": "$131",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 11.42,
+            "price": "7.97",
             "id": 190
           },
           "customer": {
@@ -3833,7 +3835,7 @@
             "balance": "$706",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 11.22,
+            "price": "3.66",
             "id": 191
           },
           "customer": {
@@ -3853,7 +3855,7 @@
             "balance": "$843",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 12.87,
+            "price": "3.48",
             "id": 192
           },
           "customer": {
@@ -3873,7 +3875,7 @@
             "balance": "$607",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 11.98,
+            "price": "5.39",
             "id": 193
           },
           "customer": {
@@ -3893,7 +3895,7 @@
             "balance": "$85",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 9.99,
+            "price": "6.04",
             "id": 194
           },
           "customer": {
@@ -3913,7 +3915,7 @@
             "balance": "$299",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 15.12,
+            "price": "6.13",
             "id": 195
           },
           "customer": {
@@ -3933,7 +3935,7 @@
             "balance": "$76",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 12.98,
+            "price": "3.57",
             "id": 196
           },
           "customer": {
@@ -3953,7 +3955,7 @@
             "balance": "$31",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 14.02,
+            "price": "2.85",
             "id": 197
           },
           "customer": {
@@ -3973,7 +3975,7 @@
             "balance": "$937",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 8.97,
+            "price": "3.37",
             "id": 198
           },
           "customer": {
@@ -3993,7 +3995,7 @@
             "balance": "$564",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 7.54,
+            "price": "7.87",
             "id": 199
           },
           "customer": {
@@ -4013,7 +4015,7 @@
             "balance": "$863",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 6.68,
+            "price": "4.61",
             "id": 200
           },
           "customer": {
@@ -4033,7 +4035,7 @@
             "balance": "$785",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 12.73,
+            "price": "6.65",
             "id": 201
           },
           "customer": {
@@ -4053,7 +4055,7 @@
             "balance": "$415",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 14.21,
+            "price": "4.32",
             "id": 202
           },
           "customer": {
@@ -4073,7 +4075,7 @@
             "balance": "$946",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 9.77,
+            "price": "4.77",
             "id": 203
           },
           "customer": {
@@ -4093,7 +4095,7 @@
             "balance": "$348",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 8.25,
+            "price": "7.35",
             "id": 204
           },
           "customer": {
@@ -4113,7 +4115,7 @@
             "balance": "$926",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 14.55,
+            "price": "3.46",
             "id": 205
           },
           "customer": {
@@ -4133,7 +4135,7 @@
             "balance": "$728",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 6.55,
+            "price": "3.59",
             "id": 206
           },
           "customer": {
@@ -4153,7 +4155,7 @@
             "balance": "$982",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 15.76,
+            "price": "7.11",
             "id": 207
           },
           "customer": {
@@ -4173,7 +4175,7 @@
             "balance": "$218",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 9.87,
+            "price": "6.55",
             "id": 208
           },
           "customer": {
@@ -4193,7 +4195,7 @@
             "balance": "$509",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 9.34,
+            "price": "3.26",
             "id": 209
           },
           "customer": {
@@ -4213,7 +4215,7 @@
             "balance": "$732",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 8,
+            "price": "6.27",
             "id": 210
           },
           "customer": {
@@ -4233,7 +4235,7 @@
             "balance": "$675",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 15.17,
+            "price": "3.63",
             "id": 211
           },
           "customer": {
@@ -4253,7 +4255,7 @@
             "balance": "$997",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 10.42,
+            "price": "7.07",
             "id": 212
           },
           "customer": {
@@ -4273,7 +4275,7 @@
             "balance": "$358",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 15.81,
+            "price": "2.89",
             "id": 213
           },
           "customer": {
@@ -4293,7 +4295,7 @@
             "balance": "$652",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 15.47,
+            "price": "6.18",
             "id": 214
           },
           "customer": {
@@ -4313,7 +4315,7 @@
             "balance": "$751",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 6.98,
+            "price": "7.41",
             "id": 215
           },
           "customer": {
@@ -4333,7 +4335,7 @@
             "balance": "$413",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 14.19,
+            "price": "5.11",
             "id": 216
           },
           "customer": {
@@ -4353,7 +4355,7 @@
             "balance": "$435",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 7.37,
+            "price": "4.78",
             "id": 217
           },
           "customer": {
@@ -4373,7 +4375,7 @@
             "balance": "$195",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 8.71,
+            "price": "3.89",
             "id": 218
           },
           "customer": {
@@ -4393,7 +4395,7 @@
             "balance": "$944",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 13.65,
+            "price": "6.32",
             "id": 219
           },
           "customer": {
@@ -4413,7 +4415,7 @@
             "balance": "$522",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 12.55,
+            "price": "7.30",
             "id": 220
           },
           "customer": {
@@ -4433,7 +4435,7 @@
             "balance": "$950",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 12.81,
+            "price": "6.13",
             "id": 221
           },
           "customer": {
@@ -4453,7 +4455,7 @@
             "balance": "$469",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 11.65,
+            "price": "6.86",
             "id": 222
           },
           "customer": {
@@ -4473,7 +4475,7 @@
             "balance": "$736",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 9.73,
+            "price": "5.64",
             "id": 223
           },
           "customer": {
@@ -4493,7 +4495,7 @@
             "balance": "$41",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 12.76,
+            "price": "3.29",
             "id": 224
           },
           "customer": {
@@ -4513,7 +4515,7 @@
             "balance": "$428",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 6.48,
+            "price": "5.89",
             "id": 225
           },
           "customer": {
@@ -4533,7 +4535,7 @@
             "balance": "$172",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 9.75,
+            "price": "5.77",
             "id": 226
           },
           "customer": {
@@ -4553,7 +4555,7 @@
             "balance": "$537",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 13.02,
+            "price": "7.95",
             "id": 227
           },
           "customer": {
@@ -4573,7 +4575,7 @@
             "balance": "$286",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 11.91,
+            "price": "2.79",
             "id": 228
           },
           "customer": {
@@ -4593,7 +4595,7 @@
             "balance": "$927",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 10.53,
+            "price": "7.08",
             "id": 229
           },
           "customer": {
@@ -4613,7 +4615,7 @@
             "balance": "$532",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 12.16,
+            "price": "7.63",
             "id": 230
           },
           "customer": {
@@ -4633,7 +4635,7 @@
             "balance": "$192",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 8.05,
+            "price": "5.31",
             "id": 231
           },
           "customer": {
@@ -4653,7 +4655,7 @@
             "balance": "$520",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 15.75,
+            "price": "3.89",
             "id": 232
           },
           "customer": {
@@ -4673,7 +4675,7 @@
             "balance": "$698",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 11.6,
+            "price": "2.21",
             "id": 233
           },
           "customer": {
@@ -4693,7 +4695,7 @@
             "balance": "$485",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 7.79,
+            "price": "5.09",
             "id": 234
           },
           "customer": {
@@ -4713,7 +4715,7 @@
             "balance": "$362",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 7.2,
+            "price": "4.71",
             "id": 235
           },
           "customer": {
@@ -4733,7 +4735,7 @@
             "balance": "$406",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 9.47,
+            "price": "7.61",
             "id": 236
           },
           "customer": {
@@ -4753,7 +4755,7 @@
             "balance": "$161",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 10.02,
+            "price": "7.13",
             "id": 237
           },
           "customer": {
@@ -4773,7 +4775,7 @@
             "balance": "$687",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 15.11,
+            "price": "7.54",
             "id": 238
           },
           "customer": {
@@ -4793,7 +4795,7 @@
             "balance": "$759",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 8.6,
+            "price": "6.43",
             "id": 239
           },
           "customer": {
@@ -4813,7 +4815,7 @@
             "balance": "$578",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 10.27,
+            "price": "7.21",
             "id": 240
           },
           "customer": {
@@ -4833,7 +4835,7 @@
             "balance": "$882",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 14.85,
+            "price": "4.88",
             "id": 241
           },
           "customer": {
@@ -4853,7 +4855,7 @@
             "balance": "$860",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 6.27,
+            "price": "7.66",
             "id": 242
           },
           "customer": {
@@ -4873,7 +4875,7 @@
             "balance": "$778",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 10.38,
+            "price": "5.89",
             "id": 243
           },
           "customer": {
@@ -4893,7 +4895,7 @@
             "balance": "$862",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 7.07,
+            "price": "3.93",
             "id": 244
           },
           "customer": {
@@ -4913,7 +4915,7 @@
             "balance": "$743",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 11.51,
+            "price": "3.28",
             "id": 245
           },
           "customer": {
@@ -4933,7 +4935,7 @@
             "balance": "$690",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 10.12,
+            "price": "5.98",
             "id": 246
           },
           "customer": {
@@ -4953,7 +4955,7 @@
             "balance": "$507",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 9.95,
+            "price": "6.98",
             "id": 247
           },
           "customer": {
@@ -4973,7 +4975,7 @@
             "balance": "$342",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 9.51,
+            "price": "6.09",
             "id": 248
           },
           "customer": {
@@ -4993,7 +4995,7 @@
             "balance": "$423",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 14.36,
+            "price": "6.50",
             "id": 249
           },
           "customer": {
@@ -5013,7 +5015,7 @@
             "balance": "$801",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 10.48,
+            "price": "3.51",
             "id": 250
           },
           "customer": {
@@ -5033,7 +5035,7 @@
             "balance": "$665",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 14.14,
+            "price": "3.48",
             "id": 251
           },
           "customer": {
@@ -5053,7 +5055,7 @@
             "balance": "$750",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 6.84,
+            "price": "3.93",
             "id": 252
           },
           "customer": {
@@ -5073,7 +5075,7 @@
             "balance": "$441",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 7.91,
+            "price": "6.02",
             "id": 253
           },
           "customer": {
@@ -5093,7 +5095,7 @@
             "balance": "$269",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 11.62,
+            "price": "4.13",
             "id": 254
           },
           "customer": {
@@ -5113,7 +5115,7 @@
             "balance": "$910",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 7.05,
+            "price": "3.75",
             "id": 255
           },
           "customer": {
@@ -5133,7 +5135,7 @@
             "balance": "$438",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 6.01,
+            "price": "4.36",
             "id": 256
           },
           "customer": {
@@ -5153,7 +5155,7 @@
             "balance": "$697",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 14.44,
+            "price": "5.94",
             "id": 257
           },
           "customer": {
@@ -5173,7 +5175,7 @@
             "balance": "$525",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 9.32,
+            "price": "4.65",
             "id": 258
           },
           "customer": {
@@ -5193,7 +5195,7 @@
             "balance": "$752",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 6.63,
+            "price": "2.48",
             "id": 259
           },
           "customer": {
@@ -5213,7 +5215,7 @@
             "balance": "$440",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 15.68,
+            "price": "2.61",
             "id": 260
           },
           "customer": {
@@ -5233,7 +5235,7 @@
             "balance": "$450",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 13.12,
+            "price": "4.80",
             "id": 261
           },
           "customer": {
@@ -5253,7 +5255,7 @@
             "balance": "$67",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 11.89,
+            "price": "2.04",
             "id": 262
           },
           "customer": {
@@ -5273,7 +5275,7 @@
             "balance": "$477",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 12.16,
+            "price": "5.98",
             "id": 263
           },
           "customer": {
@@ -5293,7 +5295,7 @@
             "balance": "$869",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 13.57,
+            "price": "4.56",
             "id": 264
           },
           "customer": {
@@ -5313,7 +5315,7 @@
             "balance": "$8",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 15.24,
+            "price": "5.04",
             "id": 265
           },
           "customer": {
@@ -5333,7 +5335,7 @@
             "balance": "$387",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 9.14,
+            "price": "5.52",
             "id": 266
           },
           "customer": {
@@ -5353,7 +5355,7 @@
             "balance": "$578",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 8.86,
+            "price": "5.48",
             "id": 267
           },
           "customer": {
@@ -5373,7 +5375,7 @@
             "balance": "$834",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 14.13,
+            "price": "7.87",
             "id": 268
           },
           "customer": {
@@ -5393,7 +5395,7 @@
             "balance": "$941",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 11.02,
+            "price": "7.22",
             "id": 269
           },
           "customer": {
@@ -5413,7 +5415,7 @@
             "balance": "$151",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 12.41,
+            "price": "3.53",
             "id": 270
           },
           "customer": {
@@ -5433,7 +5435,7 @@
             "balance": "$760",
             "expirationMonth": 5,
             "expirationYear": "2025",
-            "price": 6.02,
+            "price": "6.22",
             "id": 271
           },
           "customer": {
@@ -5453,7 +5455,7 @@
             "balance": "$753",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 8.37,
+            "price": "3.75",
             "id": 272
           },
           "customer": {
@@ -5473,7 +5475,7 @@
             "balance": "$253",
             "expirationMonth": 10,
             "expirationYear": "2025",
-            "price": 11.01,
+            "price": "7.63",
             "id": 273
           },
           "customer": {
@@ -5493,7 +5495,7 @@
             "balance": "$615",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 15.84,
+            "price": "6.35",
             "id": 274
           },
           "customer": {
@@ -5513,7 +5515,7 @@
             "balance": "$65",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 15.55,
+            "price": "7.65",
             "id": 275
           },
           "customer": {
@@ -5533,7 +5535,7 @@
             "balance": "$640",
             "expirationMonth": 6,
             "expirationYear": "2025",
-            "price": 9.9,
+            "price": "7.52",
             "id": 276
           },
           "customer": {
@@ -5553,7 +5555,7 @@
             "balance": "$980",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 14.77,
+            "price": "2.47",
             "id": 277
           },
           "customer": {
@@ -5573,7 +5575,7 @@
             "balance": "$276",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 6.63,
+            "price": "7.64",
             "id": 278
           },
           "customer": {
@@ -5593,7 +5595,7 @@
             "balance": "$467",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 11.95,
+            "price": "2.35",
             "id": 279
           },
           "customer": {
@@ -5613,7 +5615,7 @@
             "balance": "$702",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 10.88,
+            "price": "3.77",
             "id": 280
           },
           "customer": {
@@ -5633,7 +5635,7 @@
             "balance": "$898",
             "expirationMonth": 7,
             "expirationYear": "2025",
-            "price": 6.57,
+            "price": "2.92",
             "id": 281
           },
           "customer": {
@@ -5653,7 +5655,7 @@
             "balance": "$410",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 14.83,
+            "price": "6.80",
             "id": 282
           },
           "customer": {
@@ -5673,7 +5675,7 @@
             "balance": "$60",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 14.51,
+            "price": "4.56",
             "id": 283
           },
           "customer": {
@@ -5693,7 +5695,7 @@
             "balance": "$136",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 11.29,
+            "price": "6.51",
             "id": 284
           },
           "customer": {
@@ -5713,7 +5715,7 @@
             "balance": "$575",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 8.06,
+            "price": "6.38",
             "id": 285
           },
           "customer": {
@@ -5733,7 +5735,7 @@
             "balance": "$357",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 7.49,
+            "price": "4.44",
             "id": 286
           },
           "customer": {
@@ -5753,7 +5755,7 @@
             "balance": "$198",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 7.92,
+            "price": "2.35",
             "id": 287
           },
           "customer": {
@@ -5773,7 +5775,7 @@
             "balance": "$463",
             "expirationMonth": 9,
             "expirationYear": "2025",
-            "price": 15.1,
+            "price": "5.56",
             "id": 288
           },
           "customer": {
@@ -5793,7 +5795,7 @@
             "balance": "$541",
             "expirationMonth": 1,
             "expirationYear": "2025",
-            "price": 10.64,
+            "price": "6.95",
             "id": 289
           },
           "customer": {
@@ -5813,7 +5815,7 @@
             "balance": "$745",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 7.97,
+            "price": "6.25",
             "id": 290
           },
           "customer": {
@@ -5833,7 +5835,7 @@
             "balance": "$586",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 9.63,
+            "price": "3.50",
             "id": 291
           },
           "customer": {
@@ -5853,7 +5855,7 @@
             "balance": "$142",
             "expirationMonth": 4,
             "expirationYear": "2025",
-            "price": 9.82,
+            "price": "6.94",
             "id": 292
           },
           "customer": {
@@ -5873,7 +5875,7 @@
             "balance": "$641",
             "expirationMonth": 2,
             "expirationYear": "2025",
-            "price": 15.68,
+            "price": "6.12",
             "id": 293
           },
           "customer": {
@@ -5893,7 +5895,7 @@
             "balance": "$341",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 11.78,
+            "price": "7.20",
             "id": 294
           },
           "customer": {
@@ -5913,7 +5915,7 @@
             "balance": "$539",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 10.48,
+            "price": "3.35",
             "id": 295
           },
           "customer": {
@@ -5933,7 +5935,7 @@
             "balance": "$759",
             "expirationMonth": 11,
             "expirationYear": "2025",
-            "price": 7.17,
+            "price": "2.78",
             "id": 296
           },
           "customer": {
@@ -5953,7 +5955,7 @@
             "balance": "$430",
             "expirationMonth": 12,
             "expirationYear": "2025",
-            "price": 14.56,
+            "price": "7.80",
             "id": 297
           },
           "customer": {
@@ -5973,7 +5975,7 @@
             "balance": "$270",
             "expirationMonth": 3,
             "expirationYear": "2025",
-            "price": 9.78,
+            "price": "3.43",
             "id": 298
           },
           "customer": {
@@ -5993,7 +5995,7 @@
             "balance": "$574",
             "expirationMonth": 8,
             "expirationYear": "2025",
-            "price": 8.23,
+            "price": "7.33",
             "id": 299
           },
           "customer": {
@@ -6011,7 +6013,7 @@
             "cvv": 447,
             "pin": 2015,
             "balance": "$900",
-            "price": 7,
+            "price": "5.25",
             "id": 300,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -6031,7 +6033,7 @@
             "cvv": 661,
             "pin": 5436,
             "balance": "$900",
-            "price": 8,
+            "price": "7.00",
             "id": 301,
             "expirationYear": 2023,
             "expirationMonth": 1
@@ -6051,7 +6053,7 @@
             "cvv": 803,
             "pin": 3908,
             "balance": "$900",
-            "price": 8,
+            "price": "5.08",
             "id": 302,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -6071,7 +6073,7 @@
             "cvv": 166,
             "pin": 3492,
             "balance": "$900",
-            "price": 8,
+            "price": "3.59",
             "id": 303,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -6091,7 +6093,7 @@
             "cvv": 126,
             "pin": 3197,
             "balance": "$900",
-            "price": 10,
+            "price": "6.54",
             "id": 304,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -6111,7 +6113,7 @@
             "cvv": 674,
             "pin": 4308,
             "balance": "$900",
-            "price": 6,
+            "price": "3.42",
             "id": 305,
             "expirationYear": 2023,
             "expirationMonth": 1
@@ -6131,7 +6133,7 @@
             "cvv": 117,
             "pin": 1554,
             "balance": "$900",
-            "price": 14,
+            "price": "7.98",
             "id": 306,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -6151,7 +6153,7 @@
             "cvv": 803,
             "pin": 7637,
             "balance": "$900",
-            "price": 6,
+            "price": "2.31",
             "id": 307,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -6171,7 +6173,7 @@
             "cvv": 891,
             "pin": 6466,
             "balance": "$900",
-            "price": 7,
+            "price": "2.98",
             "id": 308,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -6191,7 +6193,7 @@
             "cvv": 522,
             "pin": 2617,
             "balance": "$900",
-            "price": 7,
+            "price": "2.36",
             "id": 309,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -6211,7 +6213,7 @@
             "cvv": 859,
             "pin": 5268,
             "balance": "$900",
-            "price": 9,
+            "price": "4.21",
             "id": 310,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -6231,7 +6233,7 @@
             "cvv": 758,
             "pin": 2064,
             "balance": "$900",
-            "price": 12,
+            "price": "4.91",
             "id": 311,
             "expirationYear": 2022,
             "expirationMonth": 2
@@ -6251,7 +6253,7 @@
             "cvv": 775,
             "pin": 2917,
             "balance": "$900",
-            "price": 13,
+            "price": "4.50",
             "id": 312,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -6271,7 +6273,7 @@
             "cvv": 319,
             "pin": 1079,
             "balance": "$900",
-            "price": 14,
+            "price": "6.35",
             "id": 313,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -6291,7 +6293,7 @@
             "cvv": 420,
             "pin": 5652,
             "balance": "$900",
-            "price": 6,
+            "price": "7.41",
             "id": 314,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -6311,7 +6313,7 @@
             "cvv": 583,
             "pin": 6828,
             "balance": "$900",
-            "price": 11,
+            "price": "3.46",
             "id": 315,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -6331,7 +6333,7 @@
             "cvv": 677,
             "pin": 5839,
             "balance": "$900",
-            "price": 10,
+            "price": "6.03",
             "id": 316,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -6351,7 +6353,7 @@
             "cvv": 649,
             "pin": 3374,
             "balance": "$900",
-            "price": 11,
+            "price": "5.44",
             "id": 317,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -6371,7 +6373,7 @@
             "cvv": 349,
             "pin": 5766,
             "balance": "$900",
-            "price": 8,
+            "price": "7.18",
             "id": 318,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -6391,7 +6393,7 @@
             "cvv": 188,
             "pin": 4738,
             "balance": "$900",
-            "price": 6,
+            "price": "4.85",
             "id": 319,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -6411,7 +6413,7 @@
             "cvv": 492,
             "pin": 3922,
             "balance": "$900",
-            "price": 8,
+            "price": "3.23",
             "id": 320,
             "expirationYear": 2023,
             "expirationMonth": 1
@@ -6431,7 +6433,7 @@
             "cvv": 359,
             "pin": 2436,
             "balance": "$900",
-            "price": 9,
+            "price": "2.90",
             "id": 321,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -6451,7 +6453,7 @@
             "cvv": 391,
             "pin": 2293,
             "balance": "$900",
-            "price": 7,
+            "price": "4.17",
             "id": 322,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -6471,7 +6473,7 @@
             "cvv": 109,
             "pin": 7096,
             "balance": "$900",
-            "price": 8,
+            "price": "4.21",
             "id": 323,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -6491,7 +6493,7 @@
             "cvv": 266,
             "pin": 1160,
             "balance": "$900",
-            "price": 9,
+            "price": "4.85",
             "id": 324,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -6511,7 +6513,7 @@
             "cvv": 496,
             "pin": 7873,
             "balance": "$900",
-            "price": 7,
+            "price": "6.82",
             "id": 325,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -6531,7 +6533,7 @@
             "cvv": 883,
             "pin": 1906,
             "balance": "$900",
-            "price": 7,
+            "price": "2.89",
             "id": 326,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -6551,7 +6553,7 @@
             "cvv": 121,
             "pin": 7399,
             "balance": "$900",
-            "price": 11,
+            "price": "4.50",
             "id": 327,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -6571,7 +6573,7 @@
             "cvv": 292,
             "pin": 4749,
             "balance": "$900",
-            "price": 10,
+            "price": "2.84",
             "id": 328,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -6591,7 +6593,7 @@
             "cvv": 354,
             "pin": 3291,
             "balance": "$900",
-            "price": 11,
+            "price": "6.98",
             "id": 329,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -6611,7 +6613,7 @@
             "cvv": 589,
             "pin": 6277,
             "balance": "$900",
-            "price": 13,
+            "price": "3.74",
             "id": 330,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -6631,7 +6633,7 @@
             "cvv": 358,
             "pin": 8343,
             "balance": "$900",
-            "price": 12,
+            "price": "7.45",
             "id": 331,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -6651,7 +6653,7 @@
             "cvv": 549,
             "pin": 8674,
             "balance": "$900",
-            "price": 9,
+            "price": "2.27",
             "id": 332,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -6671,7 +6673,7 @@
             "cvv": 361,
             "pin": 8942,
             "balance": "$900",
-            "price": 9,
+            "price": "2.99",
             "id": 333,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -6691,7 +6693,7 @@
             "cvv": 677,
             "pin": 8966,
             "balance": "$900",
-            "price": 12,
+            "price": "4.72",
             "id": 334,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -6711,7 +6713,7 @@
             "cvv": 660,
             "pin": 2178,
             "balance": "$900",
-            "price": 7,
+            "price": "2.12",
             "id": 335,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -6731,7 +6733,7 @@
             "cvv": 685,
             "pin": 8109,
             "balance": "$900",
-            "price": 13,
+            "price": "5.45",
             "id": 336,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -6751,7 +6753,7 @@
             "cvv": 709,
             "pin": 6687,
             "balance": "$900",
-            "price": 11,
+            "price": "7.46",
             "id": 337,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -6771,7 +6773,7 @@
             "cvv": 458,
             "pin": 5526,
             "balance": "$900",
-            "price": 12,
+            "price": "4.78",
             "id": 338,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -6791,7 +6793,7 @@
             "cvv": 690,
             "pin": 4785,
             "balance": "$900",
-            "price": 6,
+            "price": "4.54",
             "id": 339,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -6811,7 +6813,7 @@
             "cvv": 660,
             "pin": 8401,
             "balance": "$900",
-            "price": 10,
+            "price": "3.84",
             "id": 340,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -6831,7 +6833,7 @@
             "cvv": 623,
             "pin": 4167,
             "balance": "$900",
-            "price": 14,
+            "price": "2.19",
             "id": 341,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -6851,7 +6853,7 @@
             "cvv": 142,
             "pin": 6106,
             "balance": "$900",
-            "price": 8,
+            "price": "4.04",
             "id": 342,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -6871,7 +6873,7 @@
             "cvv": 797,
             "pin": 7984,
             "balance": "$900",
-            "price": 8,
+            "price": "6.06",
             "id": 343,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -6891,7 +6893,7 @@
             "cvv": 383,
             "pin": 1184,
             "balance": "$900",
-            "price": 6,
+            "price": "7.07",
             "id": 344,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -6911,7 +6913,7 @@
             "cvv": 674,
             "pin": 2746,
             "balance": "$900",
-            "price": 9,
+            "price": "6.40",
             "id": 345,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -6931,7 +6933,7 @@
             "cvv": 341,
             "pin": 8502,
             "balance": "$900",
-            "price": 6,
+            "price": "3.92",
             "id": 346,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -6951,7 +6953,7 @@
             "cvv": 308,
             "pin": 3403,
             "balance": "$900",
-            "price": 10,
+            "price": "2.73",
             "id": 347,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -6971,7 +6973,7 @@
             "cvv": 876,
             "pin": 5444,
             "balance": "$900",
-            "price": 8,
+            "price": "4.45",
             "id": 348,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -6991,7 +6993,7 @@
             "cvv": 177,
             "pin": 2994,
             "balance": "$900",
-            "price": 11,
+            "price": "7.76",
             "id": 349,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -7011,7 +7013,7 @@
             "cvv": 612,
             "pin": 1725,
             "balance": "$900",
-            "price": 9,
+            "price": "7.59",
             "id": 350,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -7031,7 +7033,7 @@
             "cvv": 133,
             "pin": 3611,
             "balance": "$900",
-            "price": 8,
+            "price": "2.11",
             "id": 351,
             "expirationYear": 2023,
             "expirationMonth": 7
@@ -7051,7 +7053,7 @@
             "cvv": 383,
             "pin": 7097,
             "balance": "$900",
-            "price": 7,
+            "price": "5.81",
             "id": 352,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -7071,7 +7073,7 @@
             "cvv": 319,
             "pin": 1176,
             "balance": "$900",
-            "price": 6,
+            "price": "3.88",
             "id": 353,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -7091,7 +7093,7 @@
             "cvv": 336,
             "pin": 6921,
             "balance": "$900",
-            "price": 9,
+            "price": "7.51",
             "id": 354,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -7111,7 +7113,7 @@
             "cvv": 574,
             "pin": 2115,
             "balance": "$900",
-            "price": 11,
+            "price": "6.11",
             "id": 355,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -7131,7 +7133,7 @@
             "cvv": 266,
             "pin": 1591,
             "balance": "$900",
-            "price": 13,
+            "price": "4.26",
             "id": 356,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -7151,7 +7153,7 @@
             "cvv": 811,
             "pin": 6147,
             "balance": "$900",
-            "price": 6,
+            "price": "3.54",
             "id": 357,
             "expirationYear": 2023,
             "expirationMonth": 1
@@ -7171,7 +7173,7 @@
             "cvv": 656,
             "pin": 8191,
             "balance": "$900",
-            "price": 6,
+            "price": "2.53",
             "id": 358,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -7191,7 +7193,7 @@
             "cvv": 738,
             "pin": 6373,
             "balance": "$900",
-            "price": 12,
+            "price": "5.18",
             "id": 359,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -7211,7 +7213,7 @@
             "cvv": 117,
             "pin": 4249,
             "balance": "$900",
-            "price": 13,
+            "price": "7.95",
             "id": 360,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -7231,7 +7233,7 @@
             "cvv": 755,
             "pin": 3686,
             "balance": "$900",
-            "price": 8,
+            "price": "5.54",
             "id": 361,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -7251,7 +7253,7 @@
             "cvv": 243,
             "pin": 7777,
             "balance": "$900",
-            "price": 10,
+            "price": "4.20",
             "id": 362,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -7271,7 +7273,7 @@
             "cvv": 283,
             "pin": 4060,
             "balance": "$900",
-            "price": 8,
+            "price": "4.52",
             "id": 363,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -7291,7 +7293,7 @@
             "cvv": 299,
             "pin": 8187,
             "balance": "$900",
-            "price": 8,
+            "price": "6.78",
             "id": 364,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -7311,7 +7313,7 @@
             "cvv": 730,
             "pin": 6761,
             "balance": "$900",
-            "price": 7,
+            "price": "7.29",
             "id": 365,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -7331,7 +7333,7 @@
             "cvv": 559,
             "pin": 1396,
             "balance": "$900",
-            "price": 7,
+            "price": "4.66",
             "id": 366,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -7351,7 +7353,7 @@
             "cvv": 111,
             "pin": 4825,
             "balance": "$900",
-            "price": 7,
+            "price": "2.84",
             "id": 367,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -7371,7 +7373,7 @@
             "cvv": 534,
             "pin": 8730,
             "balance": "$900",
-            "price": 10,
+            "price": "2.96",
             "id": 368,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -7391,7 +7393,7 @@
             "cvv": 603,
             "pin": 7411,
             "balance": "$900",
-            "price": 6,
+            "price": "2.03",
             "id": 369,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -7411,7 +7413,7 @@
             "cvv": 333,
             "pin": 6962,
             "balance": "$900",
-            "price": 8,
+            "price": "5.02",
             "id": 370,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -7431,7 +7433,7 @@
             "cvv": 461,
             "pin": 1655,
             "balance": "$900",
-            "price": 14,
+            "price": "5.75",
             "id": 371,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -7451,7 +7453,7 @@
             "cvv": 612,
             "pin": 8242,
             "balance": "$900",
-            "price": 7,
+            "price": "5.67",
             "id": 372,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -7471,7 +7473,7 @@
             "cvv": 886,
             "pin": 5912,
             "balance": "$900",
-            "price": 12,
+            "price": "4.40",
             "id": 373,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -7491,7 +7493,7 @@
             "cvv": 647,
             "pin": 4759,
             "balance": "$900",
-            "price": 12,
+            "price": "7.31",
             "id": 374,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -7511,7 +7513,7 @@
             "cvv": 518,
             "pin": 5765,
             "balance": "$900",
-            "price": 11,
+            "price": "6.60",
             "id": 375,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -7531,7 +7533,7 @@
             "cvv": 690,
             "pin": 8086,
             "balance": "$900",
-            "price": 9,
+            "price": "3.50",
             "id": 376,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -7551,7 +7553,7 @@
             "cvv": 727,
             "pin": 1901,
             "balance": "$900",
-            "price": 13,
+            "price": "5.54",
             "id": 377,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -7571,7 +7573,7 @@
             "cvv": 296,
             "pin": 3728,
             "balance": "$900",
-            "price": 7,
+            "price": "4.57",
             "id": 378,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -7591,7 +7593,7 @@
             "cvv": 114,
             "pin": 2244,
             "balance": "$900",
-            "price": 9,
+            "price": "6.14",
             "id": 379,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -7611,7 +7613,7 @@
             "cvv": 759,
             "pin": 8053,
             "balance": "$900",
-            "price": 10,
+            "price": "4.39",
             "id": 380,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -7631,7 +7633,7 @@
             "cvv": 885,
             "pin": 1982,
             "balance": "$900",
-            "price": 12,
+            "price": "4.13",
             "id": 381,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -7651,7 +7653,7 @@
             "cvv": 560,
             "pin": 4632,
             "balance": "$900",
-            "price": 8,
+            "price": "7.36",
             "id": 382,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -7671,7 +7673,7 @@
             "cvv": 800,
             "pin": 7053,
             "balance": "$900",
-            "price": 7,
+            "price": "2.53",
             "id": 383,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -7691,7 +7693,7 @@
             "cvv": 736,
             "pin": 8431,
             "balance": "$900",
-            "price": 8,
+            "price": "3.81",
             "id": 384,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -7711,7 +7713,7 @@
             "cvv": 165,
             "pin": 1110,
             "balance": "$900",
-            "price": 7,
+            "price": "6.72",
             "id": 385,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -7731,7 +7733,7 @@
             "cvv": 804,
             "pin": 8734,
             "balance": "$900",
-            "price": 11,
+            "price": "4.84",
             "id": 386,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -7751,7 +7753,7 @@
             "cvv": 883,
             "pin": 2776,
             "balance": "$900",
-            "price": 9,
+            "price": "4.46",
             "id": 387,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -7771,7 +7773,7 @@
             "cvv": 875,
             "pin": 8912,
             "balance": "$900",
-            "price": 8,
+            "price": "7.80",
             "id": 388,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -7791,7 +7793,7 @@
             "cvv": 161,
             "pin": 8467,
             "balance": "$900",
-            "price": 14,
+            "price": "2.75",
             "id": 389,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -7811,7 +7813,7 @@
             "cvv": 781,
             "pin": 8120,
             "balance": "$900",
-            "price": 6,
+            "price": "2.52",
             "id": 390,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -7831,7 +7833,7 @@
             "cvv": 356,
             "pin": 2426,
             "balance": "$900",
-            "price": 12,
+            "price": "4.44",
             "id": 391,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -7851,7 +7853,7 @@
             "cvv": 540,
             "pin": 4960,
             "balance": "$900",
-            "price": 12,
+            "price": "7.95",
             "id": 392,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -7871,7 +7873,7 @@
             "cvv": 191,
             "pin": 4778,
             "balance": "$900",
-            "price": 7,
+            "price": "4.09",
             "id": 393,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -7891,7 +7893,7 @@
             "cvv": 140,
             "pin": 2559,
             "balance": "$900",
-            "price": 9,
+            "price": "2.18",
             "id": 394,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -7911,7 +7913,7 @@
             "cvv": 746,
             "pin": 4455,
             "balance": "$900",
-            "price": 9,
+            "price": "2.84",
             "id": 395,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -7931,7 +7933,7 @@
             "cvv": 806,
             "pin": 2387,
             "balance": "$900",
-            "price": 12,
+            "price": "3.53",
             "id": 396,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -7951,7 +7953,7 @@
             "cvv": 342,
             "pin": 3114,
             "balance": "$900",
-            "price": 9,
+            "price": "5.58",
             "id": 397,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -7971,7 +7973,7 @@
             "cvv": 265,
             "pin": 7252,
             "balance": "$900",
-            "price": 14,
+            "price": "6.94",
             "id": 398,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -7991,7 +7993,7 @@
             "cvv": 833,
             "pin": 3388,
             "balance": "$900",
-            "price": 6,
+            "price": "7.53",
             "id": 399,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -8011,7 +8013,7 @@
             "cvv": 734,
             "pin": 4140,
             "balance": "$900",
-            "price": 13,
+            "price": "3.53",
             "id": 400,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -8031,7 +8033,7 @@
             "cvv": 679,
             "pin": 2811,
             "balance": "$900",
-            "price": 13,
+            "price": "3.40",
             "id": 401,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -8051,7 +8053,7 @@
             "cvv": 253,
             "pin": 5920,
             "balance": "$900",
-            "price": 6,
+            "price": "4.08",
             "id": 402,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -8071,7 +8073,7 @@
             "cvv": 188,
             "pin": 4764,
             "balance": "$900",
-            "price": 7,
+            "price": "3.84",
             "id": 403,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -8091,7 +8093,7 @@
             "cvv": 570,
             "pin": 6848,
             "balance": "$900",
-            "price": 12,
+            "price": "3.46",
             "id": 404,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -8111,7 +8113,7 @@
             "cvv": 618,
             "pin": 3070,
             "balance": "$900",
-            "price": 9,
+            "price": "4.21",
             "id": 405,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -8131,7 +8133,7 @@
             "cvv": 874,
             "pin": 4021,
             "balance": "$900",
-            "price": 13,
+            "price": "4.84",
             "id": 406,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -8151,7 +8153,7 @@
             "cvv": 784,
             "pin": 6252,
             "balance": "$900",
-            "price": 8,
+            "price": "5.37",
             "id": 407,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -8171,7 +8173,7 @@
             "cvv": 738,
             "pin": 3608,
             "balance": "$900",
-            "price": 12,
+            "price": "5.94",
             "id": 408,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -8191,7 +8193,7 @@
             "cvv": 632,
             "pin": 4846,
             "balance": "$900",
-            "price": 8,
+            "price": "6.47",
             "id": 409,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -8211,7 +8213,7 @@
             "cvv": 708,
             "pin": 8544,
             "balance": "$900",
-            "price": 9,
+            "price": "4.67",
             "id": 410,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -8231,7 +8233,7 @@
             "cvv": 341,
             "pin": 4796,
             "balance": "$900",
-            "price": 9,
+            "price": "3.27",
             "id": 411,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -8251,7 +8253,7 @@
             "cvv": 228,
             "pin": 3895,
             "balance": "$900",
-            "price": 7,
+            "price": "6.06",
             "id": 412,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -8271,7 +8273,7 @@
             "cvv": 878,
             "pin": 4461,
             "balance": "$900",
-            "price": 14,
+            "price": "6.45",
             "id": 413,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -8291,7 +8293,7 @@
             "cvv": 750,
             "pin": 1261,
             "balance": "$900",
-            "price": 14,
+            "price": "6.69",
             "id": 414,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -8311,7 +8313,7 @@
             "cvv": 398,
             "pin": 5296,
             "balance": "$900",
-            "price": 6,
+            "price": "5.05",
             "id": 415,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -8331,7 +8333,7 @@
             "cvv": 803,
             "pin": 5971,
             "balance": "$900",
-            "price": 10,
+            "price": "7.45",
             "id": 416,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -8351,7 +8353,7 @@
             "cvv": 627,
             "pin": 1596,
             "balance": "$900",
-            "price": 6,
+            "price": "6.87",
             "id": 417,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -8371,7 +8373,7 @@
             "cvv": 857,
             "pin": 1214,
             "balance": "$900",
-            "price": 7,
+            "price": "5.91",
             "id": 418,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -8391,7 +8393,7 @@
             "cvv": 468,
             "pin": 8415,
             "balance": "$900",
-            "price": 11,
+            "price": "6.89",
             "id": 419,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -8411,7 +8413,7 @@
             "cvv": 290,
             "pin": 7010,
             "balance": "$900",
-            "price": 10,
+            "price": "2.64",
             "id": 420,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -8431,7 +8433,7 @@
             "cvv": 175,
             "pin": 2769,
             "balance": "$900",
-            "price": 14,
+            "price": "2.99",
             "id": 421,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -8451,7 +8453,7 @@
             "cvv": 254,
             "pin": 6700,
             "balance": "$900",
-            "price": 13,
+            "price": "6.07",
             "id": 422,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -8471,7 +8473,7 @@
             "cvv": 166,
             "pin": 7980,
             "balance": "$900",
-            "price": 10,
+            "price": "5.12",
             "id": 423,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -8491,7 +8493,7 @@
             "cvv": 773,
             "pin": 5976,
             "balance": "$900",
-            "price": 14,
+            "price": "6.31",
             "id": 424,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -8511,7 +8513,7 @@
             "cvv": 262,
             "pin": 4729,
             "balance": "$900",
-            "price": 6,
+            "price": "7.54",
             "id": 425,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -8531,7 +8533,7 @@
             "cvv": 245,
             "pin": 4965,
             "balance": "$900",
-            "price": 7,
+            "price": "5.05",
             "id": 426,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -8551,7 +8553,7 @@
             "cvv": 325,
             "pin": 1185,
             "balance": "$900",
-            "price": 7,
+            "price": "7.07",
             "id": 427,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -8571,7 +8573,7 @@
             "cvv": 840,
             "pin": 4967,
             "balance": "$900",
-            "price": 7,
+            "price": "3.75",
             "id": 428,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -8591,7 +8593,7 @@
             "cvv": 557,
             "pin": 3985,
             "balance": "$900",
-            "price": 13,
+            "price": "4.47",
             "id": 429,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -8611,7 +8613,7 @@
             "cvv": 451,
             "pin": 5035,
             "balance": "$900",
-            "price": 6,
+            "price": "5.18",
             "id": 430,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -8631,7 +8633,7 @@
             "cvv": 777,
             "pin": 6649,
             "balance": "$900",
-            "price": 13,
+            "price": "7.52",
             "id": 431,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -8651,7 +8653,7 @@
             "cvv": 399,
             "pin": 1145,
             "balance": "$900",
-            "price": 11,
+            "price": "3.39",
             "id": 432,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -8671,7 +8673,7 @@
             "cvv": 719,
             "pin": 5300,
             "balance": "$900",
-            "price": 11,
+            "price": "5.77",
             "id": 433,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -8691,7 +8693,7 @@
             "cvv": 892,
             "pin": 1515,
             "balance": "$900",
-            "price": 12,
+            "price": "3.59",
             "id": 434,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -8711,7 +8713,7 @@
             "cvv": 349,
             "pin": 4849,
             "balance": "$900",
-            "price": 13,
+            "price": "2.78",
             "id": 435,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -8731,7 +8733,7 @@
             "cvv": 805,
             "pin": 2663,
             "balance": "$900",
-            "price": 11,
+            "price": "6.40",
             "id": 436,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -8751,7 +8753,7 @@
             "cvv": 209,
             "pin": 8621,
             "balance": "$900",
-            "price": 8,
+            "price": "4.14",
             "id": 437,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -8771,7 +8773,7 @@
             "cvv": 765,
             "pin": 5681,
             "balance": "$900",
-            "price": 8,
+            "price": "4.78",
             "id": 438,
             "expirationYear": 2022,
             "expirationMonth": 2
@@ -8791,7 +8793,7 @@
             "cvv": 737,
             "pin": 3132,
             "balance": "$900",
-            "price": 8,
+            "price": "2.94",
             "id": 439,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -8811,7 +8813,7 @@
             "cvv": 466,
             "pin": 3432,
             "balance": "$900",
-            "price": 7,
+            "price": "2.43",
             "id": 440,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -8831,7 +8833,7 @@
             "cvv": 158,
             "pin": 5591,
             "balance": "$900",
-            "price": 12,
+            "price": "3.10",
             "id": 441,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -8851,7 +8853,7 @@
             "cvv": 106,
             "pin": 3370,
             "balance": "$900",
-            "price": 8,
+            "price": "3.47",
             "id": 442,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -8871,7 +8873,7 @@
             "cvv": 581,
             "pin": 5243,
             "balance": "$900",
-            "price": 13,
+            "price": "7.87",
             "id": 443,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -8891,7 +8893,7 @@
             "cvv": 661,
             "pin": 1822,
             "balance": "$900",
-            "price": 10,
+            "price": "5.80",
             "id": 444,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -8911,7 +8913,7 @@
             "cvv": 799,
             "pin": 3154,
             "balance": "$900",
-            "price": 10,
+            "price": "7.50",
             "id": 445,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -8931,7 +8933,7 @@
             "cvv": 517,
             "pin": 3275,
             "balance": "$900",
-            "price": 10,
+            "price": "6.25",
             "id": 446,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -8951,7 +8953,7 @@
             "cvv": 384,
             "pin": 5868,
             "balance": "$900",
-            "price": 8,
+            "price": "4.46",
             "id": 447,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -8971,7 +8973,7 @@
             "cvv": 531,
             "pin": 6739,
             "balance": "$900",
-            "price": 6,
+            "price": "2.73",
             "id": 448,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -8991,7 +8993,7 @@
             "cvv": 301,
             "pin": 2549,
             "balance": "$900",
-            "price": 13,
+            "price": "4.90",
             "id": 449,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -9011,7 +9013,7 @@
             "cvv": 755,
             "pin": 6412,
             "balance": "$900",
-            "price": 9,
+            "price": "3.40",
             "id": 450,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -9031,7 +9033,7 @@
             "cvv": 200,
             "pin": 1520,
             "balance": "$900",
-            "price": 10,
+            "price": "6.91",
             "id": 451,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -9051,7 +9053,7 @@
             "cvv": 327,
             "pin": 8654,
             "balance": "$900",
-            "price": 7,
+            "price": "5.60",
             "id": 452,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -9071,7 +9073,7 @@
             "cvv": 654,
             "pin": 5511,
             "balance": "$900",
-            "price": 11,
+            "price": "6.91",
             "id": 453,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -9091,7 +9093,7 @@
             "cvv": 788,
             "pin": 5173,
             "balance": "$900",
-            "price": 8,
+            "price": "3.17",
             "id": 454,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -9111,7 +9113,7 @@
             "cvv": 115,
             "pin": 8947,
             "balance": "$900",
-            "price": 10,
+            "price": "3.54",
             "id": 455,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -9131,7 +9133,7 @@
             "cvv": 468,
             "pin": 2982,
             "balance": "$900",
-            "price": 11,
+            "price": "3.44",
             "id": 456,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -9151,7 +9153,7 @@
             "cvv": 726,
             "pin": 8928,
             "balance": "$900",
-            "price": 11,
+            "price": "5.66",
             "id": 457,
             "expirationYear": 2022,
             "expirationMonth": 2
@@ -9171,7 +9173,7 @@
             "cvv": 558,
             "pin": 4540,
             "balance": "$900",
-            "price": 14,
+            "price": "6.27",
             "id": 458,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -9191,7 +9193,7 @@
             "cvv": 823,
             "pin": 3874,
             "balance": "$900",
-            "price": 12,
+            "price": "3.20",
             "id": 459,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -9211,7 +9213,7 @@
             "cvv": 411,
             "pin": 6080,
             "balance": "$900",
-            "price": 13,
+            "price": "7.94",
             "id": 460,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -9231,7 +9233,7 @@
             "cvv": 865,
             "pin": 5918,
             "balance": "$900",
-            "price": 10,
+            "price": "7.41",
             "id": 461,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -9251,7 +9253,7 @@
             "cvv": 293,
             "pin": 3746,
             "balance": "$900",
-            "price": 12,
+            "price": "7.32",
             "id": 462,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -9271,7 +9273,7 @@
             "cvv": 221,
             "pin": 5241,
             "balance": "$900",
-            "price": 12,
+            "price": "3.37",
             "id": 463,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -9291,7 +9293,7 @@
             "cvv": 536,
             "pin": 1183,
             "balance": "$900",
-            "price": 6,
+            "price": "7.27",
             "id": 464,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -9311,7 +9313,7 @@
             "cvv": 174,
             "pin": 1440,
             "balance": "$900",
-            "price": 13,
+            "price": "3.59",
             "id": 465,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -9331,7 +9333,7 @@
             "cvv": 327,
             "pin": 1321,
             "balance": "$900",
-            "price": 11,
+            "price": "7.52",
             "id": 466,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -9351,7 +9353,7 @@
             "cvv": 530,
             "pin": 8354,
             "balance": "$900",
-            "price": 6,
+            "price": "5.61",
             "id": 467,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -9371,7 +9373,7 @@
             "cvv": 183,
             "pin": 2407,
             "balance": "$900",
-            "price": 8,
+            "price": "2.17",
             "id": 468,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -9391,7 +9393,7 @@
             "cvv": 602,
             "pin": 5395,
             "balance": "$900",
-            "price": 9,
+            "price": "6.83",
             "id": 469,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -9411,7 +9413,7 @@
             "cvv": 340,
             "pin": 2343,
             "balance": "$900",
-            "price": 6,
+            "price": "3.59",
             "id": 470,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -9431,7 +9433,7 @@
             "cvv": 853,
             "pin": 8903,
             "balance": "$900",
-            "price": 7,
+            "price": "6.46",
             "id": 471,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -9451,7 +9453,7 @@
             "cvv": 570,
             "pin": 7198,
             "balance": "$900",
-            "price": 13,
+            "price": "5.99",
             "id": 472,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -9471,7 +9473,7 @@
             "cvv": 142,
             "pin": 8199,
             "balance": "$900",
-            "price": 9,
+            "price": "3.67",
             "id": 473,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -9491,7 +9493,7 @@
             "cvv": 641,
             "pin": 4790,
             "balance": "$900",
-            "price": 8,
+            "price": "7.12",
             "id": 474,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -9511,7 +9513,7 @@
             "cvv": 125,
             "pin": 7111,
             "balance": "$900",
-            "price": 11,
+            "price": "3.64",
             "id": 475,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -9531,7 +9533,7 @@
             "cvv": 744,
             "pin": 4532,
             "balance": "$900",
-            "price": 14,
+            "price": "3.15",
             "id": 476,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -9551,7 +9553,7 @@
             "cvv": 211,
             "pin": 6069,
             "balance": "$900",
-            "price": 8,
+            "price": "3.53",
             "id": 477,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -9571,7 +9573,7 @@
             "cvv": 157,
             "pin": 1743,
             "balance": "$900",
-            "price": 8,
+            "price": "2.49",
             "id": 478,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -9591,7 +9593,7 @@
             "cvv": 613,
             "pin": 3271,
             "balance": "$900",
-            "price": 13,
+            "price": "3.38",
             "id": 479,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -9611,7 +9613,7 @@
             "cvv": 661,
             "pin": 2436,
             "balance": "$900",
-            "price": 11,
+            "price": "5.70",
             "id": 480,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -9631,7 +9633,7 @@
             "cvv": 390,
             "pin": 6653,
             "balance": "$900",
-            "price": 12,
+            "price": "2.81",
             "id": 481,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -9651,7 +9653,7 @@
             "cvv": 414,
             "pin": 5829,
             "balance": "$900",
-            "price": 11,
+            "price": "6.59",
             "id": 482,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -9671,7 +9673,7 @@
             "cvv": 843,
             "pin": 1224,
             "balance": "$900",
-            "price": 11,
+            "price": "2.57",
             "id": 483,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -9691,7 +9693,7 @@
             "cvv": 556,
             "pin": 6955,
             "balance": "$900",
-            "price": 14,
+            "price": "7.35",
             "id": 484,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -9711,7 +9713,7 @@
             "cvv": 364,
             "pin": 5540,
             "balance": "$900",
-            "price": 7,
+            "price": "3.97",
             "id": 485,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -9731,7 +9733,7 @@
             "cvv": 638,
             "pin": 2019,
             "balance": "$900",
-            "price": 9,
+            "price": "3.79",
             "id": 486,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -9751,7 +9753,7 @@
             "cvv": 554,
             "pin": 2018,
             "balance": "$900",
-            "price": 12,
+            "price": "2.70",
             "id": 487,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -9771,7 +9773,7 @@
             "cvv": 514,
             "pin": 8501,
             "balance": "$900",
-            "price": 7,
+            "price": "7.52",
             "id": 488,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -9791,7 +9793,7 @@
             "cvv": 196,
             "pin": 6271,
             "balance": "$900",
-            "price": 14,
+            "price": "6.97",
             "id": 489,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -9811,7 +9813,7 @@
             "cvv": 143,
             "pin": 7126,
             "balance": "$900",
-            "price": 13,
+            "price": "7.41",
             "id": 490,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -9831,7 +9833,7 @@
             "cvv": 147,
             "pin": 5039,
             "balance": "$900",
-            "price": 9,
+            "price": "2.98",
             "id": 491,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -9851,7 +9853,7 @@
             "cvv": 763,
             "pin": 4713,
             "balance": "$900",
-            "price": 12,
+            "price": "5.57",
             "id": 492,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -9871,7 +9873,7 @@
             "cvv": 111,
             "pin": 1839,
             "balance": "$900",
-            "price": 14,
+            "price": "5.69",
             "id": 493,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -9891,7 +9893,7 @@
             "cvv": 354,
             "pin": 2246,
             "balance": "$900",
-            "price": 13,
+            "price": "4.16",
             "id": 494,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -9911,7 +9913,7 @@
             "cvv": 853,
             "pin": 2890,
             "balance": "$900",
-            "price": 8,
+            "price": "2.48",
             "id": 495,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -9931,7 +9933,7 @@
             "cvv": 436,
             "pin": 5701,
             "balance": "$900",
-            "price": 11,
+            "price": "7.18",
             "id": 496,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -9951,7 +9953,7 @@
             "cvv": 206,
             "pin": 3185,
             "balance": "$900",
-            "price": 8,
+            "price": "5.66",
             "id": 497,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -9971,7 +9973,7 @@
             "cvv": 311,
             "pin": 4834,
             "balance": "$900",
-            "price": 6,
+            "price": "5.68",
             "id": 498,
             "expirationYear": 2023,
             "expirationMonth": 1
@@ -9991,7 +9993,7 @@
             "cvv": 508,
             "pin": 5876,
             "balance": "$900",
-            "price": 10,
+            "price": "4.96",
             "id": 499,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -10011,7 +10013,7 @@
             "cvv": 358,
             "pin": 3146,
             "balance": "$900",
-            "price": 11,
+            "price": "2.74",
             "id": 500,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -10031,7 +10033,7 @@
             "cvv": 633,
             "pin": 2049,
             "balance": "$900",
-            "price": 13,
+            "price": "7.90",
             "id": 501,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -10051,7 +10053,7 @@
             "cvv": 773,
             "pin": 8569,
             "balance": "$900",
-            "price": 7,
+            "price": "5.83",
             "id": 502,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -10071,7 +10073,7 @@
             "cvv": 616,
             "pin": 2842,
             "balance": "$900",
-            "price": 8,
+            "price": "5.83",
             "id": 503,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -10091,7 +10093,7 @@
             "cvv": 673,
             "pin": 5583,
             "balance": "$900",
-            "price": 13,
+            "price": "5.06",
             "id": 504,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -10111,7 +10113,7 @@
             "cvv": 796,
             "pin": 2074,
             "balance": "$900",
-            "price": 11,
+            "price": "7.83",
             "id": 505,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -10131,7 +10133,7 @@
             "cvv": 797,
             "pin": 6247,
             "balance": "$900",
-            "price": 12,
+            "price": "4.16",
             "id": 506,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -10151,7 +10153,7 @@
             "cvv": 762,
             "pin": 7084,
             "balance": "$900",
-            "price": 12,
+            "price": "4.38",
             "id": 507,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -10171,7 +10173,7 @@
             "cvv": 798,
             "pin": 6611,
             "balance": "$900",
-            "price": 14,
+            "price": "6.37",
             "id": 508,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -10191,7 +10193,7 @@
             "cvv": 344,
             "pin": 3538,
             "balance": "$900",
-            "price": 13,
+            "price": "6.26",
             "id": 509,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -10211,7 +10213,7 @@
             "cvv": 790,
             "pin": 6946,
             "balance": "$900",
-            "price": 6,
+            "price": "7.80",
             "id": 510,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -10231,7 +10233,7 @@
             "cvv": 391,
             "pin": 3858,
             "balance": "$900",
-            "price": 8,
+            "price": "7.18",
             "id": 511,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -10251,7 +10253,7 @@
             "cvv": 800,
             "pin": 1722,
             "balance": "$900",
-            "price": 12,
+            "price": "2.91",
             "id": 512,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -10271,7 +10273,7 @@
             "cvv": 159,
             "pin": 4952,
             "balance": "$900",
-            "price": 7,
+            "price": "5.08",
             "id": 513,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -10291,7 +10293,7 @@
             "cvv": 124,
             "pin": 4536,
             "balance": "$900",
-            "price": 6,
+            "price": "4.57",
             "id": 514,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -10311,7 +10313,7 @@
             "cvv": 532,
             "pin": 5495,
             "balance": "$900",
-            "price": 10,
+            "price": "7.16",
             "id": 515,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -10331,7 +10333,7 @@
             "cvv": 293,
             "pin": 8769,
             "balance": "$900",
-            "price": 12,
+            "price": "6.87",
             "id": 516,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -10351,7 +10353,7 @@
             "cvv": 305,
             "pin": 4122,
             "balance": "$900",
-            "price": 14,
+            "price": "7.86",
             "id": 517,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -10371,7 +10373,7 @@
             "cvv": 511,
             "pin": 5710,
             "balance": "$900",
-            "price": 8,
+            "price": "2.37",
             "id": 518,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -10391,7 +10393,7 @@
             "cvv": 845,
             "pin": 4235,
             "balance": "$900",
-            "price": 9,
+            "price": "2.64",
             "id": 519,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -10411,7 +10413,7 @@
             "cvv": 364,
             "pin": 8712,
             "balance": "$900",
-            "price": 7,
+            "price": "5.69",
             "id": 520,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -10431,7 +10433,7 @@
             "cvv": 300,
             "pin": 2115,
             "balance": "$900",
-            "price": 12,
+            "price": "6.34",
             "id": 521,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -10451,7 +10453,7 @@
             "cvv": 298,
             "pin": 7387,
             "balance": "$900",
-            "price": 7,
+            "price": "4.87",
             "id": 522,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -10471,7 +10473,7 @@
             "cvv": 711,
             "pin": 6639,
             "balance": "$900",
-            "price": 7,
+            "price": "6.60",
             "id": 523,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -10491,7 +10493,7 @@
             "cvv": 707,
             "pin": 2936,
             "balance": "$900",
-            "price": 12,
+            "price": "7.09",
             "id": 524,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -10511,7 +10513,7 @@
             "cvv": 357,
             "pin": 8488,
             "balance": "$900",
-            "price": 11,
+            "price": "5.42",
             "id": 525,
             "expirationYear": 2023,
             "expirationMonth": 7
@@ -10531,7 +10533,7 @@
             "cvv": 147,
             "pin": 2629,
             "balance": "$900",
-            "price": 8,
+            "price": "7.43",
             "id": 526,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -10551,7 +10553,7 @@
             "cvv": 755,
             "pin": 4269,
             "balance": "$900",
-            "price": 7,
+            "price": "5.71",
             "id": 527,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -10571,7 +10573,7 @@
             "cvv": 234,
             "pin": 2234,
             "balance": "$900",
-            "price": 9,
+            "price": "4.91",
             "id": 528,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -10591,7 +10593,7 @@
             "cvv": 477,
             "pin": 6098,
             "balance": "$900",
-            "price": 7,
+            "price": "4.05",
             "id": 529,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -10611,7 +10613,7 @@
             "cvv": 607,
             "pin": 4491,
             "balance": "$900",
-            "price": 9,
+            "price": "7.44",
             "id": 530,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -10631,7 +10633,7 @@
             "cvv": 131,
             "pin": 8783,
             "balance": "$900",
-            "price": 6,
+            "price": "7.38",
             "id": 531,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -10651,7 +10653,7 @@
             "cvv": 649,
             "pin": 7578,
             "balance": "$900",
-            "price": 6,
+            "price": "5.41",
             "id": 532,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -10671,7 +10673,7 @@
             "cvv": 503,
             "pin": 2450,
             "balance": "$900",
-            "price": 12,
+            "price": "4.92",
             "id": 533,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -10691,7 +10693,7 @@
             "cvv": 459,
             "pin": 7941,
             "balance": "$900",
-            "price": 11,
+            "price": "6.63",
             "id": 534,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -10711,7 +10713,7 @@
             "cvv": 835,
             "pin": 3995,
             "balance": "$900",
-            "price": 9,
+            "price": "3.19",
             "id": 535,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -10731,7 +10733,7 @@
             "cvv": 488,
             "pin": 5533,
             "balance": "$900",
-            "price": 13,
+            "price": "3.25",
             "id": 536,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -10751,7 +10753,7 @@
             "cvv": 337,
             "pin": 3581,
             "balance": "$900",
-            "price": 9,
+            "price": "7.71",
             "id": 537,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -10771,7 +10773,7 @@
             "cvv": 115,
             "pin": 3778,
             "balance": "$900",
-            "price": 13,
+            "price": "7.58",
             "id": 538,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -10791,7 +10793,7 @@
             "cvv": 266,
             "pin": 8513,
             "balance": "$900",
-            "price": 10,
+            "price": "3.38",
             "id": 539,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -10811,7 +10813,7 @@
             "cvv": 741,
             "pin": 2925,
             "balance": "$900",
-            "price": 13,
+            "price": "3.38",
             "id": 540,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -10831,7 +10833,7 @@
             "cvv": 524,
             "pin": 4114,
             "balance": "$900",
-            "price": 7,
+            "price": "5.83",
             "id": 541,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -10851,7 +10853,7 @@
             "cvv": 674,
             "pin": 4490,
             "balance": "$900",
-            "price": 14,
+            "price": "2.53",
             "id": 542,
             "expirationYear": 2023,
             "expirationMonth": 7
@@ -10871,7 +10873,7 @@
             "cvv": 398,
             "pin": 1413,
             "balance": "$900",
-            "price": 10,
+            "price": "5.97",
             "id": 543,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -10891,7 +10893,7 @@
             "cvv": 704,
             "pin": 1875,
             "balance": "$900",
-            "price": 13,
+            "price": "4.86",
             "id": 544,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -10911,7 +10913,7 @@
             "cvv": 556,
             "pin": 3649,
             "balance": "$900",
-            "price": 13,
+            "price": "4.15",
             "id": 545,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -10931,7 +10933,7 @@
             "cvv": 549,
             "pin": 3328,
             "balance": "$900",
-            "price": 13,
+            "price": "4.11",
             "id": 546,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -10951,7 +10953,7 @@
             "cvv": 552,
             "pin": 1704,
             "balance": "$900",
-            "price": 10,
+            "price": "5.61",
             "id": 547,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -10971,7 +10973,7 @@
             "cvv": 899,
             "pin": 4133,
             "balance": "$900",
-            "price": 8,
+            "price": "4.75",
             "id": 548,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -10991,7 +10993,7 @@
             "cvv": 318,
             "pin": 6547,
             "balance": "$900",
-            "price": 11,
+            "price": "3.18",
             "id": 549,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -11011,7 +11013,7 @@
             "cvv": 835,
             "pin": 4946,
             "balance": "$900",
-            "price": 9,
+            "price": "3.92",
             "id": 550,
             "expirationYear": 2023,
             "expirationMonth": 1
@@ -11031,7 +11033,7 @@
             "cvv": 284,
             "pin": 4760,
             "balance": "$900",
-            "price": 13,
+            "price": "2.34",
             "id": 551,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -11051,7 +11053,7 @@
             "cvv": 522,
             "pin": 6897,
             "balance": "$900",
-            "price": 10,
+            "price": "2.06",
             "id": 552,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -11071,7 +11073,7 @@
             "cvv": 892,
             "pin": 1531,
             "balance": "$900",
-            "price": 8,
+            "price": "2.09",
             "id": 553,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -11091,7 +11093,7 @@
             "cvv": 254,
             "pin": 2031,
             "balance": "$900",
-            "price": 10,
+            "price": "3.25",
             "id": 554,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -11111,7 +11113,7 @@
             "cvv": 819,
             "pin": 3169,
             "balance": "$900",
-            "price": 11,
+            "price": "4.58",
             "id": 555,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -11131,7 +11133,7 @@
             "cvv": 193,
             "pin": 1267,
             "balance": "$900",
-            "price": 7,
+            "price": "3.52",
             "id": 556,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -11151,7 +11153,7 @@
             "cvv": 253,
             "pin": 5463,
             "balance": "$900",
-            "price": 6,
+            "price": "7.48",
             "id": 557,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -11171,7 +11173,7 @@
             "cvv": 126,
             "pin": 7000,
             "balance": "$900",
-            "price": 13,
+            "price": "4.42",
             "id": 558,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -11191,7 +11193,7 @@
             "cvv": 611,
             "pin": 3735,
             "balance": "$900",
-            "price": 8,
+            "price": "4.37",
             "id": 559,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -11211,7 +11213,7 @@
             "cvv": 511,
             "pin": 7969,
             "balance": "$900",
-            "price": 7,
+            "price": "2.01",
             "id": 560,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -11231,7 +11233,7 @@
             "cvv": 673,
             "pin": 2280,
             "balance": "$900",
-            "price": 10,
+            "price": "6.64",
             "id": 561,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -11251,7 +11253,7 @@
             "cvv": 526,
             "pin": 7970,
             "balance": "$900",
-            "price": 14,
+            "price": "5.34",
             "id": 562,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -11271,7 +11273,7 @@
             "cvv": 516,
             "pin": 5456,
             "balance": "$900",
-            "price": 7,
+            "price": "7.01",
             "id": 563,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -11291,7 +11293,7 @@
             "cvv": 281,
             "pin": 2280,
             "balance": "$900",
-            "price": 6,
+            "price": "3.53",
             "id": 564,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -11311,7 +11313,7 @@
             "cvv": 351,
             "pin": 4817,
             "balance": "$900",
-            "price": 12,
+            "price": "6.75",
             "id": 565,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -11331,7 +11333,7 @@
             "cvv": 861,
             "pin": 7722,
             "balance": "$900",
-            "price": 9,
+            "price": "4.34",
             "id": 566,
             "expirationYear": 2023,
             "expirationMonth": 7
@@ -11351,7 +11353,7 @@
             "cvv": 801,
             "pin": 5859,
             "balance": "$900",
-            "price": 10,
+            "price": "4.41",
             "id": 567,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -11371,7 +11373,7 @@
             "cvv": 456,
             "pin": 7680,
             "balance": "$900",
-            "price": 9,
+            "price": "6.98",
             "id": 568,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -11391,7 +11393,7 @@
             "cvv": 684,
             "pin": 3186,
             "balance": "$900",
-            "price": 12,
+            "price": "5.17",
             "id": 569,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -11411,7 +11413,7 @@
             "cvv": 234,
             "pin": 2490,
             "balance": "$900",
-            "price": 14,
+            "price": "4.35",
             "id": 570,
             "expirationYear": 2023,
             "expirationMonth": 7
@@ -11431,7 +11433,7 @@
             "cvv": 518,
             "pin": 1224,
             "balance": "$900",
-            "price": 12,
+            "price": "6.34",
             "id": 571,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -11451,7 +11453,7 @@
             "cvv": 372,
             "pin": 5483,
             "balance": "$900",
-            "price": 9,
+            "price": "5.12",
             "id": 572,
             "expirationYear": 2023,
             "expirationMonth": 7
@@ -11471,7 +11473,7 @@
             "cvv": 693,
             "pin": 6544,
             "balance": "$900",
-            "price": 7,
+            "price": "4.93",
             "id": 573,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -11491,7 +11493,7 @@
             "cvv": 442,
             "pin": 8729,
             "balance": "$900",
-            "price": 9,
+            "price": "5.56",
             "id": 574,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -11511,7 +11513,7 @@
             "cvv": 720,
             "pin": 3960,
             "balance": "$900",
-            "price": 7,
+            "price": "5.34",
             "id": 575,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -11531,7 +11533,7 @@
             "cvv": 493,
             "pin": 7133,
             "balance": "$900",
-            "price": 14,
+            "price": "4.65",
             "id": 576,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -11551,7 +11553,7 @@
             "cvv": 650,
             "pin": 6382,
             "balance": "$900",
-            "price": 13,
+            "price": "2.10",
             "id": 577,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -11571,7 +11573,7 @@
             "cvv": 637,
             "pin": 8145,
             "balance": "$900",
-            "price": 9,
+            "price": "7.53",
             "id": 578,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -11591,7 +11593,7 @@
             "cvv": 466,
             "pin": 8545,
             "balance": "$900",
-            "price": 8,
+            "price": "3.18",
             "id": 579,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -11611,7 +11613,7 @@
             "cvv": 484,
             "pin": 2901,
             "balance": "$900",
-            "price": 11,
+            "price": "4.40",
             "id": 580,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -11631,7 +11633,7 @@
             "cvv": 311,
             "pin": 2520,
             "balance": "$900",
-            "price": 8,
+            "price": "7.60",
             "id": 581,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -11651,7 +11653,7 @@
             "cvv": 610,
             "pin": 4716,
             "balance": "$900",
-            "price": 7,
+            "price": "5.19",
             "id": 582,
             "expirationYear": 2023,
             "expirationMonth": 1
@@ -11671,7 +11673,7 @@
             "cvv": 236,
             "pin": 4172,
             "balance": "$900",
-            "price": 9,
+            "price": "5.38",
             "id": 583,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -11691,7 +11693,7 @@
             "cvv": 872,
             "pin": 8372,
             "balance": "$900",
-            "price": 13,
+            "price": "6.39",
             "id": 584,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -11711,7 +11713,7 @@
             "cvv": 357,
             "pin": 5290,
             "balance": "$900",
-            "price": 7,
+            "price": "6.37",
             "id": 585,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -11731,7 +11733,7 @@
             "cvv": 893,
             "pin": 2278,
             "balance": "$900",
-            "price": 9,
+            "price": "6.89",
             "id": 586,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -11751,7 +11753,7 @@
             "cvv": 139,
             "pin": 3053,
             "balance": "$900",
-            "price": 12,
+            "price": "4.44",
             "id": 587,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -11771,7 +11773,7 @@
             "cvv": 696,
             "pin": 7213,
             "balance": "$900",
-            "price": 13,
+            "price": "4.35",
             "id": 588,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -11791,7 +11793,7 @@
             "cvv": 761,
             "pin": 2481,
             "balance": "$900",
-            "price": 10,
+            "price": "4.91",
             "id": 589,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -11811,7 +11813,7 @@
             "cvv": 805,
             "pin": 7835,
             "balance": "$900",
-            "price": 7,
+            "price": "4.61",
             "id": 590,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -11831,7 +11833,7 @@
             "cvv": 749,
             "pin": 4328,
             "balance": "$900",
-            "price": 13,
+            "price": "6.53",
             "id": 591,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -11851,7 +11853,7 @@
             "cvv": 438,
             "pin": 8318,
             "balance": "$900",
-            "price": 10,
+            "price": "5.32",
             "id": 592,
             "expirationYear": 2022,
             "expirationMonth": 2
@@ -11871,7 +11873,7 @@
             "cvv": 151,
             "pin": 7082,
             "balance": "$900",
-            "price": 8,
+            "price": "3.66",
             "id": 593,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -11891,7 +11893,7 @@
             "cvv": 840,
             "pin": 8351,
             "balance": "$900",
-            "price": 6,
+            "price": "6.60",
             "id": 594,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -11911,7 +11913,7 @@
             "cvv": 354,
             "pin": 4269,
             "balance": "$900",
-            "price": 11,
+            "price": "3.10",
             "id": 595,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -11931,7 +11933,7 @@
             "cvv": 489,
             "pin": 6076,
             "balance": "$900",
-            "price": 8,
+            "price": "6.31",
             "id": 596,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -11951,7 +11953,7 @@
             "cvv": 641,
             "pin": 4945,
             "balance": "$900",
-            "price": 12,
+            "price": "4.80",
             "id": 597,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -11971,7 +11973,7 @@
             "cvv": 171,
             "pin": 3413,
             "balance": "$900",
-            "price": 6,
+            "price": "6.90",
             "id": 598,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -11991,7 +11993,7 @@
             "cvv": 534,
             "pin": 6004,
             "balance": "$900",
-            "price": 13,
+            "price": "3.79",
             "id": 599,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -12011,7 +12013,7 @@
             "cvv": 759,
             "pin": 7734,
             "balance": "$900",
-            "price": 11,
+            "price": "3.22",
             "id": 600,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -12031,7 +12033,7 @@
             "cvv": 348,
             "pin": 6801,
             "balance": "$900",
-            "price": 7,
+            "price": "6.27",
             "id": 601,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -12051,7 +12053,7 @@
             "cvv": 517,
             "pin": 4974,
             "balance": "$900",
-            "price": 8,
+            "price": "5.17",
             "id": 602,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -12071,7 +12073,7 @@
             "cvv": 172,
             "pin": 8017,
             "balance": "$900",
-            "price": 9,
+            "price": "5.94",
             "id": 603,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -12091,7 +12093,7 @@
             "cvv": 123,
             "pin": 2769,
             "balance": "$900",
-            "price": 11,
+            "price": "3.91",
             "id": 604,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -12111,7 +12113,7 @@
             "cvv": 144,
             "pin": 8161,
             "balance": "$900",
-            "price": 10,
+            "price": "2.19",
             "id": 605,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -12131,7 +12133,7 @@
             "cvv": 532,
             "pin": 7528,
             "balance": "$900",
-            "price": 14,
+            "price": "5.96",
             "id": 606,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -12151,7 +12153,7 @@
             "cvv": 164,
             "pin": 2488,
             "balance": "$900",
-            "price": 8,
+            "price": "4.28",
             "id": 607,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -12171,7 +12173,7 @@
             "cvv": 523,
             "pin": 7566,
             "balance": "$900",
-            "price": 9,
+            "price": "2.22",
             "id": 608,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -12191,7 +12193,7 @@
             "cvv": 144,
             "pin": 7810,
             "balance": "$900",
-            "price": 12,
+            "price": "5.83",
             "id": 609,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -12211,7 +12213,7 @@
             "cvv": 504,
             "pin": 5886,
             "balance": "$900",
-            "price": 10,
+            "price": "4.67",
             "id": 610,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -12231,7 +12233,7 @@
             "cvv": 657,
             "pin": 3713,
             "balance": "$900",
-            "price": 6,
+            "price": "7.18",
             "id": 611,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -12251,7 +12253,7 @@
             "cvv": 565,
             "pin": 1635,
             "balance": "$900",
-            "price": 14,
+            "price": "7.18",
             "id": 612,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -12271,7 +12273,7 @@
             "cvv": 573,
             "pin": 4948,
             "balance": "$900",
-            "price": 13,
+            "price": "3.92",
             "id": 613,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -12291,7 +12293,7 @@
             "cvv": 709,
             "pin": 2858,
             "balance": "$900",
-            "price": 7,
+            "price": "2.85",
             "id": 614,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -12311,7 +12313,7 @@
             "cvv": 375,
             "pin": 4598,
             "balance": "$900",
-            "price": 8,
+            "price": "3.85",
             "id": 615,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -12331,7 +12333,7 @@
             "cvv": 405,
             "pin": 8048,
             "balance": "$900",
-            "price": 12,
+            "price": "4.22",
             "id": 616,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -12351,7 +12353,7 @@
             "cvv": 158,
             "pin": 1939,
             "balance": "$900",
-            "price": 8,
+            "price": "4.13",
             "id": 617,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -12371,7 +12373,7 @@
             "cvv": 600,
             "pin": 7357,
             "balance": "$900",
-            "price": 8,
+            "price": "4.36",
             "id": 618,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -12391,7 +12393,7 @@
             "cvv": 580,
             "pin": 6839,
             "balance": "$900",
-            "price": 9,
+            "price": "3.07",
             "id": 619,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -12411,7 +12413,7 @@
             "cvv": 305,
             "pin": 2178,
             "balance": "$900",
-            "price": 6,
+            "price": "5.54",
             "id": 620,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -12431,7 +12433,7 @@
             "cvv": 723,
             "pin": 2178,
             "balance": "$900",
-            "price": 14,
+            "price": "7.92",
             "id": 621,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -12451,7 +12453,7 @@
             "cvv": 722,
             "pin": 6094,
             "balance": "$900",
-            "price": 7,
+            "price": "2.19",
             "id": 622,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -12471,7 +12473,7 @@
             "cvv": 323,
             "pin": 6987,
             "balance": "$900",
-            "price": 6,
+            "price": "3.26",
             "id": 623,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -12491,7 +12493,7 @@
             "cvv": 682,
             "pin": 4347,
             "balance": "$900",
-            "price": 13,
+            "price": "2.63",
             "id": 624,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -12511,7 +12513,7 @@
             "cvv": 134,
             "pin": 5988,
             "balance": "$900",
-            "price": 7,
+            "price": "4.37",
             "id": 625,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -12531,7 +12533,7 @@
             "cvv": 722,
             "pin": 3874,
             "balance": "$900",
-            "price": 14,
+            "price": "2.31",
             "id": 626,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -12551,7 +12553,7 @@
             "cvv": 497,
             "pin": 2992,
             "balance": "$900",
-            "price": 14,
+            "price": "4.94",
             "id": 627,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -12571,7 +12573,7 @@
             "cvv": 378,
             "pin": 4274,
             "balance": "$900",
-            "price": 6,
+            "price": "4.74",
             "id": 628,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -12591,7 +12593,7 @@
             "cvv": 479,
             "pin": 4969,
             "balance": "$900",
-            "price": 13,
+            "price": "7.43",
             "id": 629,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -12611,7 +12613,7 @@
             "cvv": 780,
             "pin": 5717,
             "balance": "$900",
-            "price": 10,
+            "price": "2.04",
             "id": 630,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -12631,7 +12633,7 @@
             "cvv": 594,
             "pin": 5493,
             "balance": "$900",
-            "price": 11,
+            "price": "6.01",
             "id": 631,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -12651,7 +12653,7 @@
             "cvv": 536,
             "pin": 6034,
             "balance": "$900",
-            "price": 10,
+            "price": "3.94",
             "id": 632,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -12671,7 +12673,7 @@
             "cvv": 467,
             "pin": 7255,
             "balance": "$900",
-            "price": 6,
+            "price": "3.08",
             "id": 633,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -12691,7 +12693,7 @@
             "cvv": 656,
             "pin": 2915,
             "balance": "$900",
-            "price": 6,
+            "price": "5.15",
             "id": 634,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -12711,7 +12713,7 @@
             "cvv": 603,
             "pin": 7001,
             "balance": "$900",
-            "price": 14,
+            "price": "5.80",
             "id": 635,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -12731,7 +12733,7 @@
             "cvv": 643,
             "pin": 8630,
             "balance": "$900",
-            "price": 6,
+            "price": "2.82",
             "id": 636,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -12751,7 +12753,7 @@
             "cvv": 654,
             "pin": 3103,
             "balance": "$900",
-            "price": 13,
+            "price": "3.48",
             "id": 637,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -12771,7 +12773,7 @@
             "cvv": 282,
             "pin": 6536,
             "balance": "$900",
-            "price": 11,
+            "price": "5.70",
             "id": 638,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -12791,7 +12793,7 @@
             "cvv": 686,
             "pin": 4231,
             "balance": "$900",
-            "price": 11,
+            "price": "4.68",
             "id": 639,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -12811,7 +12813,7 @@
             "cvv": 162,
             "pin": 7864,
             "balance": "$900",
-            "price": 8,
+            "price": "4.91",
             "id": 640,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -12831,7 +12833,7 @@
             "cvv": 842,
             "pin": 7201,
             "balance": "$900",
-            "price": 6,
+            "price": "7.37",
             "id": 641,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -12851,7 +12853,7 @@
             "cvv": 676,
             "pin": 8204,
             "balance": "$900",
-            "price": 6,
+            "price": "6.01",
             "id": 642,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -12871,7 +12873,7 @@
             "cvv": 503,
             "pin": 1234,
             "balance": "$900",
-            "price": 6,
+            "price": "4.93",
             "id": 643,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -12891,7 +12893,7 @@
             "cvv": 600,
             "pin": 6681,
             "balance": "$900",
-            "price": 10,
+            "price": "5.82",
             "id": 644,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -12911,7 +12913,7 @@
             "cvv": 343,
             "pin": 4078,
             "balance": "$900",
-            "price": 9,
+            "price": "5.02",
             "id": 645,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -12931,7 +12933,7 @@
             "cvv": 623,
             "pin": 1614,
             "balance": "$900",
-            "price": 9,
+            "price": "6.42",
             "id": 646,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -12951,7 +12953,7 @@
             "cvv": 215,
             "pin": 1654,
             "balance": "$900",
-            "price": 9,
+            "price": "5.75",
             "id": 647,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -12971,7 +12973,7 @@
             "cvv": 281,
             "pin": 7463,
             "balance": "$900",
-            "price": 8,
+            "price": "7.72",
             "id": 648,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -12991,7 +12993,7 @@
             "cvv": 639,
             "pin": 2337,
             "balance": "$900",
-            "price": 12,
+            "price": "6.47",
             "id": 649,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -13011,7 +13013,7 @@
             "cvv": 675,
             "pin": 2521,
             "balance": "$900",
-            "price": 7,
+            "price": "3.83",
             "id": 650,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -13031,7 +13033,7 @@
             "cvv": 242,
             "pin": 8100,
             "balance": "$900",
-            "price": 11,
+            "price": "7.98",
             "id": 651,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -13051,7 +13053,7 @@
             "cvv": 777,
             "pin": 3226,
             "balance": "$900",
-            "price": 7,
+            "price": "5.15",
             "id": 652,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -13071,7 +13073,7 @@
             "cvv": 898,
             "pin": 6056,
             "balance": "$900",
-            "price": 10,
+            "price": "3.86",
             "id": 653,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -13091,7 +13093,7 @@
             "cvv": 863,
             "pin": 5655,
             "balance": "$900",
-            "price": 11,
+            "price": "4.04",
             "id": 654,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -13111,7 +13113,7 @@
             "cvv": 276,
             "pin": 7976,
             "balance": "$900",
-            "price": 8,
+            "price": "4.50",
             "id": 655,
             "expirationYear": 2022,
             "expirationMonth": 2
@@ -13131,7 +13133,7 @@
             "cvv": 299,
             "pin": 3081,
             "balance": "$900",
-            "price": 11,
+            "price": "3.95",
             "id": 656,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -13151,7 +13153,7 @@
             "cvv": 411,
             "pin": 4538,
             "balance": "$900",
-            "price": 13,
+            "price": "3.80",
             "id": 657,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -13171,7 +13173,7 @@
             "cvv": 748,
             "pin": 6818,
             "balance": "$900",
-            "price": 12,
+            "price": "6.67",
             "id": 658,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -13191,7 +13193,7 @@
             "cvv": 279,
             "pin": 1702,
             "balance": "$900",
-            "price": 10,
+            "price": "6.02",
             "id": 659,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -13211,7 +13213,7 @@
             "cvv": 146,
             "pin": 2635,
             "balance": "$900",
-            "price": 11,
+            "price": "3.18",
             "id": 660,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -13231,7 +13233,7 @@
             "cvv": 283,
             "pin": 5539,
             "balance": "$900",
-            "price": 11,
+            "price": "6.55",
             "id": 661,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -13251,7 +13253,7 @@
             "cvv": 678,
             "pin": 8041,
             "balance": "$900",
-            "price": 12,
+            "price": "5.51",
             "id": 662,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -13271,7 +13273,7 @@
             "cvv": 838,
             "pin": 4422,
             "balance": "$900",
-            "price": 9,
+            "price": "2.45",
             "id": 663,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -13291,7 +13293,7 @@
             "cvv": 470,
             "pin": 8414,
             "balance": "$900",
-            "price": 14,
+            "price": "7.39",
             "id": 664,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -13311,7 +13313,7 @@
             "cvv": 242,
             "pin": 4547,
             "balance": "$900",
-            "price": 11,
+            "price": "6.44",
             "id": 665,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -13331,7 +13333,7 @@
             "cvv": 649,
             "pin": 8308,
             "balance": "$900",
-            "price": 10,
+            "price": "7.37",
             "id": 666,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -13351,7 +13353,7 @@
             "cvv": 823,
             "pin": 5755,
             "balance": "$900",
-            "price": 11,
+            "price": "2.22",
             "id": 667,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -13371,7 +13373,7 @@
             "cvv": 129,
             "pin": 3214,
             "balance": "$900",
-            "price": 14,
+            "price": "2.34",
             "id": 668,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -13391,7 +13393,7 @@
             "cvv": 525,
             "pin": 6991,
             "balance": "$900",
-            "price": 11,
+            "price": "5.57",
             "id": 669,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -13411,7 +13413,7 @@
             "cvv": 818,
             "pin": 7172,
             "balance": "$900",
-            "price": 7,
+            "price": "3.48",
             "id": 670,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -13431,7 +13433,7 @@
             "cvv": 746,
             "pin": 8930,
             "balance": "$900",
-            "price": 10,
+            "price": "4.38",
             "id": 671,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -13451,7 +13453,7 @@
             "cvv": 668,
             "pin": 6964,
             "balance": "$900",
-            "price": 7,
+            "price": "2.76",
             "id": 672,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -13471,7 +13473,7 @@
             "cvv": 508,
             "pin": 6187,
             "balance": "$900",
-            "price": 13,
+            "price": "7.98",
             "id": 673,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -13491,7 +13493,7 @@
             "cvv": 639,
             "pin": 5981,
             "balance": "$900",
-            "price": 10,
+            "price": "4.09",
             "id": 674,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -13511,7 +13513,7 @@
             "cvv": 630,
             "pin": 4332,
             "balance": "$900",
-            "price": 7,
+            "price": "7.02",
             "id": 675,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -13531,7 +13533,7 @@
             "cvv": 346,
             "pin": 7134,
             "balance": "$900",
-            "price": 11,
+            "price": "2.33",
             "id": 676,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -13551,7 +13553,7 @@
             "cvv": 770,
             "pin": 2791,
             "balance": "$900",
-            "price": 9,
+            "price": "3.16",
             "id": 677,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -13571,7 +13573,7 @@
             "cvv": 399,
             "pin": 4348,
             "balance": "$900",
-            "price": 11,
+            "price": "4.61",
             "id": 678,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -13591,7 +13593,7 @@
             "cvv": 896,
             "pin": 3450,
             "balance": "$900",
-            "price": 14,
+            "price": "3.37",
             "id": 679,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -13611,7 +13613,7 @@
             "cvv": 758,
             "pin": 5357,
             "balance": "$900",
-            "price": 10,
+            "price": "2.85",
             "id": 680,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -13631,7 +13633,7 @@
             "cvv": 614,
             "pin": 5738,
             "balance": "$900",
-            "price": 9,
+            "price": "6.68",
             "id": 681,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -13651,7 +13653,7 @@
             "cvv": 640,
             "pin": 8219,
             "balance": "$900",
-            "price": 7,
+            "price": "6.80",
             "id": 682,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -13671,7 +13673,7 @@
             "cvv": 248,
             "pin": 8867,
             "balance": "$900",
-            "price": 10,
+            "price": "7.34",
             "id": 683,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -13691,7 +13693,7 @@
             "cvv": 377,
             "pin": 7807,
             "balance": "$900",
-            "price": 14,
+            "price": "5.91",
             "id": 684,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -13711,7 +13713,7 @@
             "cvv": 274,
             "pin": 1181,
             "balance": "$900",
-            "price": 9,
+            "price": "4.35",
             "id": 685,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -13731,7 +13733,7 @@
             "cvv": 610,
             "pin": 5204,
             "balance": "$900",
-            "price": 10,
+            "price": "5.58",
             "id": 686,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -13751,7 +13753,7 @@
             "cvv": 116,
             "pin": 1732,
             "balance": "$900",
-            "price": 6,
+            "price": "5.64",
             "id": 687,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -13771,7 +13773,7 @@
             "cvv": 592,
             "pin": 1982,
             "balance": "$900",
-            "price": 11,
+            "price": "4.50",
             "id": 688,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -13791,7 +13793,7 @@
             "cvv": 492,
             "pin": 8485,
             "balance": "$900",
-            "price": 7,
+            "price": "4.07",
             "id": 689,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -13811,7 +13813,7 @@
             "cvv": 108,
             "pin": 6575,
             "balance": "$900",
-            "price": 13,
+            "price": "6.02",
             "id": 690,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -13831,7 +13833,7 @@
             "cvv": 411,
             "pin": 8141,
             "balance": "$900",
-            "price": 8,
+            "price": "5.93",
             "id": 691,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -13851,7 +13853,7 @@
             "cvv": 215,
             "pin": 7119,
             "balance": "$900",
-            "price": 6,
+            "price": "6.09",
             "id": 692,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -13871,7 +13873,7 @@
             "cvv": 281,
             "pin": 7141,
             "balance": "$900",
-            "price": 7,
+            "price": "7.88",
             "id": 693,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -13891,7 +13893,7 @@
             "cvv": 325,
             "pin": 5426,
             "balance": "$900",
-            "price": 9,
+            "price": "4.17",
             "id": 694,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -13911,7 +13913,7 @@
             "cvv": 250,
             "pin": 7496,
             "balance": "$900",
-            "price": 7,
+            "price": "6.89",
             "id": 695,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -13931,7 +13933,7 @@
             "cvv": 795,
             "pin": 1119,
             "balance": "$900",
-            "price": 10,
+            "price": "6.32",
             "id": 696,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -13951,7 +13953,7 @@
             "cvv": 367,
             "pin": 8622,
             "balance": "$900",
-            "price": 6,
+            "price": "2.75",
             "id": 697,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -13971,7 +13973,7 @@
             "cvv": 529,
             "pin": 4159,
             "balance": "$900",
-            "price": 7,
+            "price": "6.72",
             "id": 698,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -13991,7 +13993,7 @@
             "cvv": 536,
             "pin": 5485,
             "balance": "$900",
-            "price": 11,
+            "price": "3.02",
             "id": 699,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -14011,7 +14013,7 @@
             "cvv": 467,
             "pin": 2108,
             "balance": "$900",
-            "price": 8,
+            "price": "5.38",
             "id": 700,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -14031,7 +14033,7 @@
             "cvv": 864,
             "pin": 8968,
             "balance": "$900",
-            "price": 14,
+            "price": "7.89",
             "id": 701,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -14051,7 +14053,7 @@
             "cvv": 144,
             "pin": 2091,
             "balance": "$900",
-            "price": 7,
+            "price": "7.93",
             "id": 702,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -14071,7 +14073,7 @@
             "cvv": 358,
             "pin": 1440,
             "balance": "$900",
-            "price": 8,
+            "price": "3.62",
             "id": 703,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -14091,7 +14093,7 @@
             "cvv": 670,
             "pin": 5156,
             "balance": "$900",
-            "price": 14,
+            "price": "2.19",
             "id": 704,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -14111,7 +14113,7 @@
             "cvv": 558,
             "pin": 3701,
             "balance": "$900",
-            "price": 6,
+            "price": "4.64",
             "id": 705,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -14131,7 +14133,7 @@
             "cvv": 173,
             "pin": 5999,
             "balance": "$900",
-            "price": 9,
+            "price": "2.75",
             "id": 706,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -14151,7 +14153,7 @@
             "cvv": 148,
             "pin": 4898,
             "balance": "$900",
-            "price": 7,
+            "price": "6.09",
             "id": 707,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -14171,7 +14173,7 @@
             "cvv": 495,
             "pin": 6645,
             "balance": "$900",
-            "price": 11,
+            "price": "6.14",
             "id": 708,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -14191,7 +14193,7 @@
             "cvv": 454,
             "pin": 8042,
             "balance": "$900",
-            "price": 6,
+            "price": "7.75",
             "id": 709,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -14211,7 +14213,7 @@
             "cvv": 334,
             "pin": 3773,
             "balance": "$900",
-            "price": 6,
+            "price": "3.49",
             "id": 710,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -14231,7 +14233,7 @@
             "cvv": 143,
             "pin": 6920,
             "balance": "$900",
-            "price": 11,
+            "price": "5.98",
             "id": 711,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -14251,7 +14253,7 @@
             "cvv": 709,
             "pin": 5235,
             "balance": "$900",
-            "price": 8,
+            "price": "7.73",
             "id": 712,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -14271,7 +14273,7 @@
             "cvv": 413,
             "pin": 4117,
             "balance": "$900",
-            "price": 7,
+            "price": "6.52",
             "id": 713,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -14291,7 +14293,7 @@
             "cvv": 477,
             "pin": 8332,
             "balance": "$900",
-            "price": 7,
+            "price": "4.62",
             "id": 714,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -14311,7 +14313,7 @@
             "cvv": 199,
             "pin": 5055,
             "balance": "$900",
-            "price": 13,
+            "price": "7.77",
             "id": 715,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -14331,7 +14333,7 @@
             "cvv": 744,
             "pin": 7263,
             "balance": "$900",
-            "price": 12,
+            "price": "6.34",
             "id": 716,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -14351,7 +14353,7 @@
             "cvv": 560,
             "pin": 4324,
             "balance": "$900",
-            "price": 8,
+            "price": "3.19",
             "id": 717,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -14371,7 +14373,7 @@
             "cvv": 355,
             "pin": 5706,
             "balance": "$900",
-            "price": 14,
+            "price": "7.13",
             "id": 718,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -14391,7 +14393,7 @@
             "cvv": 508,
             "pin": 6581,
             "balance": "$900",
-            "price": 11,
+            "price": "5.77",
             "id": 719,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -14411,7 +14413,7 @@
             "cvv": 695,
             "pin": 6613,
             "balance": "$900",
-            "price": 6,
+            "price": "6.10",
             "id": 720,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -14431,7 +14433,7 @@
             "cvv": 615,
             "pin": 8801,
             "balance": "$900",
-            "price": 8,
+            "price": "6.00",
             "id": 721,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -14451,7 +14453,7 @@
             "cvv": 460,
             "pin": 7949,
             "balance": "$900",
-            "price": 14,
+            "price": "6.44",
             "id": 722,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -14471,7 +14473,7 @@
             "cvv": 741,
             "pin": 2065,
             "balance": "$900",
-            "price": 13,
+            "price": "7.23",
             "id": 723,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -14491,7 +14493,7 @@
             "cvv": 423,
             "pin": 8051,
             "balance": "$900",
-            "price": 9,
+            "price": "6.54",
             "id": 724,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -14511,7 +14513,7 @@
             "cvv": 729,
             "pin": 3339,
             "balance": "$900",
-            "price": 14,
+            "price": "7.09",
             "id": 725,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -14531,7 +14533,7 @@
             "cvv": 762,
             "pin": 6282,
             "balance": "$900",
-            "price": 12,
+            "price": "2.74",
             "id": 726,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -14551,7 +14553,7 @@
             "cvv": 165,
             "pin": 8126,
             "balance": "$900",
-            "price": 9,
+            "price": "4.39",
             "id": 727,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -14571,7 +14573,7 @@
             "cvv": 568,
             "pin": 7487,
             "balance": "$900",
-            "price": 12,
+            "price": "5.92",
             "id": 728,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -14591,7 +14593,7 @@
             "cvv": 515,
             "pin": 8939,
             "balance": "$900",
-            "price": 7,
+            "price": "5.22",
             "id": 729,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -14611,7 +14613,7 @@
             "cvv": 850,
             "pin": 6164,
             "balance": "$900",
-            "price": 11,
+            "price": "3.80",
             "id": 730,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -14631,7 +14633,7 @@
             "cvv": 572,
             "pin": 4424,
             "balance": "$900",
-            "price": 12,
+            "price": "4.04",
             "id": 731,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -14651,7 +14653,7 @@
             "cvv": 250,
             "pin": 1902,
             "balance": "$900",
-            "price": 7,
+            "price": "6.68",
             "id": 732,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -14671,7 +14673,7 @@
             "cvv": 841,
             "pin": 6172,
             "balance": "$900",
-            "price": 10,
+            "price": "6.43",
             "id": 733,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -14691,7 +14693,7 @@
             "cvv": 268,
             "pin": 5083,
             "balance": "$900",
-            "price": 8,
+            "price": "2.04",
             "id": 734,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -14711,7 +14713,7 @@
             "cvv": 855,
             "pin": 8518,
             "balance": "$900",
-            "price": 7,
+            "price": "4.49",
             "id": 735,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -14731,7 +14733,7 @@
             "cvv": 619,
             "pin": 8238,
             "balance": "$900",
-            "price": 14,
+            "price": "2.54",
             "id": 736,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -14751,7 +14753,7 @@
             "cvv": 291,
             "pin": 1378,
             "balance": "$900",
-            "price": 8,
+            "price": "2.41",
             "id": 737,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -14771,7 +14773,7 @@
             "cvv": 767,
             "pin": 7352,
             "balance": "$900",
-            "price": 9,
+            "price": "4.89",
             "id": 738,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -14791,7 +14793,7 @@
             "cvv": 586,
             "pin": 1466,
             "balance": "$900",
-            "price": 14,
+            "price": "5.02",
             "id": 739,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -14811,7 +14813,7 @@
             "cvv": 354,
             "pin": 4103,
             "balance": "$900",
-            "price": 11,
+            "price": "6.22",
             "id": 740,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -14831,7 +14833,7 @@
             "cvv": 509,
             "pin": 3271,
             "balance": "$900",
-            "price": 9,
+            "price": "4.26",
             "id": 741,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -14851,7 +14853,7 @@
             "cvv": 826,
             "pin": 8529,
             "balance": "$900",
-            "price": 14,
+            "price": "7.14",
             "id": 742,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -14871,7 +14873,7 @@
             "cvv": 569,
             "pin": 2320,
             "balance": "$900",
-            "price": 8,
+            "price": "6.83",
             "id": 743,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -14891,7 +14893,7 @@
             "cvv": 144,
             "pin": 3819,
             "balance": "$900",
-            "price": 10,
+            "price": "5.31",
             "id": 744,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -14911,7 +14913,7 @@
             "cvv": 603,
             "pin": 2629,
             "balance": "$900",
-            "price": 11,
+            "price": "6.38",
             "id": 745,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -14931,7 +14933,7 @@
             "cvv": 612,
             "pin": 3582,
             "balance": "$900",
-            "price": 6,
+            "price": "7.80",
             "id": 746,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -14951,7 +14953,7 @@
             "cvv": 793,
             "pin": 5232,
             "balance": "$900",
-            "price": 12,
+            "price": "5.40",
             "id": 747,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -14971,7 +14973,7 @@
             "cvv": 669,
             "pin": 6272,
             "balance": "$900",
-            "price": 9,
+            "price": "2.08",
             "id": 748,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -14991,7 +14993,7 @@
             "cvv": 787,
             "pin": 1464,
             "balance": "$900",
-            "price": 8,
+            "price": "2.98",
             "id": 749,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -15011,7 +15013,7 @@
             "cvv": 263,
             "pin": 1259,
             "balance": "$900",
-            "price": 14,
+            "price": "2.10",
             "id": 750,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -15031,7 +15033,7 @@
             "cvv": 218,
             "pin": 5551,
             "balance": "$900",
-            "price": 14,
+            "price": "7.25",
             "id": 751,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -15051,7 +15053,7 @@
             "cvv": 545,
             "pin": 3355,
             "balance": "$900",
-            "price": 10,
+            "price": "3.23",
             "id": 752,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -15071,7 +15073,7 @@
             "cvv": 387,
             "pin": 1104,
             "balance": "$900",
-            "price": 13,
+            "price": "5.56",
             "id": 753,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -15091,7 +15093,7 @@
             "cvv": 481,
             "pin": 6331,
             "balance": "$900",
-            "price": 6,
+            "price": "2.96",
             "id": 754,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -15111,7 +15113,7 @@
             "cvv": 317,
             "pin": 3753,
             "balance": "$900",
-            "price": 10,
+            "price": "7.86",
             "id": 755,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -15131,7 +15133,7 @@
             "cvv": 412,
             "pin": 8430,
             "balance": "$900",
-            "price": 7,
+            "price": "7.84",
             "id": 756,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -15151,7 +15153,7 @@
             "cvv": 402,
             "pin": 3674,
             "balance": "$900",
-            "price": 10,
+            "price": "5.51",
             "id": 757,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -15171,7 +15173,7 @@
             "cvv": 428,
             "pin": 2810,
             "balance": "$900",
-            "price": 10,
+            "price": "5.43",
             "id": 758,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -15191,7 +15193,7 @@
             "cvv": 836,
             "pin": 7608,
             "balance": "$900",
-            "price": 14,
+            "price": "7.97",
             "id": 759,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -15211,7 +15213,7 @@
             "cvv": 334,
             "pin": 6733,
             "balance": "$900",
-            "price": 9,
+            "price": "5.99",
             "id": 760,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -15231,7 +15233,7 @@
             "cvv": 195,
             "pin": 3362,
             "balance": "$900",
-            "price": 9,
+            "price": "3.81",
             "id": 761,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -15251,7 +15253,7 @@
             "cvv": 408,
             "pin": 2986,
             "balance": "$900",
-            "price": 8,
+            "price": "3.10",
             "id": 762,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -15271,7 +15273,7 @@
             "cvv": 294,
             "pin": 7557,
             "balance": "$900",
-            "price": 8,
+            "price": "4.08",
             "id": 763,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -15291,7 +15293,7 @@
             "cvv": 295,
             "pin": 1470,
             "balance": "$900",
-            "price": 8,
+            "price": "3.33",
             "id": 764,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -15311,7 +15313,7 @@
             "cvv": 241,
             "pin": 2906,
             "balance": "$900",
-            "price": 8,
+            "price": "2.76",
             "id": 765,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -15331,7 +15333,7 @@
             "cvv": 880,
             "pin": 5410,
             "balance": "$900",
-            "price": 8,
+            "price": "7.71",
             "id": 766,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -15351,7 +15353,7 @@
             "cvv": 496,
             "pin": 5807,
             "balance": "$900",
-            "price": 13,
+            "price": "4.88",
             "id": 767,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -15371,7 +15373,7 @@
             "cvv": 492,
             "pin": 5974,
             "balance": "$900",
-            "price": 7,
+            "price": "5.08",
             "id": 768,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -15391,7 +15393,7 @@
             "cvv": 108,
             "pin": 8866,
             "balance": "$900",
-            "price": 9,
+            "price": "4.62",
             "id": 769,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -15411,7 +15413,7 @@
             "cvv": 733,
             "pin": 4779,
             "balance": "$900",
-            "price": 11,
+            "price": "2.87",
             "id": 770,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -15431,7 +15433,7 @@
             "cvv": 307,
             "pin": 7769,
             "balance": "$900",
-            "price": 7,
+            "price": "4.77",
             "id": 771,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -15451,7 +15453,7 @@
             "cvv": 147,
             "pin": 2854,
             "balance": "$900",
-            "price": 14,
+            "price": "3.38",
             "id": 772,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -15471,7 +15473,7 @@
             "cvv": 870,
             "pin": 7922,
             "balance": "$900",
-            "price": 12,
+            "price": "4.72",
             "id": 773,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -15491,7 +15493,7 @@
             "cvv": 512,
             "pin": 6125,
             "balance": "$900",
-            "price": 13,
+            "price": "2.09",
             "id": 774,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -15511,7 +15513,7 @@
             "cvv": 271,
             "pin": 6014,
             "balance": "$900",
-            "price": 8,
+            "price": "6.74",
             "id": 775,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -15531,7 +15533,7 @@
             "cvv": 244,
             "pin": 7539,
             "balance": "$900",
-            "price": 8,
+            "price": "2.12",
             "id": 776,
             "expirationYear": 2023,
             "expirationMonth": 7
@@ -15551,7 +15553,7 @@
             "cvv": 653,
             "pin": 7205,
             "balance": "$900",
-            "price": 14,
+            "price": "5.64",
             "id": 777,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -15571,7 +15573,7 @@
             "cvv": 850,
             "pin": 3641,
             "balance": "$900",
-            "price": 6,
+            "price": "3.74",
             "id": 778,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -15591,7 +15593,7 @@
             "cvv": 719,
             "pin": 1065,
             "balance": "$900",
-            "price": 6,
+            "price": "7.84",
             "id": 779,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -15611,7 +15613,7 @@
             "cvv": 793,
             "pin": 4648,
             "balance": "$900",
-            "price": 14,
+            "price": "4.12",
             "id": 780,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -15631,7 +15633,7 @@
             "cvv": 142,
             "pin": 1028,
             "balance": "$900",
-            "price": 14,
+            "price": "4.15",
             "id": 781,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -15651,7 +15653,7 @@
             "cvv": 354,
             "pin": 7233,
             "balance": "$900",
-            "price": 8,
+            "price": "3.66",
             "id": 782,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -15671,7 +15673,7 @@
             "cvv": 601,
             "pin": 7648,
             "balance": "$900",
-            "price": 14,
+            "price": "4.15",
             "id": 783,
             "expirationYear": 2022,
             "expirationMonth": 2
@@ -15691,7 +15693,7 @@
             "cvv": 582,
             "pin": 3686,
             "balance": "$900",
-            "price": 9,
+            "price": "7.78",
             "id": 784,
             "expirationYear": 2023,
             "expirationMonth": 7
@@ -15711,7 +15713,7 @@
             "cvv": 285,
             "pin": 4780,
             "balance": "$900",
-            "price": 9,
+            "price": "2.68",
             "id": 785,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -15731,7 +15733,7 @@
             "cvv": 588,
             "pin": 7526,
             "balance": "$900",
-            "price": 11,
+            "price": "6.99",
             "id": 786,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -15751,7 +15753,7 @@
             "cvv": 109,
             "pin": 3055,
             "balance": "$900",
-            "price": 9,
+            "price": "2.84",
             "id": 787,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -15771,7 +15773,7 @@
             "cvv": 202,
             "pin": 4818,
             "balance": "$900",
-            "price": 13,
+            "price": "4.22",
             "id": 788,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -15791,7 +15793,7 @@
             "cvv": 509,
             "pin": 7606,
             "balance": "$900",
-            "price": 7,
+            "price": "4.60",
             "id": 789,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -15811,7 +15813,7 @@
             "cvv": 164,
             "pin": 1583,
             "balance": "$900",
-            "price": 8,
+            "price": "3.48",
             "id": 790,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -15831,7 +15833,7 @@
             "cvv": 392,
             "pin": 2147,
             "balance": "$900",
-            "price": 9,
+            "price": "3.93",
             "id": 791,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -15851,7 +15853,7 @@
             "cvv": 546,
             "pin": 6854,
             "balance": "$900",
-            "price": 7,
+            "price": "5.06",
             "id": 792,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -15871,7 +15873,7 @@
             "cvv": 328,
             "pin": 5072,
             "balance": "$900",
-            "price": 9,
+            "price": "4.75",
             "id": 793,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -15891,7 +15893,7 @@
             "cvv": 318,
             "pin": 5296,
             "balance": "$900",
-            "price": 6,
+            "price": "2.38",
             "id": 794,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -15911,7 +15913,7 @@
             "cvv": 770,
             "pin": 8980,
             "balance": "$900",
-            "price": 13,
+            "price": "5.78",
             "id": 795,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -15931,7 +15933,7 @@
             "cvv": 260,
             "pin": 4652,
             "balance": "$900",
-            "price": 14,
+            "price": "3.98",
             "id": 796,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -15951,7 +15953,7 @@
             "cvv": 541,
             "pin": 1214,
             "balance": "$900",
-            "price": 7,
+            "price": "4.47",
             "id": 797,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -15971,7 +15973,7 @@
             "cvv": 487,
             "pin": 4602,
             "balance": "$900",
-            "price": 6,
+            "price": "7.77",
             "id": 798,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -15991,7 +15993,7 @@
             "cvv": 655,
             "pin": 7853,
             "balance": "$900",
-            "price": 11,
+            "price": "3.91",
             "id": 799,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -16011,7 +16013,7 @@
             "cvv": 637,
             "pin": 2473,
             "balance": "$900",
-            "price": 12,
+            "price": "4.43",
             "id": 800,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -16031,7 +16033,7 @@
             "cvv": 538,
             "pin": 3708,
             "balance": "$900",
-            "price": 7,
+            "price": "6.60",
             "id": 801,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -16051,7 +16053,7 @@
             "cvv": 770,
             "pin": 8513,
             "balance": "$900",
-            "price": 10,
+            "price": "4.03",
             "id": 802,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -16071,7 +16073,7 @@
             "cvv": 708,
             "pin": 6418,
             "balance": "$900",
-            "price": 12,
+            "price": "7.49",
             "id": 803,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -16091,7 +16093,7 @@
             "cvv": 611,
             "pin": 1634,
             "balance": "$900",
-            "price": 10,
+            "price": "7.68",
             "id": 804,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -16111,7 +16113,7 @@
             "cvv": 665,
             "pin": 8232,
             "balance": "$900",
-            "price": 8,
+            "price": "6.44",
             "id": 805,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -16131,7 +16133,7 @@
             "cvv": 859,
             "pin": 7014,
             "balance": "$900",
-            "price": 13,
+            "price": "7.57",
             "id": 806,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -16151,7 +16153,7 @@
             "cvv": 225,
             "pin": 7233,
             "balance": "$900",
-            "price": 8,
+            "price": "3.85",
             "id": 807,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -16171,7 +16173,7 @@
             "cvv": 108,
             "pin": 5383,
             "balance": "$900",
-            "price": 12,
+            "price": "5.82",
             "id": 808,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -16191,7 +16193,7 @@
             "cvv": 877,
             "pin": 5080,
             "balance": "$900",
-            "price": 7,
+            "price": "2.35",
             "id": 809,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -16211,7 +16213,7 @@
             "cvv": 648,
             "pin": 2846,
             "balance": "$900",
-            "price": 8,
+            "price": "3.57",
             "id": 810,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -16231,7 +16233,7 @@
             "cvv": 516,
             "pin": 1030,
             "balance": "$900",
-            "price": 10,
+            "price": "2.69",
             "id": 811,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -16251,7 +16253,7 @@
             "cvv": 490,
             "pin": 2166,
             "balance": "$900",
-            "price": 13,
+            "price": "3.62",
             "id": 812,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -16271,7 +16273,7 @@
             "cvv": 217,
             "pin": 6257,
             "balance": "$900",
-            "price": 12,
+            "price": "7.06",
             "id": 813,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -16291,7 +16293,7 @@
             "cvv": 758,
             "pin": 3012,
             "balance": "$900",
-            "price": 6,
+            "price": "5.12",
             "id": 814,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -16311,7 +16313,7 @@
             "cvv": 625,
             "pin": 8004,
             "balance": "$900",
-            "price": 11,
+            "price": "6.69",
             "id": 815,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -16331,7 +16333,7 @@
             "cvv": 311,
             "pin": 7009,
             "balance": "$900",
-            "price": 6,
+            "price": "3.54",
             "id": 816,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -16351,7 +16353,7 @@
             "cvv": 127,
             "pin": 2992,
             "balance": "$900",
-            "price": 14,
+            "price": "4.95",
             "id": 817,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -16371,7 +16373,7 @@
             "cvv": 145,
             "pin": 1275,
             "balance": "$900",
-            "price": 13,
+            "price": "3.52",
             "id": 818,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -16391,7 +16393,7 @@
             "cvv": 626,
             "pin": 8566,
             "balance": "$900",
-            "price": 14,
+            "price": "4.91",
             "id": 819,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -16411,7 +16413,7 @@
             "cvv": 350,
             "pin": 7131,
             "balance": "$900",
-            "price": 9,
+            "price": "3.33",
             "id": 820,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -16431,7 +16433,7 @@
             "cvv": 721,
             "pin": 4640,
             "balance": "$900",
-            "price": 14,
+            "price": "2.35",
             "id": 821,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -16451,7 +16453,7 @@
             "cvv": 624,
             "pin": 1730,
             "balance": "$900",
-            "price": 9,
+            "price": "6.97",
             "id": 822,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -16471,7 +16473,7 @@
             "cvv": 750,
             "pin": 2364,
             "balance": "$900",
-            "price": 8,
+            "price": "4.31",
             "id": 823,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -16491,7 +16493,7 @@
             "cvv": 563,
             "pin": 2862,
             "balance": "$900",
-            "price": 9,
+            "price": "2.80",
             "id": 824,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -16511,7 +16513,7 @@
             "cvv": 837,
             "pin": 7720,
             "balance": "$900",
-            "price": 10,
+            "price": "3.96",
             "id": 825,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -16531,7 +16533,7 @@
             "cvv": 106,
             "pin": 4287,
             "balance": "$900",
-            "price": 6,
+            "price": "4.73",
             "id": 826,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -16551,7 +16553,7 @@
             "cvv": 551,
             "pin": 5962,
             "balance": "$900",
-            "price": 12,
+            "price": "6.62",
             "id": 827,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -16571,7 +16573,7 @@
             "cvv": 568,
             "pin": 5344,
             "balance": "$900",
-            "price": 11,
+            "price": "7.98",
             "id": 828,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -16591,7 +16593,7 @@
             "cvv": 733,
             "pin": 5003,
             "balance": "$900",
-            "price": 10,
+            "price": "4.83",
             "id": 829,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -16611,7 +16613,7 @@
             "cvv": 653,
             "pin": 2101,
             "balance": "$900",
-            "price": 8,
+            "price": "5.86",
             "id": 830,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -16631,7 +16633,7 @@
             "cvv": 563,
             "pin": 7192,
             "balance": "$900",
-            "price": 10,
+            "price": "4.57",
             "id": 831,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -16651,7 +16653,7 @@
             "cvv": 897,
             "pin": 2954,
             "balance": "$900",
-            "price": 13,
+            "price": "3.23",
             "id": 832,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -16671,7 +16673,7 @@
             "cvv": 805,
             "pin": 8198,
             "balance": "$900",
-            "price": 12,
+            "price": "3.83",
             "id": 833,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -16691,7 +16693,7 @@
             "cvv": 358,
             "pin": 4499,
             "balance": "$900",
-            "price": 6,
+            "price": "5.12",
             "id": 834,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -16711,7 +16713,7 @@
             "cvv": 335,
             "pin": 6115,
             "balance": "$900",
-            "price": 13,
+            "price": "7.26",
             "id": 835,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -16731,7 +16733,7 @@
             "cvv": 478,
             "pin": 1886,
             "balance": "$900",
-            "price": 14,
+            "price": "2.10",
             "id": 836,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -16751,7 +16753,7 @@
             "cvv": 423,
             "pin": 6008,
             "balance": "$900",
-            "price": 14,
+            "price": "5.37",
             "id": 837,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -16771,7 +16773,7 @@
             "cvv": 471,
             "pin": 3106,
             "balance": "$900",
-            "price": 10,
+            "price": "3.79",
             "id": 838,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -16791,7 +16793,7 @@
             "cvv": 626,
             "pin": 3009,
             "balance": "$900",
-            "price": 12,
+            "price": "5.62",
             "id": 839,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -16811,7 +16813,7 @@
             "cvv": 145,
             "pin": 7285,
             "balance": "$900",
-            "price": 14,
+            "price": "7.04",
             "id": 840,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -16831,7 +16833,7 @@
             "cvv": 522,
             "pin": 1796,
             "balance": "$900",
-            "price": 6,
+            "price": "4.26",
             "id": 841,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -16851,7 +16853,7 @@
             "cvv": 307,
             "pin": 2872,
             "balance": "$900",
-            "price": 14,
+            "price": "2.10",
             "id": 842,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -16871,7 +16873,7 @@
             "cvv": 657,
             "pin": 6947,
             "balance": "$900",
-            "price": 13,
+            "price": "5.26",
             "id": 843,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -16891,7 +16893,7 @@
             "cvv": 759,
             "pin": 2371,
             "balance": "$900",
-            "price": 11,
+            "price": "6.45",
             "id": 844,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -16911,7 +16913,7 @@
             "cvv": 313,
             "pin": 5800,
             "balance": "$900",
-            "price": 9,
+            "price": "3.05",
             "id": 845,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -16931,7 +16933,7 @@
             "cvv": 397,
             "pin": 6642,
             "balance": "$900",
-            "price": 7,
+            "price": "2.41",
             "id": 846,
             "expirationYear": 2023,
             "expirationMonth": 1
@@ -16951,7 +16953,7 @@
             "cvv": 747,
             "pin": 4055,
             "balance": "$900",
-            "price": 13,
+            "price": "7.38",
             "id": 847,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -16971,7 +16973,7 @@
             "cvv": 251,
             "pin": 6586,
             "balance": "$900",
-            "price": 13,
+            "price": "2.07",
             "id": 848,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -16991,7 +16993,7 @@
             "cvv": 619,
             "pin": 8298,
             "balance": "$900",
-            "price": 13,
+            "price": "3.54",
             "id": 849,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -17011,7 +17013,7 @@
             "cvv": 588,
             "pin": 6118,
             "balance": "$900",
-            "price": 7,
+            "price": "6.23",
             "id": 850,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -17031,7 +17033,7 @@
             "cvv": 736,
             "pin": 4249,
             "balance": "$900",
-            "price": 9,
+            "price": "6.03",
             "id": 851,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -17051,7 +17053,7 @@
             "cvv": 660,
             "pin": 5227,
             "balance": "$900",
-            "price": 7,
+            "price": "5.16",
             "id": 852,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -17071,7 +17073,7 @@
             "cvv": 862,
             "pin": 6454,
             "balance": "$900",
-            "price": 12,
+            "price": "6.06",
             "id": 853,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -17091,7 +17093,7 @@
             "cvv": 407,
             "pin": 2953,
             "balance": "$900",
-            "price": 14,
+            "price": "5.20",
             "id": 854,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -17111,7 +17113,7 @@
             "cvv": 137,
             "pin": 6415,
             "balance": "$900",
-            "price": 14,
+            "price": "5.31",
             "id": 855,
             "expirationYear": 2023,
             "expirationMonth": 7
@@ -17131,7 +17133,7 @@
             "cvv": 275,
             "pin": 7613,
             "balance": "$900",
-            "price": 8,
+            "price": "7.93",
             "id": 856,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -17151,7 +17153,7 @@
             "cvv": 870,
             "pin": 8447,
             "balance": "$900",
-            "price": 10,
+            "price": "5.67",
             "id": 857,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -17171,7 +17173,7 @@
             "cvv": 781,
             "pin": 3081,
             "balance": "$900",
-            "price": 7,
+            "price": "5.33",
             "id": 858,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -17191,7 +17193,7 @@
             "cvv": 645,
             "pin": 4894,
             "balance": "$900",
-            "price": 8,
+            "price": "7.30",
             "id": 859,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -17211,7 +17213,7 @@
             "cvv": 716,
             "pin": 2280,
             "balance": "$900",
-            "price": 10,
+            "price": "5.35",
             "id": 860,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -17231,7 +17233,7 @@
             "cvv": 886,
             "pin": 1936,
             "balance": "$900",
-            "price": 11,
+            "price": "6.01",
             "id": 861,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -17251,7 +17253,7 @@
             "cvv": 678,
             "pin": 7054,
             "balance": "$900",
-            "price": 14,
+            "price": "5.32",
             "id": 862,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -17271,7 +17273,7 @@
             "cvv": 620,
             "pin": 5840,
             "balance": "$900",
-            "price": 9,
+            "price": "6.95",
             "id": 863,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -17291,7 +17293,7 @@
             "cvv": 519,
             "pin": 5058,
             "balance": "$900",
-            "price": 7,
+            "price": "3.29",
             "id": 864,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -17311,7 +17313,7 @@
             "cvv": 673,
             "pin": 7242,
             "balance": "$900",
-            "price": 10,
+            "price": "3.70",
             "id": 865,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -17331,7 +17333,7 @@
             "cvv": 196,
             "pin": 6578,
             "balance": "$900",
-            "price": 8,
+            "price": "5.49",
             "id": 866,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -17351,7 +17353,7 @@
             "cvv": 172,
             "pin": 8482,
             "balance": "$900",
-            "price": 11,
+            "price": "3.92",
             "id": 867,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -17371,7 +17373,7 @@
             "cvv": 814,
             "pin": 4526,
             "balance": "$900",
-            "price": 12,
+            "price": "4.85",
             "id": 868,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -17391,7 +17393,7 @@
             "cvv": 761,
             "pin": 4928,
             "balance": "$900",
-            "price": 6,
+            "price": "6.22",
             "id": 869,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -17411,7 +17413,7 @@
             "cvv": 568,
             "pin": 6422,
             "balance": "$900",
-            "price": 10,
+            "price": "6.49",
             "id": 870,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -17431,7 +17433,7 @@
             "cvv": 265,
             "pin": 6066,
             "balance": "$900",
-            "price": 8,
+            "price": "5.36",
             "id": 871,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -17451,7 +17453,7 @@
             "cvv": 861,
             "pin": 3643,
             "balance": "$900",
-            "price": 6,
+            "price": "7.16",
             "id": 872,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -17471,7 +17473,7 @@
             "cvv": 837,
             "pin": 1746,
             "balance": "$900",
-            "price": 8,
+            "price": "7.73",
             "id": 873,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -17491,7 +17493,7 @@
             "cvv": 725,
             "pin": 6022,
             "balance": "$900",
-            "price": 10,
+            "price": "6.84",
             "id": 874,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -17511,7 +17513,7 @@
             "cvv": 511,
             "pin": 7892,
             "balance": "$900",
-            "price": 8,
+            "price": "3.66",
             "id": 875,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -17531,7 +17533,7 @@
             "cvv": 460,
             "pin": 1643,
             "balance": "$900",
-            "price": 11,
+            "price": "7.74",
             "id": 876,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -17551,7 +17553,7 @@
             "cvv": 825,
             "pin": 7881,
             "balance": "$900",
-            "price": 13,
+            "price": "6.85",
             "id": 877,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -17571,7 +17573,7 @@
             "cvv": 458,
             "pin": 8898,
             "balance": "$900",
-            "price": 7,
+            "price": "7.57",
             "id": 878,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -17591,7 +17593,7 @@
             "cvv": 681,
             "pin": 5288,
             "balance": "$900",
-            "price": 8,
+            "price": "4.45",
             "id": 879,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -17611,7 +17613,7 @@
             "cvv": 165,
             "pin": 3429,
             "balance": "$900",
-            "price": 13,
+            "price": "6.78",
             "id": 880,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -17631,7 +17633,7 @@
             "cvv": 215,
             "pin": 4437,
             "balance": "$900",
-            "price": 14,
+            "price": "3.77",
             "id": 881,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -17651,7 +17653,7 @@
             "cvv": 753,
             "pin": 7104,
             "balance": "$900",
-            "price": 10,
+            "price": "5.51",
             "id": 882,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -17671,7 +17673,7 @@
             "cvv": 780,
             "pin": 7750,
             "balance": "$900",
-            "price": 9,
+            "price": "3.29",
             "id": 883,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -17691,7 +17693,7 @@
             "cvv": 564,
             "pin": 4799,
             "balance": "$900",
-            "price": 6,
+            "price": "2.84",
             "id": 884,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -17711,7 +17713,7 @@
             "cvv": 834,
             "pin": 5270,
             "balance": "$900",
-            "price": 11,
+            "price": "7.27",
             "id": 885,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -17731,7 +17733,7 @@
             "cvv": 888,
             "pin": 6983,
             "balance": "$900",
-            "price": 13,
+            "price": "2.56",
             "id": 886,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -17751,7 +17753,7 @@
             "cvv": 895,
             "pin": 8255,
             "balance": "$900",
-            "price": 12,
+            "price": "3.05",
             "id": 887,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -17771,7 +17773,7 @@
             "cvv": 873,
             "pin": 3258,
             "balance": "$900",
-            "price": 10,
+            "price": "3.74",
             "id": 888,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -17791,7 +17793,7 @@
             "cvv": 665,
             "pin": 7044,
             "balance": "$900",
-            "price": 8,
+            "price": "3.10",
             "id": 889,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -17811,7 +17813,7 @@
             "cvv": 827,
             "pin": 2620,
             "balance": "$900",
-            "price": 11,
+            "price": "6.51",
             "id": 890,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -17831,7 +17833,7 @@
             "cvv": 603,
             "pin": 4352,
             "balance": "$900",
-            "price": 13,
+            "price": "5.49",
             "id": 891,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -17851,7 +17853,7 @@
             "cvv": 698,
             "pin": 1829,
             "balance": "$900",
-            "price": 6,
+            "price": "5.39",
             "id": 892,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -17871,7 +17873,7 @@
             "cvv": 645,
             "pin": 8811,
             "balance": "$900",
-            "price": 6,
+            "price": "3.55",
             "id": 893,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -17891,7 +17893,7 @@
             "cvv": 359,
             "pin": 2745,
             "balance": "$900",
-            "price": 13,
+            "price": "5.35",
             "id": 894,
             "expirationYear": 2021,
             "expirationMonth": 9
@@ -17911,7 +17913,7 @@
             "cvv": 740,
             "pin": 6612,
             "balance": "$900",
-            "price": 9,
+            "price": "3.73",
             "id": 895,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -17931,7 +17933,7 @@
             "cvv": 453,
             "pin": 3834,
             "balance": "$900",
-            "price": 12,
+            "price": "7.86",
             "id": 896,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -17951,7 +17953,7 @@
             "cvv": 217,
             "pin": 8437,
             "balance": "$900",
-            "price": 14,
+            "price": "5.43",
             "id": 897,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -17971,7 +17973,7 @@
             "cvv": 186,
             "pin": 6781,
             "balance": "$900",
-            "price": 10,
+            "price": "5.67",
             "id": 898,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -17991,7 +17993,7 @@
             "cvv": 826,
             "pin": 1467,
             "balance": "$900",
-            "price": 10,
+            "price": "5.75",
             "id": 899,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -18011,7 +18013,7 @@
             "cvv": 695,
             "pin": 4290,
             "balance": "$900",
-            "price": 8,
+            "price": "4.78",
             "id": 900,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -18031,7 +18033,7 @@
             "cvv": 281,
             "pin": 3718,
             "balance": "$900",
-            "price": 13,
+            "price": "2.62",
             "id": 901,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -18051,7 +18053,7 @@
             "cvv": 492,
             "pin": 2861,
             "balance": "$900",
-            "price": 9,
+            "price": "7.99",
             "id": 902,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -18071,7 +18073,7 @@
             "cvv": 542,
             "pin": 2469,
             "balance": "$900",
-            "price": 9,
+            "price": "5.51",
             "id": 903,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -18091,7 +18093,7 @@
             "cvv": 462,
             "pin": 4293,
             "balance": "$900",
-            "price": 10,
+            "price": "4.68",
             "id": 904,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -18111,7 +18113,7 @@
             "cvv": 619,
             "pin": 4566,
             "balance": "$900",
-            "price": 6,
+            "price": "6.27",
             "id": 905,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -18131,7 +18133,7 @@
             "cvv": 528,
             "pin": 3944,
             "balance": "$900",
-            "price": 12,
+            "price": "6.34",
             "id": 906,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -18151,7 +18153,7 @@
             "cvv": 181,
             "pin": 8368,
             "balance": "$900",
-            "price": 14,
+            "price": "3.29",
             "id": 907,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -18171,7 +18173,7 @@
             "cvv": 785,
             "pin": 8449,
             "balance": "$900",
-            "price": 10,
+            "price": "4.63",
             "id": 908,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -18191,7 +18193,7 @@
             "cvv": 129,
             "pin": 8304,
             "balance": "$900",
-            "price": 11,
+            "price": "6.68",
             "id": 909,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -18211,7 +18213,7 @@
             "cvv": 535,
             "pin": 8881,
             "balance": "$900",
-            "price": 11,
+            "price": "7.01",
             "id": 910,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -18231,7 +18233,7 @@
             "cvv": 416,
             "pin": 4158,
             "balance": "$900",
-            "price": 11,
+            "price": "7.19",
             "id": 911,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -18251,7 +18253,7 @@
             "cvv": 422,
             "pin": 4161,
             "balance": "$900",
-            "price": 12,
+            "price": "7.27",
             "id": 912,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -18271,7 +18273,7 @@
             "cvv": 204,
             "pin": 6662,
             "balance": "$900",
-            "price": 10,
+            "price": "5.59",
             "id": 913,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -18291,7 +18293,7 @@
             "cvv": 826,
             "pin": 7709,
             "balance": "$900",
-            "price": 12,
+            "price": "7.17",
             "id": 914,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -18311,7 +18313,7 @@
             "cvv": 630,
             "pin": 2283,
             "balance": "$900",
-            "price": 9,
+            "price": "7.17",
             "id": 915,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -18331,7 +18333,7 @@
             "cvv": 877,
             "pin": 1229,
             "balance": "$900",
-            "price": 13,
+            "price": "2.22",
             "id": 916,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -18351,7 +18353,7 @@
             "cvv": 137,
             "pin": 1000,
             "balance": "$900",
-            "price": 7,
+            "price": "4.09",
             "id": 917,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -18371,7 +18373,7 @@
             "cvv": 842,
             "pin": 5814,
             "balance": "$900",
-            "price": 10,
+            "price": "5.12",
             "id": 918,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -18391,7 +18393,7 @@
             "cvv": 509,
             "pin": 2537,
             "balance": "$900",
-            "price": 12,
+            "price": "6.39",
             "id": 919,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -18411,7 +18413,7 @@
             "cvv": 135,
             "pin": 7705,
             "balance": "$900",
-            "price": 11,
+            "price": "4.02",
             "id": 920,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -18431,7 +18433,7 @@
             "cvv": 869,
             "pin": 1762,
             "balance": "$900",
-            "price": 12,
+            "price": "4.46",
             "id": 921,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -18451,7 +18453,7 @@
             "cvv": 527,
             "pin": 2616,
             "balance": "$900",
-            "price": 13,
+            "price": "3.02",
             "id": 922,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -18471,7 +18473,7 @@
             "cvv": 686,
             "pin": 1391,
             "balance": "$900",
-            "price": 11,
+            "price": "2.89",
             "id": 923,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -18491,7 +18493,7 @@
             "cvv": 108,
             "pin": 3281,
             "balance": "$900",
-            "price": 10,
+            "price": "3.25",
             "id": 924,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -18511,7 +18513,7 @@
             "cvv": 117,
             "pin": 3040,
             "balance": "$900",
-            "price": 11,
+            "price": "4.46",
             "id": 925,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -18531,7 +18533,7 @@
             "cvv": 492,
             "pin": 6431,
             "balance": "$900",
-            "price": 14,
+            "price": "2.55",
             "id": 926,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -18551,7 +18553,7 @@
             "cvv": 181,
             "pin": 3048,
             "balance": "$900",
-            "price": 13,
+            "price": "7.04",
             "id": 927,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -18571,7 +18573,7 @@
             "cvv": 844,
             "pin": 7117,
             "balance": "$900",
-            "price": 9,
+            "price": "2.90",
             "id": 928,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -18591,7 +18593,7 @@
             "cvv": 546,
             "pin": 1249,
             "balance": "$900",
-            "price": 9,
+            "price": "3.06",
             "id": 929,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -18611,7 +18613,7 @@
             "cvv": 597,
             "pin": 7242,
             "balance": "$900",
-            "price": 10,
+            "price": "4.21",
             "id": 930,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -18631,7 +18633,7 @@
             "cvv": 486,
             "pin": 2569,
             "balance": "$900",
-            "price": 13,
+            "price": "2.96",
             "id": 931,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -18651,7 +18653,7 @@
             "cvv": 161,
             "pin": 4347,
             "balance": "$900",
-            "price": 6,
+            "price": "3.98",
             "id": 932,
             "expirationYear": 2022,
             "expirationMonth": 2
@@ -18671,7 +18673,7 @@
             "cvv": 419,
             "pin": 7540,
             "balance": "$900",
-            "price": 9,
+            "price": "2.73",
             "id": 933,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -18691,7 +18693,7 @@
             "cvv": 519,
             "pin": 7695,
             "balance": "$900",
-            "price": 13,
+            "price": "3.60",
             "id": 934,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -18711,7 +18713,7 @@
             "cvv": 416,
             "pin": 6559,
             "balance": "$900",
-            "price": 12,
+            "price": "7.70",
             "id": 935,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -18731,7 +18733,7 @@
             "cvv": 344,
             "pin": 1272,
             "balance": "$900",
-            "price": 12,
+            "price": "6.38",
             "id": 936,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -18751,7 +18753,7 @@
             "cvv": 436,
             "pin": 1518,
             "balance": "$900",
-            "price": 11,
+            "price": "3.43",
             "id": 937,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -18771,7 +18773,7 @@
             "cvv": 757,
             "pin": 4373,
             "balance": "$900",
-            "price": 11,
+            "price": "2.64",
             "id": 938,
             "expirationYear": 2023,
             "expirationMonth": 4
@@ -18791,7 +18793,7 @@
             "cvv": 801,
             "pin": 8811,
             "balance": "$900",
-            "price": 7,
+            "price": "4.96",
             "id": 939,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -18811,7 +18813,7 @@
             "cvv": 182,
             "pin": 8194,
             "balance": "$900",
-            "price": 11,
+            "price": "5.22",
             "id": 940,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -18831,7 +18833,7 @@
             "cvv": 291,
             "pin": 3448,
             "balance": "$900",
-            "price": 9,
+            "price": "6.37",
             "id": 941,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -18851,7 +18853,7 @@
             "cvv": 308,
             "pin": 8500,
             "balance": "$900",
-            "price": 14,
+            "price": "3.30",
             "id": 942,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -18871,7 +18873,7 @@
             "cvv": 701,
             "pin": 7126,
             "balance": "$900",
-            "price": 14,
+            "price": "2.98",
             "id": 943,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -18891,7 +18893,7 @@
             "cvv": 624,
             "pin": 7807,
             "balance": "$900",
-            "price": 12,
+            "price": "2.00",
             "id": 944,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -18911,7 +18913,7 @@
             "cvv": 134,
             "pin": 3870,
             "balance": "$900",
-            "price": 9,
+            "price": "4.05",
             "id": 945,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -18931,7 +18933,7 @@
             "cvv": 877,
             "pin": 7786,
             "balance": "$900",
-            "price": 14,
+            "price": "6.47",
             "id": 946,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -18951,7 +18953,7 @@
             "cvv": 758,
             "pin": 1890,
             "balance": "$900",
-            "price": 7,
+            "price": "5.78",
             "id": 947,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -18971,7 +18973,7 @@
             "cvv": 209,
             "pin": 4371,
             "balance": "$900",
-            "price": 7,
+            "price": "7.67",
             "id": 948,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -18991,7 +18993,7 @@
             "cvv": 754,
             "pin": 2551,
             "balance": "$900",
-            "price": 6,
+            "price": "5.49",
             "id": 949,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -19011,7 +19013,7 @@
             "cvv": 755,
             "pin": 7870,
             "balance": "$900",
-            "price": 7,
+            "price": "4.47",
             "id": 950,
             "expirationYear": 2024,
             "expirationMonth": 10
@@ -19031,7 +19033,7 @@
             "cvv": 691,
             "pin": 4517,
             "balance": "$900",
-            "price": 8,
+            "price": "2.16",
             "id": 951,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -19051,7 +19053,7 @@
             "cvv": 425,
             "pin": 3753,
             "balance": "$900",
-            "price": 7,
+            "price": "6.72",
             "id": 952,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -19071,7 +19073,7 @@
             "cvv": 705,
             "pin": 1246,
             "balance": "$900",
-            "price": 13,
+            "price": "5.99",
             "id": 953,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -19091,7 +19093,7 @@
             "cvv": 111,
             "pin": 8081,
             "balance": "$900",
-            "price": 11,
+            "price": "3.66",
             "id": 954,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -19111,7 +19113,7 @@
             "cvv": 625,
             "pin": 7436,
             "balance": "$900",
-            "price": 14,
+            "price": "6.75",
             "id": 955,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -19131,7 +19133,7 @@
             "cvv": 491,
             "pin": 2350,
             "balance": "$900",
-            "price": 12,
+            "price": "2.29",
             "id": 956,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -19151,7 +19153,7 @@
             "cvv": 754,
             "pin": 6598,
             "balance": "$900",
-            "price": 8,
+            "price": "2.47",
             "id": 957,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -19171,7 +19173,7 @@
             "cvv": 478,
             "pin": 3816,
             "balance": "$900",
-            "price": 9,
+            "price": "6.55",
             "id": 958,
             "expirationYear": 2022,
             "expirationMonth": 2
@@ -19191,7 +19193,7 @@
             "cvv": 866,
             "pin": 6948,
             "balance": "$900",
-            "price": 14,
+            "price": "6.10",
             "id": 959,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -19211,7 +19213,7 @@
             "cvv": 339,
             "pin": 4874,
             "balance": "$900",
-            "price": 9,
+            "price": "4.51",
             "id": 960,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -19231,7 +19233,7 @@
             "cvv": 449,
             "pin": 3136,
             "balance": "$900",
-            "price": 12,
+            "price": "2.79",
             "id": 961,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -19251,7 +19253,7 @@
             "cvv": 388,
             "pin": 4932,
             "balance": "$900",
-            "price": 10,
+            "price": "5.03",
             "id": 962,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -19271,7 +19273,7 @@
             "cvv": 436,
             "pin": 6620,
             "balance": "$900",
-            "price": 14,
+            "price": "5.22",
             "id": 963,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -19291,7 +19293,7 @@
             "cvv": 693,
             "pin": 8714,
             "balance": "$900",
-            "price": 8,
+            "price": "2.60",
             "id": 964,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -19311,7 +19313,7 @@
             "cvv": 883,
             "pin": 8448,
             "balance": "$900",
-            "price": 10,
+            "price": "6.83",
             "id": 965,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -19331,7 +19333,7 @@
             "cvv": 643,
             "pin": 6964,
             "balance": "$900",
-            "price": 8,
+            "price": "7.05",
             "id": 966,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -19351,7 +19353,7 @@
             "cvv": 852,
             "pin": 4034,
             "balance": "$900",
-            "price": 14,
+            "price": "4.70",
             "id": 967,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -19371,7 +19373,7 @@
             "cvv": 426,
             "pin": 4623,
             "balance": "$900",
-            "price": 6,
+            "price": "7.30",
             "id": 968,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -19391,7 +19393,7 @@
             "cvv": 449,
             "pin": 6371,
             "balance": "$900",
-            "price": 12,
+            "price": "7.77",
             "id": 969,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -19411,7 +19413,7 @@
             "cvv": 374,
             "pin": 7824,
             "balance": "$900",
-            "price": 14,
+            "price": "7.76",
             "id": 970,
             "expirationYear": 2023,
             "expirationMonth": 1
@@ -19431,7 +19433,7 @@
             "cvv": 319,
             "pin": 7610,
             "balance": "$900",
-            "price": 14,
+            "price": "5.64",
             "id": 971,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -19451,7 +19453,7 @@
             "cvv": 425,
             "pin": 1093,
             "balance": "$900",
-            "price": 14,
+            "price": "7.20",
             "id": 972,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -19471,7 +19473,7 @@
             "cvv": 188,
             "pin": 5693,
             "balance": "$900",
-            "price": 11,
+            "price": "2.15",
             "id": 973,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -19491,7 +19493,7 @@
             "cvv": 549,
             "pin": 6281,
             "balance": "$900",
-            "price": 6,
+            "price": "3.91",
             "id": 974,
             "expirationYear": 2023,
             "expirationMonth": 7
@@ -19511,7 +19513,7 @@
             "cvv": 159,
             "pin": 7064,
             "balance": "$900",
-            "price": 13,
+            "price": "6.81",
             "id": 975,
             "expirationYear": 2023,
             "expirationMonth": 7
@@ -19531,7 +19533,7 @@
             "cvv": 795,
             "pin": 8662,
             "balance": "$900",
-            "price": 7,
+            "price": "6.86",
             "id": 976,
             "expirationYear": 2022,
             "expirationMonth": 5
@@ -19551,7 +19553,7 @@
             "cvv": 556,
             "pin": 4585,
             "balance": "$900",
-            "price": 14,
+            "price": "2.66",
             "id": 977,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -19571,7 +19573,7 @@
             "cvv": 562,
             "pin": 8201,
             "balance": "$900",
-            "price": 12,
+            "price": "2.21",
             "id": 978,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -19591,7 +19593,7 @@
             "cvv": 172,
             "pin": 4116,
             "balance": "$900",
-            "price": 14,
+            "price": "2.91",
             "id": 979,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -19611,7 +19613,7 @@
             "cvv": 422,
             "pin": 5326,
             "balance": "$900",
-            "price": 10,
+            "price": "2.33",
             "id": 980,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -19631,7 +19633,7 @@
             "cvv": 831,
             "pin": 8874,
             "balance": "$900",
-            "price": 7,
+            "price": "5.33",
             "id": 981,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -19651,7 +19653,7 @@
             "cvv": 104,
             "pin": 3241,
             "balance": "$900",
-            "price": 14,
+            "price": "4.47",
             "id": 982,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -19671,7 +19673,7 @@
             "cvv": 373,
             "pin": 8627,
             "balance": "$900",
-            "price": 11,
+            "price": "2.71",
             "id": 983,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -19691,7 +19693,7 @@
             "cvv": 704,
             "pin": 2567,
             "balance": "$900",
-            "price": 13,
+            "price": "7.22",
             "id": 984,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -19711,7 +19713,7 @@
             "cvv": 809,
             "pin": 5863,
             "balance": "$900",
-            "price": 6,
+            "price": "6.43",
             "id": 985,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -19731,7 +19733,7 @@
             "cvv": 209,
             "pin": 4236,
             "balance": "$900",
-            "price": 12,
+            "price": "7.65",
             "id": 986,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -19751,7 +19753,7 @@
             "cvv": 321,
             "pin": 4411,
             "balance": "$900",
-            "price": 14,
+            "price": "3.70",
             "id": 987,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -19771,7 +19773,7 @@
             "cvv": 388,
             "pin": 4911,
             "balance": "$900",
-            "price": 10,
+            "price": "7.98",
             "id": 988,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -19791,7 +19793,7 @@
             "cvv": 354,
             "pin": 2215,
             "balance": "$900",
-            "price": 13,
+            "price": "4.50",
             "id": 989,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -19811,7 +19813,7 @@
             "cvv": 423,
             "pin": 4788,
             "balance": "$900",
-            "price": 11,
+            "price": "7.42",
             "id": 990,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -19831,7 +19833,7 @@
             "cvv": 793,
             "pin": 5622,
             "balance": "$900",
-            "price": 8,
+            "price": "7.74",
             "id": 991,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -19851,7 +19853,7 @@
             "cvv": 115,
             "pin": 5731,
             "balance": "$900",
-            "price": 6,
+            "price": "2.50",
             "id": 992,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -19871,7 +19873,7 @@
             "cvv": 536,
             "pin": 8101,
             "balance": "$900",
-            "price": 6,
+            "price": "5.00",
             "id": 993,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -19891,7 +19893,7 @@
             "cvv": 605,
             "pin": 1782,
             "balance": "$900",
-            "price": 12,
+            "price": "7.14",
             "id": 994,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -19911,7 +19913,7 @@
             "cvv": 307,
             "pin": 3454,
             "balance": "$900",
-            "price": 11,
+            "price": "4.79",
             "id": 995,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -19931,7 +19933,7 @@
             "cvv": 346,
             "pin": 8599,
             "balance": "$900",
-            "price": 14,
+            "price": "5.99",
             "id": 996,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -19951,7 +19953,7 @@
             "cvv": 335,
             "pin": 7038,
             "balance": "$900",
-            "price": 7,
+            "price": "5.05",
             "id": 997,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -19971,7 +19973,7 @@
             "cvv": 150,
             "pin": 3270,
             "balance": "$900",
-            "price": 12,
+            "price": "2.40",
             "id": 998,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -19991,7 +19993,7 @@
             "cvv": 149,
             "pin": 2791,
             "balance": "$900",
-            "price": 9,
+            "price": "4.41",
             "id": 999,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -20011,7 +20013,7 @@
             "cvv": 175,
             "pin": 4968,
             "balance": "$900",
-            "price": 14,
+            "price": "3.97",
             "id": 1000,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -20031,7 +20033,7 @@
             "cvv": 608,
             "pin": 6538,
             "balance": "$900",
-            "price": 14,
+            "price": "3.62",
             "id": 1001,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -20051,7 +20053,7 @@
             "cvv": 617,
             "pin": 8777,
             "balance": "$900",
-            "price": 8,
+            "price": "2.59",
             "id": 1002,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -20071,7 +20073,7 @@
             "cvv": 262,
             "pin": 2379,
             "balance": "$900",
-            "price": 9,
+            "price": "4.22",
             "id": 1003,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -20091,7 +20093,7 @@
             "cvv": 448,
             "pin": 5403,
             "balance": "$900",
-            "price": 7,
+            "price": "4.33",
             "id": 1004,
             "expirationYear": 2022,
             "expirationMonth": 8
@@ -20111,7 +20113,7 @@
             "cvv": 588,
             "pin": 2907,
             "balance": "$900",
-            "price": 10,
+            "price": "6.40",
             "id": 1005,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -20131,7 +20133,7 @@
             "cvv": 785,
             "pin": 5721,
             "balance": "$900",
-            "price": 10,
+            "price": "4.13",
             "id": 1006,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -20151,7 +20153,7 @@
             "cvv": 241,
             "pin": 3286,
             "balance": "$900",
-            "price": 8,
+            "price": "5.36",
             "id": 1007,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -20171,7 +20173,7 @@
             "cvv": 583,
             "pin": 1499,
             "balance": "$900",
-            "price": 6,
+            "price": "4.87",
             "id": 1008,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -20191,7 +20193,7 @@
             "cvv": 899,
             "pin": 4639,
             "balance": "$900",
-            "price": 14,
+            "price": "2.03",
             "id": 1009,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -20211,7 +20213,7 @@
             "cvv": 625,
             "pin": 8096,
             "balance": "$900",
-            "price": 7,
+            "price": "3.87",
             "id": 1010,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -20231,7 +20233,7 @@
             "cvv": 858,
             "pin": 5203,
             "balance": "$900",
-            "price": 8,
+            "price": "7.22",
             "id": 1011,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -20251,7 +20253,7 @@
             "cvv": 691,
             "pin": 6084,
             "balance": "$900",
-            "price": 13,
+            "price": "7.61",
             "id": 1012,
             "expirationYear": 2024,
             "expirationMonth": 11
@@ -20271,7 +20273,7 @@
             "cvv": 861,
             "pin": 1728,
             "balance": "$900",
-            "price": 9,
+            "price": "7.90",
             "id": 1013,
             "expirationYear": 2024,
             "expirationMonth": 6
@@ -20291,7 +20293,7 @@
             "cvv": 255,
             "pin": 4731,
             "balance": "$900",
-            "price": 7,
+            "price": "6.21",
             "id": 1014,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -20311,7 +20313,7 @@
             "cvv": 832,
             "pin": 7365,
             "balance": "$900",
-            "price": 7,
+            "price": "5.11",
             "id": 1015,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -20331,7 +20333,7 @@
             "cvv": 383,
             "pin": 7720,
             "balance": "$900",
-            "price": 8,
+            "price": "7.50",
             "id": 1016,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -20351,7 +20353,7 @@
             "cvv": 422,
             "pin": 7099,
             "balance": "$900",
-            "price": 11,
+            "price": "5.88",
             "id": 1017,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -20371,7 +20373,7 @@
             "cvv": 661,
             "pin": 6524,
             "balance": "$900",
-            "price": 13,
+            "price": "4.05",
             "id": 1018,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -20391,7 +20393,7 @@
             "cvv": 594,
             "pin": 7965,
             "balance": "$900",
-            "price": 14,
+            "price": "3.50",
             "id": 1019,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -20411,7 +20413,7 @@
             "cvv": 495,
             "pin": 2071,
             "balance": "$900",
-            "price": 11,
+            "price": "5.10",
             "id": 1020,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -20431,7 +20433,7 @@
             "cvv": 624,
             "pin": 8371,
             "balance": "$900",
-            "price": 6,
+            "price": "5.04",
             "id": 1021,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -20451,7 +20453,7 @@
             "cvv": 202,
             "pin": 7576,
             "balance": "$900",
-            "price": 9,
+            "price": "5.54",
             "id": 1022,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -20471,7 +20473,7 @@
             "cvv": 787,
             "pin": 5412,
             "balance": "$900",
-            "price": 8,
+            "price": "2.21",
             "id": 1023,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -20491,7 +20493,7 @@
             "cvv": 171,
             "pin": 7123,
             "balance": "$900",
-            "price": 14,
+            "price": "3.89",
             "id": 1024,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -20511,7 +20513,7 @@
             "cvv": 301,
             "pin": 4110,
             "balance": "$900",
-            "price": 14,
+            "price": "3.59",
             "id": 1025,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -20531,7 +20533,7 @@
             "cvv": 709,
             "pin": 4031,
             "balance": "$900",
-            "price": 6,
+            "price": "4.80",
             "id": 1026,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -20551,7 +20553,7 @@
             "cvv": 307,
             "pin": 1041,
             "balance": "$900",
-            "price": 7,
+            "price": "3.49",
             "id": 1027,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -20571,7 +20573,7 @@
             "cvv": 844,
             "pin": 3854,
             "balance": "$900",
-            "price": 9,
+            "price": "5.94",
             "id": 1028,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -20591,7 +20593,7 @@
             "cvv": 384,
             "pin": 8239,
             "balance": "$900",
-            "price": 11,
+            "price": "2.76",
             "id": 1029,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -20611,7 +20613,7 @@
             "cvv": 407,
             "pin": 1338,
             "balance": "$900",
-            "price": 13,
+            "price": "2.82",
             "id": 1030,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -20631,7 +20633,7 @@
             "cvv": 718,
             "pin": 5628,
             "balance": "$900",
-            "price": 12,
+            "price": "4.69",
             "id": 1031,
             "expirationYear": 2024,
             "expirationMonth": 4
@@ -20651,7 +20653,7 @@
             "cvv": 265,
             "pin": 6436,
             "balance": "$900",
-            "price": 6,
+            "price": "7.41",
             "id": 1032,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -20671,7 +20673,7 @@
             "cvv": 459,
             "pin": 8121,
             "balance": "$900",
-            "price": 13,
+            "price": "7.87",
             "id": 1033,
             "expirationYear": 2023,
             "expirationMonth": 7
@@ -20691,7 +20693,7 @@
             "cvv": 894,
             "pin": 8252,
             "balance": "$900",
-            "price": 14,
+            "price": "3.30",
             "id": 1034,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -20711,7 +20713,7 @@
             "cvv": 756,
             "pin": 5701,
             "balance": "$900",
-            "price": 14,
+            "price": "3.38",
             "id": 1035,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -20731,7 +20733,7 @@
             "cvv": 285,
             "pin": 4316,
             "balance": "$900",
-            "price": 9,
+            "price": "7.75",
             "id": 1036,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -20751,7 +20753,7 @@
             "cvv": 388,
             "pin": 1116,
             "balance": "$900",
-            "price": 6,
+            "price": "3.45",
             "id": 1037,
             "expirationYear": 2022,
             "expirationMonth": 11
@@ -20771,7 +20773,7 @@
             "cvv": 649,
             "pin": 7142,
             "balance": "$900",
-            "price": 13,
+            "price": "6.86",
             "id": 1038,
             "expirationYear": 2024,
             "expirationMonth": 2
@@ -20791,7 +20793,7 @@
             "cvv": 479,
             "pin": 3618,
             "balance": "$900",
-            "price": 14,
+            "price": "6.73",
             "id": 1039,
             "expirationYear": 2024,
             "expirationMonth": 7
@@ -20811,7 +20813,7 @@
             "cvv": 793,
             "pin": 3917,
             "balance": "$900",
-            "price": 9,
+            "price": "6.41",
             "id": 1040,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -20831,7 +20833,7 @@
             "cvv": 736,
             "pin": 3134,
             "balance": "$900",
-            "price": 9,
+            "price": "3.60",
             "id": 1041,
             "expirationYear": 2021,
             "expirationMonth": 1
@@ -20851,7 +20853,7 @@
             "cvv": 729,
             "pin": 2029,
             "balance": "$900",
-            "price": 10,
+            "price": "7.67",
             "id": 1042,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -20871,7 +20873,7 @@
             "cvv": 871,
             "pin": 3853,
             "balance": "$900",
-            "price": 7,
+            "price": "6.54",
             "id": 1043,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -20891,7 +20893,7 @@
             "cvv": 629,
             "pin": 3238,
             "balance": "$900",
-            "price": 10,
+            "price": "2.49",
             "id": 1044,
             "expirationYear": 2023,
             "expirationMonth": 7
@@ -20911,7 +20913,7 @@
             "cvv": 824,
             "pin": 1605,
             "balance": "$900",
-            "price": 12,
+            "price": "6.48",
             "id": 1045,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -20931,7 +20933,7 @@
             "cvv": 614,
             "pin": 4836,
             "balance": "$900",
-            "price": 14,
+            "price": "2.54",
             "id": 1046,
             "expirationYear": 2023,
             "expirationMonth": 1
@@ -20951,7 +20953,7 @@
             "cvv": 316,
             "pin": 1810,
             "balance": "$900",
-            "price": 10,
+            "price": "7.31",
             "id": 1047,
             "expirationYear": 2023,
             "expirationMonth": 1
@@ -20971,7 +20973,7 @@
             "cvv": 579,
             "pin": 2297,
             "balance": "$900",
-            "price": 9,
+            "price": "4.04",
             "id": 1048,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -20991,7 +20993,7 @@
             "cvv": 204,
             "pin": 8939,
             "balance": "$900",
-            "price": 7,
+            "price": "5.74",
             "id": 1049,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -21011,7 +21013,7 @@
             "cvv": 235,
             "pin": 7159,
             "balance": "$900",
-            "price": 8,
+            "price": "7.06",
             "id": 1050,
             "expirationYear": 2022,
             "expirationMonth": 9
@@ -21031,7 +21033,7 @@
             "cvv": 805,
             "pin": 8886,
             "balance": "$900",
-            "price": 9,
+            "price": "4.69",
             "id": 1051,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -21051,7 +21053,7 @@
             "cvv": 622,
             "pin": 2884,
             "balance": "$900",
-            "price": 6,
+            "price": "2.90",
             "id": 1052,
             "expirationYear": 2023,
             "expirationMonth": 2
@@ -21071,7 +21073,7 @@
             "cvv": 227,
             "pin": 5047,
             "balance": "$900",
-            "price": 10,
+            "price": "3.82",
             "id": 1053,
             "expirationYear": 2021,
             "expirationMonth": 6
@@ -21091,7 +21093,7 @@
             "cvv": 113,
             "pin": 8428,
             "balance": "$900",
-            "price": 6,
+            "price": "5.42",
             "id": 1054,
             "expirationYear": 2024,
             "expirationMonth": 8
@@ -21111,7 +21113,7 @@
             "cvv": 575,
             "pin": 1493,
             "balance": "$900",
-            "price": 8,
+            "price": "4.54",
             "id": 1055,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -21131,7 +21133,7 @@
             "cvv": 113,
             "pin": 3190,
             "balance": "$900",
-            "price": 8,
+            "price": "7.58",
             "id": 1056,
             "expirationYear": 2024,
             "expirationMonth": 9
@@ -21151,7 +21153,7 @@
             "cvv": 863,
             "pin": 5602,
             "balance": "$900",
-            "price": 14,
+            "price": "6.80",
             "id": 1057,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -21171,7 +21173,7 @@
             "cvv": 607,
             "pin": 7999,
             "balance": "$900",
-            "price": 14,
+            "price": "5.76",
             "id": 1058,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -21191,7 +21193,7 @@
             "cvv": 871,
             "pin": 6023,
             "balance": "$900",
-            "price": 14,
+            "price": "6.58",
             "id": 1059,
             "expirationYear": 2022,
             "expirationMonth": 3
@@ -21211,7 +21213,7 @@
             "cvv": 417,
             "pin": 5763,
             "balance": "$900",
-            "price": 8,
+            "price": "3.28",
             "id": 1060,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -21231,7 +21233,7 @@
             "cvv": 448,
             "pin": 5657,
             "balance": "$900",
-            "price": 11,
+            "price": "4.74",
             "id": 1061,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -21251,7 +21253,7 @@
             "cvv": 696,
             "pin": 6947,
             "balance": "$900",
-            "price": 13,
+            "price": "7.49",
             "id": 1062,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -21271,7 +21273,7 @@
             "cvv": 158,
             "pin": 6321,
             "balance": "$900",
-            "price": 14,
+            "price": "2.18",
             "id": 1063,
             "expirationYear": 2023,
             "expirationMonth": 8
@@ -21291,7 +21293,7 @@
             "cvv": 656,
             "pin": 6919,
             "balance": "$900",
-            "price": 8,
+            "price": "3.98",
             "id": 1064,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -21311,7 +21313,7 @@
             "cvv": 464,
             "pin": 1629,
             "balance": "$900",
-            "price": 11,
+            "price": "4.72",
             "id": 1065,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -21331,7 +21333,7 @@
             "cvv": 577,
             "pin": 6923,
             "balance": "$900",
-            "price": 14,
+            "price": "5.72",
             "id": 1066,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -21351,7 +21353,7 @@
             "cvv": 689,
             "pin": 4822,
             "balance": "$900",
-            "price": 12,
+            "price": "4.70",
             "id": 1067,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -21371,7 +21373,7 @@
             "cvv": 662,
             "pin": 8818,
             "balance": "$900",
-            "price": 12,
+            "price": "5.68",
             "id": 1068,
             "expirationYear": 2022,
             "expirationMonth": 4
@@ -21391,7 +21393,7 @@
             "cvv": 750,
             "pin": 3054,
             "balance": "$900",
-            "price": 10,
+            "price": "6.36",
             "id": 1069,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -21411,7 +21413,7 @@
             "cvv": 571,
             "pin": 8412,
             "balance": "$900",
-            "price": 12,
+            "price": "3.12",
             "id": 1070,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -21431,7 +21433,7 @@
             "cvv": 761,
             "pin": 6849,
             "balance": "$900",
-            "price": 9,
+            "price": "2.06",
             "id": 1071,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -21451,7 +21453,7 @@
             "cvv": 391,
             "pin": 2990,
             "balance": "$900",
-            "price": 13,
+            "price": "3.60",
             "id": 1072,
             "expirationYear": 2021,
             "expirationMonth": 7
@@ -21471,7 +21473,7 @@
             "cvv": 399,
             "pin": 6058,
             "balance": "$900",
-            "price": 14,
+            "price": "4.93",
             "id": 1073,
             "expirationYear": 2023,
             "expirationMonth": 11
@@ -21491,7 +21493,7 @@
             "cvv": 359,
             "pin": 5142,
             "balance": "$900",
-            "price": 12,
+            "price": "5.81",
             "id": 1074,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -21511,7 +21513,7 @@
             "cvv": 488,
             "pin": 8077,
             "balance": "$900",
-            "price": 9,
+            "price": "2.31",
             "id": 1075,
             "expirationYear": 2021,
             "expirationMonth": 10
@@ -21531,7 +21533,7 @@
             "cvv": 259,
             "pin": 3095,
             "balance": "$900",
-            "price": 12,
+            "price": "7.51",
             "id": 1076,
             "expirationYear": 2021,
             "expirationMonth": 11
@@ -21551,7 +21553,7 @@
             "cvv": 179,
             "pin": 4700,
             "balance": "$900",
-            "price": 11,
+            "price": "5.11",
             "id": 1077,
             "expirationYear": 2021,
             "expirationMonth": 3
@@ -21571,7 +21573,7 @@
             "cvv": 212,
             "pin": 3409,
             "balance": "$900",
-            "price": 7,
+            "price": "3.61",
             "id": 1078,
             "expirationYear": 2022,
             "expirationMonth": 7
@@ -21591,7 +21593,7 @@
             "cvv": 841,
             "pin": 5558,
             "balance": "$900",
-            "price": 7,
+            "price": "4.80",
             "id": 1079,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -21611,7 +21613,7 @@
             "cvv": 486,
             "pin": 2915,
             "balance": "$900",
-            "price": 12,
+            "price": "5.05",
             "id": 1080,
             "expirationYear": 2024,
             "expirationMonth": 3
@@ -21631,7 +21633,7 @@
             "cvv": 308,
             "pin": 8160,
             "balance": "$900",
-            "price": 6,
+            "price": "3.15",
             "id": 1081,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -21651,7 +21653,7 @@
             "cvv": 108,
             "pin": 2619,
             "balance": "$900",
-            "price": 6,
+            "price": "3.40",
             "id": 1082,
             "expirationYear": 2024,
             "expirationMonth": 5
@@ -21671,7 +21673,7 @@
             "cvv": 124,
             "pin": 7618,
             "balance": "$900",
-            "price": 11,
+            "price": "3.19",
             "id": 1083,
             "expirationYear": 2024,
             "expirationMonth": 1
@@ -21691,7 +21693,7 @@
             "cvv": 865,
             "pin": 5448,
             "balance": "$900",
-            "price": 7,
+            "price": "6.19",
             "id": 1084,
             "expirationYear": 2022,
             "expirationMonth": 6
@@ -21711,7 +21713,7 @@
             "cvv": 677,
             "pin": 4553,
             "balance": "$900",
-            "price": 14,
+            "price": "3.23",
             "id": 1085,
             "expirationYear": 2022,
             "expirationMonth": 2
@@ -21731,7 +21733,7 @@
             "cvv": 418,
             "pin": 3029,
             "balance": "$900",
-            "price": 8,
+            "price": "2.09",
             "id": 1086,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -21751,7 +21753,7 @@
             "cvv": 300,
             "pin": 5352,
             "balance": "$900",
-            "price": 14,
+            "price": "3.06",
             "id": 1087,
             "expirationYear": 2021,
             "expirationMonth": 5
@@ -21771,7 +21773,7 @@
             "cvv": 289,
             "pin": 1866,
             "balance": "$900",
-            "price": 6,
+            "price": "2.00",
             "id": 1088,
             "expirationYear": 2021,
             "expirationMonth": 2
@@ -21791,7 +21793,7 @@
             "cvv": 499,
             "pin": 7936,
             "balance": "$900",
-            "price": 14,
+            "price": "7.81",
             "id": 1089,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -21811,7 +21813,7 @@
             "cvv": 714,
             "pin": 7269,
             "balance": "$900",
-            "price": 13,
+            "price": "5.28",
             "id": 1090,
             "expirationYear": 2023,
             "expirationMonth": 6
@@ -21831,7 +21833,7 @@
             "cvv": 733,
             "pin": 2903,
             "balance": "$900",
-            "price": 12,
+            "price": "6.09",
             "id": 1091,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -21851,7 +21853,7 @@
             "cvv": 528,
             "pin": 6660,
             "balance": "$900",
-            "price": 10,
+            "price": "7.16",
             "id": 1092,
             "expirationYear": 2023,
             "expirationMonth": 5
@@ -21871,7 +21873,7 @@
             "cvv": 285,
             "pin": 3534,
             "balance": "$900",
-            "price": 7,
+            "price": "6.11",
             "id": 1093,
             "expirationYear": 2023,
             "expirationMonth": 10
@@ -21891,7 +21893,7 @@
             "cvv": 106,
             "pin": 2414,
             "balance": "$900",
-            "price": 12,
+            "price": "3.61",
             "id": 1094,
             "expirationYear": 2023,
             "expirationMonth": 3
@@ -21911,7 +21913,7 @@
             "cvv": 434,
             "pin": 8600,
             "balance": "$900",
-            "price": 6,
+            "price": "4.10",
             "id": 1095,
             "expirationYear": 2021,
             "expirationMonth": 4
@@ -21931,7 +21933,7 @@
             "cvv": 143,
             "pin": 7528,
             "balance": "$900",
-            "price": 11,
+            "price": "5.79",
             "id": 1096,
             "expirationYear": 2023,
             "expirationMonth": 9
@@ -21951,7 +21953,7 @@
             "cvv": 526,
             "pin": 8109,
             "balance": "$900",
-            "price": 10,
+            "price": "7.87",
             "id": 1097,
             "expirationYear": 2021,
             "expirationMonth": 8
@@ -21971,7 +21973,7 @@
             "cvv": 741,
             "pin": 1624,
             "balance": "$900",
-            "price": 14,
+            "price": "6.19",
             "id": 1098,
             "expirationYear": 2022,
             "expirationMonth": 10
@@ -21991,7 +21993,7 @@
             "cvv": 891,
             "pin": 6741,
             "balance": "$900",
-            "price": 7,
+            "price": "4.96",
             "id": 1099,
             "expirationYear": 2022,
             "expirationMonth": 1
@@ -22005,6 +22007,7 @@
       }
     ];
 
+   
     /** 
     // modified card is an original card to scm
     let card = {

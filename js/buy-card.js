@@ -10,11 +10,11 @@ console.log(("report to us and we shall test it and replace it for you for free"
 new TypeIt("#info-content", {
   strings: "We provide you with the best Credit Cards.",
   speed: 75,
-  loop: false,
-}).pause(5000)
+  loop: true,
+}).pause(1000)
 .delete(-42)
 .type("All cards are tested before posted here.")
-.pause(5000)
+.pause(1000)
 .delete(-40)
 .type("if your purchased card is not working ")
 .type("report to us and we shall test and replace it for you for free")

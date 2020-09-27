@@ -11,6 +11,7 @@ function renderBuyCardTable(){
   
   let table = $('#myTable').DataTable({
     pageLength: 25,
+    order: [[5,"asc"]],
     data: cardObjects,
     columns: [
       {data: "data.card.network"},
@@ -287,3 +288,11 @@ function transferButtonClicked(){
   swal("OUT OF CASH","Your balance is too low");
 }
 
+//number generators
+function getNumBetween (num1 , num2){
+  let min = num1
+  let max = num2
+  let randomNum = (Math.random() * (max - min + 1)) + min;
+
+  return randomNum.toFixed(2);
+}
