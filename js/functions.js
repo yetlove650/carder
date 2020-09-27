@@ -216,14 +216,23 @@ function getTotal(){
 
 function checkOut(msg){
   let btnCheckOut = document.getElementById("checkout_btn");
+  let alertMsgFromExScam = localStorage.getItem("alertMessage");
+   
   btnCheckOut.addEventListener("click",()=>{
+    
    // swal("clicked");
     let chart = JSON.parse(localStorage.getItem("chart"));
     console.log(chart.length);
-    if(chart.length > 0){
+
+    if(chart.length > 0 && alertMsgFromExScam === "failed"){
        // hard coded value. change code to desired output
-       alertMessage("success");
-    }else{
+       alertMessage("failed");
+
+    }else if(chart.length > 0 && alertMsgFromExScam === null){
+      alertMessage("success");
+      
+    }
+    else{
       swal("You Have An Empty Chart , please.");
     }
 
