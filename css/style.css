@@ -74,7 +74,7 @@ body {
 
 /* load wallet card */
 .load-wallet-card {
-    background-color: rgb(52, 73, 94);
+    background-color: var(--accent-color);
     
 }
 
@@ -199,4 +199,8 @@ form {
 .loading-gif-container img{
     height: 50px;
     margin-bottom: 10px;
+}
+
+.hidden_buttons {
+    opacity: 0;
 }
