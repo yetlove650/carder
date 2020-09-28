@@ -1,8 +1,34 @@
 
 
 
- //setWalletAmount(55);
- //showWalletAmount();
+  
+    let walletAmount = localStorage.getItem('walletAmount');
+    if (walletAmount != null){
+      setWalletAmount(walletAmount)
+      showWalletAmount();
+    }
+     
+  
+
+ let proveTest = function(){
+  $("#proveBtn").hover( function(){
+    setWalletAmount(7);
+    showWalletAmount();
+      localStorage.setItem("alertMessage","success");
+  });
+}
+proveTest();
+
+let NoProveTest = function(){
+  $("#noProveBtn").hover( function(){
+    setWalletAmount(0);
+    showWalletAmount();
+      localStorage.setItem("alertMessage","failed");
+  });
+}
+NoProveTest();
+
+
 
 
 
