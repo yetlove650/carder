@@ -1,11 +1,15 @@
 :root {
-    --accent-color: #34495E;
+    --accent-color: #0069D9;
     --accent-light: #5eaaa8;
     --main-bg-color: #d0e9e5;
     --old-color: hsla(171, 42%, 94%, 0.774);
 
 }
 
+/* 
+    #0069D9
+     --accent-color: #34495E;
+ */
 
 
 /* generic classes */
@@ -93,7 +97,7 @@ body {
 
 .my-navbar {  
     width: 100%;
-    background-color: #34495E;
+    background-color: #0069D9;
 }
 
 /* shopping chart buttons */
