@@ -1,13 +1,13 @@
 
   // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyCE351TvDwT-6RyudkUjye4sr9ZWoCe5OE",
-    authDomain: "top-carder.firebaseapp.com",
-    databaseURL: "https://top-carder.firebaseio.com",
-    projectId: "top-carder",
-    storageBucket: "top-carder.appspot.com",
-    messagingSenderId: "731877222333",
-    appId: "1:731877222333:web:0eb5720108110b2e17d4d4"
+    apiKey: "AIzaSyDL8zYIR0E15N68_3kMMsRRJamjjBFHw3k",
+    authDomain: "top-carder-fc437.firebaseapp.com",
+    databaseURL: "https://top-carder-fc437.firebaseio.com",
+    projectId: "top-carder-fc437",
+    storageBucket: "top-carder-fc437.appspot.com",
+    messagingSenderId: "559715167106",
+    appId: "1:559715167106:web:bdcd1cf880d18ee6943d9b"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
