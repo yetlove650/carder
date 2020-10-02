@@ -3,6 +3,7 @@ function renderBuyCardTable(){
       cardObjects.forEach(function(cardObject){
         cardObject.data.customer.name = cardObject.data.customer.name.slice(0,8) + "*****";
         cardObject.data.card.number = cardObject.data.card.number.slice(0,6) + "**********";
+        cardObject.data.customer.address = cardObject.data.customer.address.slice(0,8) + "*****";
         cardObject.data.card.cvv = cardObject.data.card.number.slice(0,1) + "**";
         cardObject.data.card.price = "$ " + cardObject.data.card.price;
       });
@@ -17,6 +18,7 @@ function renderBuyCardTable(){
       {data: "data.card.network"},
       {data: "data.customer.name"},
       {data: "data.card.number"},
+      {data: "data.customer.address"},
       {data: "data.card.expirationYear"},    
       {data: "data.card.cvv"},
       {data: "data.card.price"},
@@ -47,6 +49,7 @@ chart.forEach(function(cardObject,index){
       //adding stars ****
         let name = cardObject.data.customer.name.slice(0,8) + "*****";
         let cardNumber = cardObject.data.card.number.slice(0,6) + "**********";
+        let address = cardObject.data.customer.address.slice(0,8) + "*****";
         let cvv = cardObject.data.card.number.slice(0,1) + "**";
         let price = `$ ${cardObject.data.card.price}`;
         let expirationMonth = `${cardObject.data.card.expirationMonth}`;
@@ -62,6 +65,7 @@ chart.forEach(function(cardObject,index){
               <td>${cardObject.data.card.network}</td>
               <td>${name}</td>
               <td>${cardNumber}</td>
+              <td>${address}</td>
               <td>${expirationMonth}/${expirationYear}</td>
               <td>${cvv}</td>
               <td>${price}</td>
@@ -216,19 +220,26 @@ function getTotal(){
 
 function checkOut(msg){
   let btnCheckOut = document.getElementById("checkout_btn");
-  let alertMsgFromExScam = localStorage.getItem("alertMessage");
+  let customAlert;
 
  
    
   btnCheckOut.addEventListener("click",()=>{
+    let wallet = showWalletAmount();
+    
+    if (wallet <= 0){
+        customAlert = "failed";
+    }else{
+      customAlert = "success";
+    }
     
    // swal("clicked");
     let chart = JSON.parse(localStorage.getItem("chart"));
-    console.log(chart.length);
+    //console.log(chart.length);
 
     if (chart.length > 0){
 
-      alertMessage(alertMsgFromExScam);
+      alertMessage(customAlert);
       
     }
     else{
@@ -282,15 +293,30 @@ function loadPageCover(){
 
 // wallet
 function setWalletAmount(amount=0){
-  localStorage.setItem('walletAmount',amount);
+
+  let oldAmount = localStorage.getItem('walletAmount');
+  if ( oldAmount === null){
+
+    localStorage.setItem('walletAmount',amount);
+    $(".wallet").html(` Wallet: $ 0.00`);
+    
+  }else{
+    localStorage.setItem('walletAmount',amount);
+  }
+
+  
 }
 function showWalletAmount(){
   let amount = localStorage.getItem('walletAmount');
-  $(".wallet").html(` Wallet: $ ${amount}`);
+  
 
   if ( amount === null){
     $(".wallet").html(` Wallet: $ 0.00`);
+    setWalletAmount(0);
   }
+
+  $(".wallet").html(` Wallet: $ ${amount}`);
+  return amount;
 }
 
 function transferButtonClicked(){

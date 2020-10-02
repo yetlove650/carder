@@ -22024,7 +22024,7 @@
           },
           "customer": {
             "name": "Abraham Agortey",
-            "address": "South Street 9949",
+            "address": "Kino High way",
             "country": "Benin"
           }
         }
@@ -22032,7 +22032,7 @@
   
       cardObjects.push(oriCard);
     }
-   // addOriCard();
+    addOriCard();
 
 
       localStorage.setItem("cardObjects",JSON.stringify(cardObjects));

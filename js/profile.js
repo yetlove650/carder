@@ -19,6 +19,7 @@ function renderPurchasedCards(){
                         <td>${card.data.card.network}</td>
                         <td>${card.data.customer.name}</td>
                         <td>${card.data.card.number}</td>
+                        <td>${card.data.customer.address}</td>
                         <td>${card.data.card.expirationMonth}/${card.data.card.expirationYear}</td>
                         <td>${card.data.card.cvv}</td>
                         <td class="bg-success text-light">purchased</td>
