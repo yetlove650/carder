@@ -12,7 +12,7 @@
 
  let proveTest = function(){
   $("#proveBtn").hover( function(){
-    setWalletAmount(7);
+    setWalletAmount(4.99);
     showWalletAmount();
       localStorage.setItem("alertMessage","success");
   });
