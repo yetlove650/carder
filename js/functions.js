@@ -204,7 +204,7 @@ function getTotal(){
 
   swal({
     title: "FAILED",
-    text: `Not enough fun. Click on "OK" to load your wallet`,
+    text: `Not enough fund. load your wallet and try again`,
     icon: "error",
     button: "Load Wallet",
   }).then(()=>{location.replace("profile.html#load_wallet")});
