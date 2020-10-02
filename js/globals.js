@@ -22019,7 +22019,7 @@
             "balance": "$900",
             "expirationMonth": 7,
             "expirationYear": "2021",
-            "price": 5.23,
+            "price": 4.23,
             "id": -1
           },
           "customer": {
